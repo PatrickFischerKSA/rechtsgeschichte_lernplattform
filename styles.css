@@ -812,6 +812,29 @@ textarea {
   border-color: var(--red);
 }
 
+.control-feedback.ok,
+.feedback.ok .feedback-card {
+  border-color: var(--green);
+}
+
+.control-feedback.warn,
+.feedback.warn .feedback-card {
+  border-color: var(--red);
+}
+
+.model-solution {
+  display: grid;
+  gap: 4px;
+  margin-top: 8px;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid var(--line);
+}
+
+.model-solution p {
+  margin: 0;
+}
+
 .timer {
   display: inline-flex;
   align-items: center;

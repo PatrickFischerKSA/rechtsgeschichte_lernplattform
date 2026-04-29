@@ -568,7 +568,16 @@ const microExerciseSets = {
   ]
 };
 
+const examModelSolutions = {
+  source: "Eine tragfähige Lösung fasst zunächst knapp zusammen: Eine kirchliche Autorität ordnet ein Studium generale, privilegiert Lehrende und Studierende und sichert die Ordnung mit Sanktionen. Sachlich liegen mindestens zwei Themenkreise nahe: gelehrtes Recht/Universität mit Privilegien, Status und Gerichtsbarkeit sowie kirchliche Autorität mit Sanktion und weltlichem Arm. Die Verortung gehört ins Hoch- oder Spätmittelalter, weil Studium generale, kanonisches und weltliches Recht, päpstliche Autorität und Exkommunikation zusammen auftreten. Gegenwartsbezüge sind nur strukturell zulässig, etwa zu Hochschulautonomie, Zuständigkeitsordnung oder Rechtsschutz, nicht als Gleichsetzung.",
+  absolutism: "Eine starke Antwort beschreibt Absolutismus als Verdichtung monarchischer Herrschaft durch Gesetzgebung, Verwaltung, Rechtsprechung, stehendes Heer und Wirtschaftslenkung. Entstehungsbedingungen sind Konfessionalisierung, Krieg, Finanzbedarf, Territorialisierung und Sozialdisziplinierung. Bodin begründet Souveränität als höchste dauerhafte Gewalt; Hobbes legitimiert starke Herrschaft aus Sicherheitsbedürfnis und Bürgerkriegserfahrung. Konsequenzen sind Bürokratisierung, Policey, Merkantilismus, militärische Organisation und Zurückdrängung ständischer Mitwirkung.",
+  revolution: "Eine tragfähige Antwort deutet 1798 als Folge der Französischen Revolution für die Schweiz: Freiheit, Gleichheit und demokratische Sprache treffen auf Besatzung, Gewaltangst, bäuerliche Mobilisierung und politische Zentralisierung. Wichtig ist die Ambivalenz: Untertanenverhältnisse werden angegriffen, zugleich entstehen Abhängigkeit von französischer Macht und autoritäre Elemente. Rechtlich geht es um Verfassung, Bürgerstatus, Gleichheit, Eigentum, staatliche Neuordnung und Konflikte zwischen lokaler Ordnung und zentralem Anspruch.",
+  ns: "Eine tragfähige Antwort erklärt zuerst die Anfälligkeit nach 1919: Weimarer Belastungen, Versailles, Krisen, Radikalisierung, Inflation und Arbeitslosigkeit. Ab 1933 wird Recht durch Ermächtigungsgesetz, Führerprinzip, Gleichschaltung, Sondergerichte, Einheitspartei und Sonderrecht umgebaut. Antisemitismus wird rassistisch-biologistisch aufgeladen und rechtlich operationalisiert, etwa in Reichsbürgerrecht, Blutschutz, Eheverboten und Ausschluss aus voller Rechtsstellung. Nach 1945 reagieren Menschenrechte, internationale Ordnung und Radbruch-Formel auf extremes Unrecht."
+};
+
 const state = JSON.parse(localStorage.getItem("rg-lab-state") || '{"done":[],"cards":0,"lastExam":null}');
+state.correctionAttempts ||= {};
+state.unlockedSolutions ||= {};
 
 function escapeHtml(value) {
   return String(value)
@@ -588,6 +597,43 @@ function normalizeGerman(value) {
     .replaceAll("ß", "ss")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
+}
+
+function modelSolutionBlock(key, solution) {
+  return state.unlockedSolutions[key]
+    ? `<div class="model-solution"><strong>Musterlösung</strong><p>${escapeHtml(solution)}</p></div>`
+    : "";
+}
+
+function stagedCorrection(key, passed, hint, solution) {
+  if (passed) {
+    state.correctionAttempts[key] = 0;
+    saveState();
+    return {
+      className: "ok",
+      html: `<strong>Korrekt.</strong>${modelSolutionBlock(key, solution)}`
+    };
+  }
+
+  const attempts = (state.correctionAttempts[key] || 0) + 1;
+  state.correctionAttempts[key] = attempts;
+  if (attempts >= 3) state.unlockedSolutions[key] = true;
+  saveState();
+
+  if (attempts === 1) {
+    return { className: "warn", html: "<strong>Falsch.</strong>" };
+  }
+  if (attempts === 2) {
+    return { className: "warn", html: `<strong>Falsch.</strong><p>${escapeHtml(hint)}</p>` };
+  }
+  return {
+    className: "warn",
+    html: `<strong>Falsch.</strong>${modelSolutionBlock(key, solution)}`
+  };
+}
+
+function compactModelSolution(prompt, expected) {
+  return `${prompt} Tragfähig ist eine Antwort, die ${expected.slice(0, 5).join(", ")} einbezieht und diese Begriffe als historische Indizien oder Erklärungsbausteine verwendet.`;
 }
 
 function saveState() {
@@ -660,14 +706,22 @@ function evaluateControlQuestion(button) {
   if (hasCausal) score += 1;
   if (hasContrast || hasSourceLogic) score += 1;
   const maxScore = 6;
+  const key = `control-${moduleIndex}-${questionIndex}`;
+  const passed = score >= maxScore - 1;
+  const hint = `Ergänze die fehlenden tragenden Begriffe (${missing.join(", ") || "keine"}) und achte auf Kausalität, Abgrenzung sowie Rückbindung an die Quelle.`;
+  const solution = compactModelSolution(typeof question.prompt === "function" ? question.prompt(module) : question.prompt, question.expected);
+  const correction = stagedCorrection(key, passed, hint, solution);
+  feedback.className = `control-feedback ${correction.className}`;
   feedback.innerHTML = `
-    <strong>${score}/${maxScore} Kriterien erfüllt</strong>
-    <p>${escapeHtml(correctionMessage(score, maxScore, uniqueHits, missing, words.length))}</p>
-    <ul>
-      <li>Mindestumfang: ${words.length}/${question.minWords} Wörter</li>
-      <li>Fachbegriffe: ${uniqueHits.length ? escapeHtml(uniqueHits.join(", ")) : "noch keine tragenden Treffer"}</li>
-      <li>Argumentationsstruktur: ${hasCausal ? "Kausalität vorhanden" : "Kausalität fehlt"}; ${hasContrast ? "Abgrenzung vorhanden" : "Abgrenzung schwach"}; ${hasSourceLogic ? "Quellenlogik vorhanden" : "Quellenlogik fehlt"}</li>
-    </ul>
+    ${correction.html}
+    ${passed ? `
+      <p>${score}/${maxScore} Kriterien erfüllt. ${escapeHtml(correctionMessage(score, maxScore, uniqueHits, missing, words.length))}</p>
+      <ul>
+        <li>Mindestumfang: ${words.length}/${question.minWords} Wörter</li>
+        <li>Fachbegriffe: ${uniqueHits.length ? escapeHtml(uniqueHits.join(", ")) : "noch keine tragenden Treffer"}</li>
+        <li>Argumentationsstruktur: ${hasCausal ? "Kausalität vorhanden" : "Kausalität fehlt"}; ${hasContrast ? "Abgrenzung vorhanden" : "Abgrenzung schwach"}; ${hasSourceLogic ? "Quellenlogik vorhanden" : "Quellenlogik fehlt"}</li>
+      </ul>
+    ` : ""}
   `;
 }
 
@@ -911,10 +965,16 @@ function evaluateMicroExercise(button) {
   const uniqueHits = [...new Set(hits)];
   const hasCausal = /\b(weil|deshalb|daher|folglich|fuehrt|bedingt|zeigt|spricht|deutet)\b/.test(answer);
   const passed = uniqueHits.length >= exercise.minHits;
-  feedback.className = `micro-feedback ${passed ? "ok" : "warn"}`;
-  feedback.innerHTML = passed
-    ? `<strong>Richtig tragfähig.</strong> Treffer: ${escapeHtml(uniqueHits.join(", "))}${hasCausal ? "." : ". Ergänze bei längeren Antworten noch eine Begründung."}`
-    : `<strong>Noch zu ungenau.</strong> Erwartet werden mindestens ${exercise.minHits} tragende Signale. Hinweis: ${escapeHtml(exercise.hint)} Fehlend: ${escapeHtml(exercise.expected.filter((keyword) => !uniqueHits.includes(keyword)).slice(0, 4).join(", "))}.`;
+  const key = `micro-${step}-${exerciseIndex}`;
+  const missing = exercise.expected.filter((keyword) => !uniqueHits.includes(keyword)).slice(0, 4);
+  const solution = compactModelSolution(exercise.prompt, exercise.expected);
+  const correction = stagedCorrection(key, passed, exercise.hint, solution);
+  feedback.className = `micro-feedback ${correction.className}`;
+  feedback.innerHTML = `
+    ${correction.html}
+    ${passed ? `<p>Treffer: ${escapeHtml(uniqueHits.join(", "))}${hasCausal ? "." : ". Bei längeren Antworten noch eine Begründung ergänzen."}</p>` : ""}
+    ${!passed && state.unlockedSolutions[key] ? `<p>Fehlend: ${escapeHtml(missing.join(", "))}.</p>` : ""}
+  `;
 }
 
 function renderMaterials() {
@@ -959,15 +1019,17 @@ function renderMaterials() {
 function evaluate(key) {
   const feedback = document.querySelector(`#feedback-${key}`);
   const scope = document.querySelector(`#${key}`);
-  const text = [...scope.querySelectorAll("textarea")].map((area) => area.value.toLowerCase()).join(" ");
+  const text = normalizeGerman([...scope.querySelectorAll("textarea")].map((area) => area.value).join(" "));
   const rubric = rubrics[key];
   let total = 0;
   const max = rubric.reduce((sum, item) => sum + item[1], 0);
+  const missingLabels = [];
   const cards = rubric.map(([label, points, words]) => {
-    const hits = words.filter((word) => text.includes(word.toLowerCase()));
+    const hits = words.filter((word) => text.includes(normalizeGerman(word)));
     const score = Math.min(points, Math.round((hits.length / Math.max(3, words.length * 0.55)) * points));
     total += score;
     const missing = words.filter((word) => !hits.includes(word)).slice(0, 4);
+    if (score < Math.ceil(points * 0.6)) missingLabels.push(label);
     return `
       <div class="feedback-card">
         <strong>${label}: ${score}/${points}</strong>
@@ -981,12 +1043,20 @@ function evaluate(key) {
   const examEquivalent = key === "source" ? total : scaled;
   state.lastExam = key === "source" ? total : Math.max(state.lastExam || 0, examEquivalent);
   saveState();
+  const passed = total >= Math.ceil(max * 0.72);
+  const correction = stagedCorrection(
+    `exam-${key}`,
+    passed,
+    `Arbeite zuerst diese Rubrikbereiche nach: ${missingLabels.slice(0, 3).join(", ") || "Textbelege, Gewichtung und Fachbegriffe"}.`,
+    examModelSolutions[key]
+  );
+  feedback.className = `feedback ${correction.className}`;
   feedback.innerHTML = `
     <div class="feedback-card">
-      <strong>Ergebnis: ${total}/${max} Rohpunkte</strong>
-      <p>Diese Selbstkorrektur erkennt tragende Stichworte und Themenfelder. Für eine starke Antwort brauchst du zusätzlich Textbelege, klare Gewichtung und saubere Übergänge.</p>
+      ${correction.html}
+      ${passed ? `<p>Ergebnis: ${total}/${max} Rohpunkte. Tragende Stichworte und Themenfelder sind vorhanden; jetzt Textbelege, Gewichtung und Übergänge verdichten.</p>` : ""}
     </div>
-    ${cards.join("")}
+    ${(passed || state.unlockedSolutions[`exam-${key}`]) ? cards.join("") : ""}
   `;
 }
 
