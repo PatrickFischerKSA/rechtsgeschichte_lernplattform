@@ -516,6 +516,58 @@ const examLadder = [
   ["7", "Klausurantwort bauen", "Setze alles in die Gewichtung: 3 Punkte Zusammenfassung, 2 x 9 Punkte Sachthemen, 3 Punkte Verortung, 3 x 2 Punkte Gegenwartsbezüge.", "Schreibe mit Textbelegen, nicht mit Stichwortwolken."]
 ];
 
+const microExerciseSets = {
+  "1": [
+    { prompt: "Quelle nennt: Papst, Bischof, Exkommunikation, weltlicher Arm. Ordne grob ein und nenne das stärkste Indiz.", expected: ["mittelalter", "kirche", "exkommunikation", "weltlicher arm"], minHits: 2, hint: "Kirchliche Gerichtsbarkeit und Durchsetzung mit weltlicher Hilfe." },
+    { prompt: "Quelle nennt: Lex, Busse, Sippe, Freie, Unfreie. Welche Epoche liegt nahe?", expected: ["frühmittelalter", "stammesrecht", "busse", "sippe"], minHits: 2, hint: "Frühe personale Rechtsordnungen und Sanktionskataloge." },
+    { prompt: "Quelle nennt: Zunft, Meister, Markt, Bürgerrecht. Formuliere zwei Verortungsindizien.", expected: ["stadt", "zunft", "markt", "bürger"], minHits: 2, hint: "Stadt- und Wirtschaftsrecht, nicht abstraktes Privatrecht." },
+    { prompt: "Quelle nennt: Vernunft, Freiheit, Gleichheit, Gesetzlichkeit. Welche Denkbewegung?", expected: ["aufklärung", "naturrecht", "vernunftrecht", "menschenrechte"], minHits: 2, hint: "Rational begründetes Recht und Reformdenken." },
+    { prompt: "Quelle nennt: Führer, Volk, Sondergericht, Gleichschaltung. Welche Verortung und welches Warnsignal?", expected: ["ns", "20", "gleichschaltung", "sonderrecht", "führer"], minHits: 2, hint: "Rechtliche Umformung im 20. Jahrhundert." }
+  ],
+  "2": [
+    { prompt: "Verdichte: Eine Obrigkeit verbietet nächtliches Tragen von Waffen und droht Busse an. Antworte in einem Satz: Wer regelt was gegenüber wem?", expected: ["obrigkeit", "verbietet", "waffen", "busse"], minHits: 3, hint: "Adressat, Regelungsgegenstand und Sanktion müssen sichtbar sein." },
+    { prompt: "Verdichte: Papst gewährt Studenten Schutz und droht Störern Exkommunikation an. Ein Satz ohne Datierung.", expected: ["papst", "studenten", "schutz", "exkommunikation"], minHits: 3, hint: "Keine Jahreszahl, keine Bewertung, nur Inhalt." },
+    { prompt: "Verdichte: Stadtordnung beschränkt Meisterzahl und kontrolliert Qualität. Ein Satz.", expected: ["stadt", "meister", "qualität", "zunft"], minHits: 2, hint: "Wirtschaftliche Regelung und soziale Ordnung verbinden." },
+    { prompt: "Verdichte: Gesetzbuch ordnet Privatrecht systematisch und beansprucht allgemeine Geltung. Ein Satz.", expected: ["gesetzbuch", "privatrecht", "systematisch", "geltung"], minHits: 3, hint: "Kodifikatorischer Anspruch muss auftauchen." },
+    { prompt: "Verdichte: Ein Erlass hebt Grundrechte faktisch aus und konzentriert Macht bei der Regierung. Ein Satz.", expected: ["grundrechte", "macht", "regierung", "ermächtigung"], minHits: 2, hint: "Inhalt zuerst, Wertung später." }
+  ],
+  "3": [
+    { prompt: "Textsignale: Papst, Appellation, Exkommunikation, weltlicher Arm. Formuliere zwei Themenüberschriften.", expected: ["kirchliche gerichtsbarkeit", "kompetenz", "kirche", "durchsetzung"], minHits: 2, hint: "Nicht 'Papst' als Thema, sondern Rechtsproblem benennen." },
+    { prompt: "Textsignale: Lehen, Treue, Dienst, Land, Vasall. Formuliere zwei Themenüberschriften.", expected: ["lehnswesen", "personale herrschaft", "treue", "dienst"], minHits: 2, hint: "Bindungsform und Herrschaftsstruktur trennen." },
+    { prompt: "Textsignale: Zunft, Bürger, Markt, Privileg. Formuliere zwei Themenüberschriften.", expected: ["stadtrecht", "wirtschaftsrecht", "zunft", "autonomie"], minHits: 2, hint: "Städtische Freiheit und Regulierung zugleich sehen." },
+    { prompt: "Textsignale: Folter, Indizien, Geständnis, Carolina. Formuliere zwei Themenüberschriften.", expected: ["strafverfahren", "carolina", "beweis", "folter"], minHits: 2, hint: "Materielles Strafrecht und Prozess nicht vermischen." },
+    { prompt: "Textsignale: Rasse, Reichsbürger, Eheverbot, Blutschutz. Formuliere zwei Themenüberschriften.", expected: ["antisemitismus", "nürnberger gesetze", "ausgrenzung", "sonderrecht"], minHits: 2, hint: "Ideologie und Normtechnik benennen." }
+  ],
+  "4": [
+    { prompt: "Erkläre 'Personalitätsprinzip' in maximal zwei Sätzen mit Bezug auf Stammesrechte.", expected: ["person", "gruppe", "stammesrecht", "recht"], minHits: 2, hint: "Recht knüpft an Gruppenzugehörigkeit, nicht an Staatsgebiet." },
+    { prompt: "Erkläre 'Investitur' als Rechtsproblem, nicht als blosses Ritual.", expected: ["amt", "bischof", "kompetenz", "kirche", "könig"], minHits: 3, hint: "Ämterbesetzung und Herrschaftslegitimation stehen im Zentrum." },
+    { prompt: "Erkläre 'gute Policey' mit drei Regelungsfeldern.", expected: ["ordnung", "sittlichkeit", "versorgung", "wirtschaft", "gesundheit", "sicherheit"], minHits: 3, hint: "Policey ist umfassende Ordnungsnormierung." },
+    { prompt: "Erkläre 'Kodifikation' über System, Geltungsanspruch und Rechtsvereinheitlichung.", expected: ["system", "geltung", "vereinheitlichung", "gesetzbuch"], minHits: 3, hint: "Nicht nur Sammlung, sondern Ordnung mit Anspruch." },
+    { prompt: "Erkläre 'Radbruch-Formel' als Reaktion auf extremes Unrecht.", expected: ["unrecht", "gerechtigkeit", "gesetz", "1945", "positivismus"], minHits: 2, hint: "Spannung zwischen Gesetzesgeltung und unerträglichem Unrecht." }
+  ],
+  "5": [
+    { prompt: "Grenze Lex Salica von Code civil ab: nenne zwei zeitliche und zwei sachliche Gegenargumente.", expected: ["frühmittelalter", "stammesrecht", "kodifikation", "privatrecht"], minHits: 3, hint: "Personal geprägte Busse vs. staatlich-systematische Kodifikation." },
+    { prompt: "Warum passt 'Investiturstreit' nicht ins 18. Jahrhundert? Nenne zwei Gegenindizien.", expected: ["mittelalter", "papst", "reich", "bischof", "geistlich"], minHits: 2, hint: "Kirche-Reich-Konflikt und Amtskirche verorten früher." },
+    { prompt: "Quelle mit Zunft und Bürgerrecht: Warum nicht Frühmittelalter?", expected: ["stadt", "zunft", "bürger", "hochmittelalter", "spätmittelalter"], minHits: 3, hint: "Städtische Autonomie und Zunftordnung setzen andere Strukturen voraus." },
+    { prompt: "Quelle mit ALR/ABGB/Code civil/BGB: Welche Zeitspanne ist plausibel?", expected: ["18", "19", "kodifikation", "aufklärung", "bürgerlich"], minHits: 2, hint: "Kodifikationszeitalter vom späten 18. bis ins 19. Jahrhundert." },
+    { prompt: "Quelle mit Ermächtigungsgesetz und Gleichschaltung: Welche Untergrenze ist zwingend?", expected: ["1933", "ns", "gleichschaltung", "ermächtigungsgesetz"], minHits: 2, hint: "Vor 1933 kann diese Kombination nicht passen." }
+  ],
+  "6": [
+    { prompt: "Formuliere einen Gegenwartsbezug zu kirchlicher Gerichtsbarkeit ohne Gleichsetzung.", expected: ["zuständigkeit", "autonomie", "struktur", "nicht gleich", "kontext"], minHits: 2, hint: "Strukturelle Parallele, historische Differenz ausdrücklich nennen." },
+    { prompt: "Formuliere einen Gegenwartsbezug zu Zünften und Berufsregulierung.", expected: ["zugang", "qualität", "beruf", "regulierung", "anders"], minHits: 2, hint: "Zugang und Qualität vergleichen, vormoderne Ordnung nicht modernisieren." },
+    { prompt: "Formuliere einen Gegenwartsbezug zu Kodifikation und Rechtssicherheit.", expected: ["rechtssicherheit", "gesetz", "system", "vorhersehbarkeit"], minHits: 2, hint: "Systematische Gesetzgebung als Struktur vergleichen." },
+    { prompt: "Formuliere einen Gegenwartsbezug zu Menschenrechten nach 1945.", expected: ["menschenrechte", "unrecht", "schutz", "international", "1945"], minHits: 2, hint: "Reaktion auf extremes Unrecht, nicht Fortschrittsbehauptung." },
+    { prompt: "Formuliere einen Gegenwartsbezug zu Policey und heutiger Verwaltung.", expected: ["verwaltung", "ordnung", "sicherheit", "gesundheit", "nicht gleich"], minHits: 2, hint: "Regelungsdichte vergleichen, Legitimation unterscheiden." }
+  ],
+  "7": [
+    { prompt: "Baue einen Mini-Absatz: Textbefund -> Themenkreis -> historische Erklärung. Thema: Exkommunikation und weltlicher Arm.", expected: ["text", "kirche", "gerichtsbarkeit", "exkommunikation", "weltlicher arm"], minHits: 3, hint: "Vom Signal zur Institution zur historischen Bedeutung." },
+    { prompt: "Baue einen Mini-Absatz: Textbefund -> Themenkreis -> Erklärung. Thema: Zunft und Meisterzahl.", expected: ["text", "zunft", "markt", "qualität", "stadt"], minHits: 3, hint: "Regulierung als städtische Wirtschaftsordnung erklären." },
+    { prompt: "Baue einen Mini-Absatz: Textbefund -> Themenkreis -> Erklärung. Thema: Vernunft und Gesetzlichkeit.", expected: ["text", "vernunftrecht", "aufklärung", "gesetzlichkeit", "recht"], minHits: 3, hint: "Begründungswechsel zum rationalen Recht sichtbar machen." },
+    { prompt: "Baue einen Mini-Absatz: Textbefund -> Themenkreis -> Erklärung. Thema: Führerprinzip und Sonderrecht.", expected: ["text", "führerprinzip", "sonderrecht", "ns", "gleichschaltung"], minHits: 3, hint: "Rechtsumbau und Ideologie zusammenführen." },
+    { prompt: "Baue einen Mini-Absatz mit einem sauberen Schluss: Warum ist die Verortung nur eine Zeitspanne, keine exakte Datierung?", expected: ["indiz", "zeitspanne", "verortung", "unsicherheit", "quelle"], minHits: 3, hint: "Prüfung verlangt begründete Plausibilität, nicht Rätselraten." }
+  ]
+};
+
 const state = JSON.parse(localStorage.getItem("rg-lab-state") || '{"done":[],"cards":0,"lastExam":null}');
 
 function escapeHtml(value) {
@@ -824,12 +876,45 @@ function renderTrainingLadder() {
         <p>${escapeHtml(instruction)}</p>
         <strong>${escapeHtml(task)}</strong>
       </div>
-      <label>
-        Arbeitsnotiz
-        <textarea data-ladder="${number}" placeholder="Hier üben..."></textarea>
-      </label>
+      <div class="micro-drills">
+        ${(microExerciseSets[number] || []).map((exercise, exerciseIndex) => `
+          <section class="micro-drill">
+            <p>${escapeHtml(exercise.prompt)}</p>
+            <div class="micro-input-row">
+              <input data-micro-answer="${number}-${exerciseIndex}" type="text" placeholder="Kurzantwort..." />
+              <button class="button subtle" data-check-micro data-step="${number}" data-exercise="${exerciseIndex}" type="button">Prüfen</button>
+            </div>
+            <div id="micro-feedback-${number}-${exerciseIndex}" class="micro-feedback" aria-live="polite"></div>
+          </section>
+        `).join("")}
+      </div>
     </article>
   `).join("");
+  const ladder = document.querySelector("#training-ladder");
+  if (!ladder.dataset.microBound) {
+    ladder.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-check-micro]");
+      if (button) evaluateMicroExercise(button);
+    });
+    ladder.dataset.microBound = "true";
+  }
+}
+
+function evaluateMicroExercise(button) {
+  const step = button.dataset.step;
+  const exerciseIndex = Number(button.dataset.exercise);
+  const exercise = microExerciseSets[step][exerciseIndex];
+  const input = document.querySelector(`[data-micro-answer="${step}-${exerciseIndex}"]`);
+  const feedback = document.querySelector(`#micro-feedback-${step}-${exerciseIndex}`);
+  const answer = normalizeGerman(input.value);
+  const hits = exercise.expected.filter((keyword) => answer.includes(normalizeGerman(keyword)));
+  const uniqueHits = [...new Set(hits)];
+  const hasCausal = /\b(weil|deshalb|daher|folglich|fuehrt|bedingt|zeigt|spricht|deutet)\b/.test(answer);
+  const passed = uniqueHits.length >= exercise.minHits;
+  feedback.className = `micro-feedback ${passed ? "ok" : "warn"}`;
+  feedback.innerHTML = passed
+    ? `<strong>Richtig tragfähig.</strong> Treffer: ${escapeHtml(uniqueHits.join(", "))}${hasCausal ? "." : ". Ergänze bei längeren Antworten noch eine Begründung."}`
+    : `<strong>Noch zu ungenau.</strong> Erwartet werden mindestens ${exercise.minHits} tragende Signale. Hinweis: ${escapeHtml(exercise.hint)} Fehlend: ${escapeHtml(exercise.expected.filter((keyword) => !uniqueHits.includes(keyword)).slice(0, 4).join(", "))}.`;
 }
 
 function renderMaterials() {

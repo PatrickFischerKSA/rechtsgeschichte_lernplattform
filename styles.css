@@ -746,7 +746,7 @@ textarea {
 
 .training-step {
   display: grid;
-  grid-template-columns: 78px minmax(0, 1fr) minmax(240px, 0.5fr);
+  grid-template-columns: 78px minmax(220px, 0.45fr) minmax(0, 1fr);
   gap: 16px;
   align-items: start;
   padding: 18px;
@@ -764,8 +764,52 @@ textarea {
   font-weight: 900;
 }
 
-.training-step textarea {
-  min-height: 110px;
+.micro-drills {
+  display: grid;
+  gap: 10px;
+}
+
+.micro-drill {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  background: #f8f7f2;
+  border: 1px solid var(--line);
+}
+
+.micro-drill p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.micro-input-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+}
+
+.micro-input-row input {
+  width: 100%;
+}
+
+.micro-feedback {
+  min-height: 24px;
+  padding: 8px 10px;
+  border-left: 4px solid var(--line);
+  font-size: 0.9rem;
+  background: #fff;
+}
+
+.micro-feedback:empty {
+  display: none;
+}
+
+.micro-feedback.ok {
+  border-color: var(--green);
+}
+
+.micro-feedback.warn {
+  border-color: var(--red);
 }
 
 .timer {
@@ -947,6 +991,7 @@ footer {
   .split,
   .learning-map,
   .chapter-grid,
+  .training-step,
   .exam-layout {
     grid-template-columns: 1fr;
   }
