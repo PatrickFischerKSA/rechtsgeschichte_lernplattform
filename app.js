@@ -438,6 +438,74 @@ const chapters = [
   }
 ];
 
+const chapterRepeatQuestions = {
+  "Perspektive, Methode, Zeitstrahl": [
+    "Wie würdest du eine unbekannte Quelle so zerlegen, dass Textbefund, historische Erklärung und Gegenwartsbezug nicht ineinanderfallen?",
+    "Welche Indizien sind bei der Verortung stärker: Sprache, Institution, Autorität, Sanktion oder Begriffswahl? Begründe eine Rangfolge.",
+    "Warum ist eine zeitliche Einordnung ohne Textfunktion prüfungsgefährlich? Zeige es an einem kurzen Beispiel."
+  ],
+  "Weltliche Normbildung im Frühmittelalter": [
+    "Warum darf eine Lex Salica oder Lex Alamannorum nicht als modernes Gesetzbuch gelesen werden?",
+    "Wie hängen Personalitätsprinzip, Busssysteme und Herrschaftsstabilisierung zusammen?",
+    "Welche Veränderungen bringen karolingische Kapitularien gegenüber Stammesrechten, und wo bleiben Grenzen der Durchsetzung?"
+  ],
+  "Kirche und weltliche Herrschaft": [
+    "Wie trennt und verschränkt die Zwei-Schwerter-Lehre geistliche und weltliche Kompetenz zugleich?",
+    "Warum ist der Investiturstreit ein Kompetenzkonflikt und nicht bloss ein Machtkampf zwischen Personen?",
+    "Welche Rolle spielen Exkommunikation, Appellation und weltlicher Arm in einer Quellenanalyse zur kirchlichen Gerichtsbarkeit?"
+  ],
+  "Grundherrschaft": [
+    "Wie unterscheidest du Vilikationsverfassung, Rentengrundherrschaft und Gutsherrschaft anhand einer Quelle?",
+    "Warum sind Abgaben, Gericht und Personenstatus zusammen zu lesen und nicht als getrennte Rechtsgebiete?",
+    "Welche Hinweise zeigen, ob eine Quelle wirtschaftliche Nutzung, soziale Abhängigkeit oder Herrschaftsausübung betont?"
+  ],
+  "Lehnswesen, Territorium, Eidgenossenschaft": [
+    "Wie unterscheiden sich Lehnsbindung, Landesherrschaft und eidgenössisches Bündnis als Ordnungsformen?",
+    "Was leistet die Lehnspyramide als Modell, und warum kann sie reale Herrschaftsverhältnisse verzerren?",
+    "Welche Quellenbegriffe deuten auf Treue, Schutz, Dienst, Territorialisierung oder bündische Konfliktregelung?"
+  ],
+  "Stadt- und Wirtschaftsrecht": [
+    "Warum bedeutet städtische Freiheit zugleich Autonomie und verdichtete Ordnung? Beziehe Privilegien, Markt, Gericht und Bürgerschaft ein.",
+    "Wie regulieren Zünfte Wirtschaft, Sozialstatus und politische Teilhabe in einem einzigen Ordnungsmodell?",
+    "Wie würdest du Legal Transfer bei Stadtrechtsfamilien nachweisen, ohne lokale Anpassungen zu übersehen?"
+  ],
+  "Gelehrtes Recht": [
+    "Warum verändert die scholastische Methode den Umgang mit Normtexten grundlegend?",
+    "Wie unterscheiden sich Legistik und Kanonistik hinsichtlich Textgrundlagen, Institutionen und Praxisnähe?",
+    "Weshalb wird das ius commune zur europäischen Rechtsschicht, obwohl lokale Rechte weiterbestehen?"
+  ],
+  "Humanismus, mos gallicus, Usus modernus": [
+    "Was ändert der mos gallicus gegenüber glossatorischer Textarbeit, und welche Prüfungsindizien zeigen diese Verschiebung?",
+    "Wie verbinden Humanismus, Philologie und historische Kritik die Arbeit am Recht mit Quellenkritik?",
+    "Warum ist der Usus modernus keine blosse Rückkehr zum römischen Recht, sondern praktische Anpassung?"
+  ],
+  "Reformation, Gewaltexzesse, Absolutismus": [
+    "Wie führen Konfessionalisierung, Gewalt und Ordnungsbedürfnis zu dichterer Normsetzung?",
+    "Vergleiche Bodin und Hobbes: Welches Problem starker Herrschaft lösen sie jeweils, und welches Risiko entsteht?",
+    "Welche Textsignale sprechen für Policey, Zentralisierung oder absolutistisches Souveränitätsdenken?"
+  ],
+  "Naturrecht, Aufklärung, Kodifikation": [
+    "Wie verändern Universalität, Säkularität, Autonomie und Rationalität die Begründung von Recht?",
+    "Warum gehören Menschenrechte, Strafrechtsreform und Kodifikation in dieselbe Denkbewegung, aber nicht in dasselbe Schema?",
+    "Vergleiche ALR, ABGB, Code civil und BGB: Welche Ordnungsvorstellungen unterscheiden sich?"
+  ],
+  "Historische Rechtsschule und Kodifikationen": [
+    "Was steht im Kodifikationsstreit zwischen Savigny und Thibaut wirklich auf dem Spiel?",
+    "Wie hängen Historische Rechtsschule, Germanistik, Romanistik und Pandektistik zusammen?",
+    "Warum sind BGB und ZGB nicht einfach Endpunkte des Fortschritts, sondern Ergebnisse bestimmter Wissenschafts- und Staatsvorstellungen?"
+  ],
+  "Industrialisierung, Konstitutionalismus, Nationalstaat": [
+    "Welche neuen Rechtsprobleme erzeugt Industrialisierung in Arbeit, Haftung, Familie und sozialer Sicherung?",
+    "Wie begrenzt Konstitutionalismus Staatsgewalt, während Nationalstaatlichkeit Rechtsvereinheitlichung fördert?",
+    "Warum darf man Grundrechte, Nation und soziale Frage in Quellen des 19. Jahrhunderts nicht isoliert behandeln?"
+  ],
+  "Krieg, Diktatur, Recht und Unrecht": [
+    "Wie wird Recht im NS-Staat durch Ermächtigungsgesetz, Führerprinzip, Gleichschaltung und Sonderrecht umgebaut?",
+    "Wie geht antisemitische Ideologie in konkrete Rechtsnormen wie Reichsbürgerrecht oder Blutschutz ein?",
+    "Welche unterschiedlichen Reaktionen auf extremes Unrecht zeigen Menschenrechte, UNO, europäische Integration und Radbruch-Formel?"
+  ]
+};
+
 const examLadder = [
   ["1", "Zeitanker setzen", "Ordne eine Quelle zunächst grob ein: Antike, Mittelalter, Frühe Neuzeit, 19. Jahrhundert, 20. Jahrhundert.", "Nenne drei Indizien aus Sprache, Institution, Begriffen oder Sanktionen."],
   ["2", "Text zusammenfassen", "Verdichte den Inhalt ohne Vorwissen: Wer ordnet was, gegenüber wem, mit welchem Zweck?", "Schreibe vier Sätze ohne Datierung und ohne Bewertung."],
@@ -644,6 +712,7 @@ function renderLearningMap() {
 
   const drawDetail = (chapter) => {
     const linked = materials.filter((item) => materialMatchesChapter(item, chapter));
+    const repeatQuestions = chapterRepeatQuestions[chapter.title] || [];
     detail.innerHTML = `
       <div class="chapter-grid">
         <div>
@@ -651,6 +720,10 @@ function renderLearningMap() {
           <h3>${escapeHtml(chapter.title)}</h3>
           <p>${escapeHtml(chapter.exam)}</p>
           <ul>${chapter.essentials.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+          <section class="repeat-box">
+            <h4>Repetitionsfragen</h4>
+            <ol>${repeatQuestions.map((question) => `<li>${escapeHtml(question)}</li>`).join("")}</ol>
+          </section>
           <a class="button primary" href="#training">Dazu üben</a>
         </div>
         <div>
@@ -734,6 +807,10 @@ function renderMnemonics() {
         <span><b>Rechtsform</b>${escapeHtml(chapter.essentials[1])}</span>
         <span><b>Prüfung</b>${escapeHtml(chapter.exam)}</span>
       </div>
+      <section class="repeat-box compact">
+        <h4>Repetitionsfragen</h4>
+        <ol>${(chapterRepeatQuestions[chapter.title] || []).map((question) => `<li>${escapeHtml(question)}</li>`).join("")}</ol>
+      </section>
     </article>
   `).join("");
 }

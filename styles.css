@@ -711,6 +711,34 @@ textarea {
   text-transform: uppercase;
 }
 
+.repeat-box {
+  margin: 14px 0;
+  padding: 14px 16px;
+  background: #eef4f1;
+  border: 1px solid #cfddd6;
+}
+
+.repeat-box h4 {
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+}
+
+.repeat-box ol {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.repeat-box li {
+  padding-left: 4px;
+}
+
+.repeat-box.compact {
+  margin-top: 14px;
+  font-size: 0.94rem;
+}
+
 .training-ladder {
   display: grid;
   gap: 12px;
