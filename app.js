@@ -133,33 +133,92 @@ const modules = [
   }
 ];
 
-const controlQuestionTypes = [
-  {
-    label: "Abgrenzungsanalyse",
-    minWords: 90,
-    prompt: (module) => `Arbeite für "${module.title}" eine präzise Abgrenzung heraus: Was unterscheidet dieses Thema von der unmittelbar vorhergehenden oder nachfolgenden Entwicklungsstufe? Formuliere mindestens zwei Abgrenzungskriterien und erkläre, weshalb eine blosse Stichwortdefinition nicht genügt.`
-  },
-  {
-    label: "Quellenindizien",
-    minWords: 100,
-    prompt: (module) => `Du erhältst eine unbekannte Quelle zu "${module.title}". Nenne fünf Indizien, an denen du das Thema erkennen würdest, und begründe bei jedem Indiz, welchen historischen Schluss es erlaubt.`
-  },
-  {
-    label: "Kausalmodell",
-    minWords: 110,
-    prompt: (module) => `Baue ein Kausalmodell mit mindestens vier Stufen: Welche Voraussetzungen führen zu welchen rechtlichen Formen, Institutionen oder Konflikten? Zeige dabei mindestens eine Gegenkraft oder Begrenzung.`
-  },
-  {
-    label: "Prüfungsbaustein",
-    minWords: 120,
-    prompt: (module) => `Schreibe einen ausformulierten Baustein für eine sachliche Aussage in der Quellenanalyse. Der Baustein muss vom Textbefund ausgehen, Stoffwissen entfalten und am Ende zurück zum Quellenproblem führen.`
-  },
-  {
-    label: "Fehlerdiagnose",
-    minWords: 100,
-    prompt: (module) => `Korrigiere folgende zu einfache Aussage zum Thema "${module.title}": "Das ist vor allem wichtig, weil es später moderner wurde." Ersetze sie durch eine differenzierte historische Erklärung mit Fachbegriffen, Grenzen und einem prüfbaren Gegenwartsbezug.`
-  }
-];
+const moduleControlSets = {
+  "Rechtshistorische Methode": [
+    { label: "Methodische Zerlegung", minWords: 90, prompt: "Zerlege eine unbekannte Rechtsquelle in Textgestalt, Normadressaten, Autorität, Regelungsziel und Sanktion. Erkläre, weshalb diese fünf Ebenen getrennt werden müssen, bevor Stoffwissen eingesetzt wird.", expected: ["textgestalt", "normadressaten", "autorität", "regelungsziel", "sanktion", "stoffwissen", "quelle", "methode"] },
+    { label: "Textbefund vs. Kontextwissen", minWords: 100, prompt: "Formuliere eine Antwortstrategie, die verhindert, dass du bloss Vorlesungswissen reproduzierst. Zeige an einem selbst gewählten Beispiel, wie ein Textbefund in eine sachliche Aussage überführt wird.", expected: ["textbefund", "sachliche", "aussage", "stoffwissen", "beleg", "quelle", "kontext", "argument"] },
+    { label: "Historische Verortung", minWords: 100, prompt: "Entwirf ein Schema zur Verortung einer Quelle. Welche Indizien sind stärker als andere, und wie gehst du mit unsicheren Datierungen um?", expected: ["sprache", "institution", "begriff", "machttraeger", "zeitspanne", "indiz", "datierung", "verortung"] },
+    { label: "Gegenwartsbezug", minWords: 90, prompt: "Erkläre, wie ein Gegenwartsbezug anspruchsvoll formuliert wird, ohne anachronistisch zu werden. Nenne zwei zulässige und zwei unzulässige Formen des Vergleichs.", expected: ["gegenwartsbezug", "struktur", "vergleich", "anachronismus", "differenz", "parallele", "kontext", "gleichsetzung"] },
+    { label: "Prüfungsarchitektur", minWords: 110, prompt: "Baue eine vollständige Gliederung für Teil A der Prüfung. Begründe die Gewichtung der Abschnitte und zeige, wo die grössten Bewertungsrisiken liegen.", expected: ["zusammenfassung", "themenkreise", "verortung", "gegenwartsbezüge", "punkte", "gewichtung", "textbelege", "bewertung"] }
+  ],
+  "Stammesrechte und Frühmittelalter": [
+    { label: "Personalität und Pluralität", minWords: 100, prompt: "Erkläre, weshalb frühmittelalterliche Stammesrechte nicht wie moderne staatliche Gesetzbücher gelesen werden dürfen. Arbeite Personalitätsprinzip, Gruppenbindung und Sanktionsordnung heraus.", expected: ["stammesrechte", "personalitaetsprinzip", "gruppe", "lex", "salica", "alamannorum", "sanktion", "pluralitaet"] },
+    { label: "Identitätsbildung", minWords: 100, prompt: "Zeige, wie Leges kollektive Identität erzeugen oder stabilisieren. Verbinde Normtext, Herrschaft und soziale Zugehörigkeit.", expected: ["leges", "identitaet", "kollektiv", "herrschaft", "zugehörigkeit", "norm", "volk", "kirche"] },
+    { label: "Karolingische Reformen", minWords: 110, prompt: "Baue ein Kausalmodell von Karl dem Grossen zu Kapitularien, Gerichtswesen und Reichsorganisation. Wo liegen Reichweite und Grenzen dieser Normsetzung?", expected: ["karolingisch", "karl", "kapitularien", "gericht", "reich", "organisation", "schriftlichkeit", "grenze"] },
+    { label: "Unrechtsausgleich", minWords: 100, prompt: "Vergleiche Busse, Fehde und Gericht als Formen des Unrechtsausgleichs. Welche Funktion erfüllt jede Form in einer noch wenig verdichteten Herrschaftsordnung?", expected: ["busse", "fehde", "gericht", "unrechtsausgleich", "sanktion", "herrschaft", "ordnung", "gewalt"] },
+    { label: "Quellenindizien", minWords: 90, prompt: "Welche fünf Textsignale würden dich auf frühmittelalterliche Normbildung führen? Begründe jedes Signal historisch.", expected: ["lex", "busse", "sippe", "kirche", "herzog", "volk", "sanktion", "stammesrecht"] }
+  ],
+  "Kirche, Reich und Investiturstreit": [
+    { label: "Zwei Gewalten", minWords: 100, prompt: "Erkläre die Zwei-Schwerter-Lehre als Denkfigur politisch-rechtlicher Ordnung. Wo trennt sie, wo verschränkt sie geistliche und weltliche Gewalt?", expected: ["zwei", "schwerter", "geistlich", "weltlich", "gewalt", "kirche", "reich", "ordnung"] },
+    { label: "Investiturstreit", minWords: 110, prompt: "Analysiere den Investiturstreit nicht als Personenstreit, sondern als Kompetenzkonflikt. Welche Rechte, Ämter und Legitimationsformen stehen auf dem Spiel?", expected: ["investiturstreit", "kompetenz", "amt", "bischof", "papst", "koenig", "legitimation", "canossa"] },
+    { label: "Wormser Konkordat", minWords: 100, prompt: "Zeige, weshalb das Wormser Konkordat eine Entschärfung, aber keine vollständige Trennung von Kirche und Reich bedeutet.", expected: ["wormser", "konkordat", "laieninvestitur", "geistlich", "weltlich", "anerkennung", "kompetenz", "konflikt"] },
+    { label: "Kirchliche Gerichtsbarkeit", minWords: 110, prompt: "Erkläre Aufbau und Bedeutung kirchlicher Gerichtsbarkeit. Beziehe Papst, Bischof, Appellation, Exkommunikation und weltlichen Arm ein.", expected: ["gerichtsbarkeit", "papst", "bischof", "appellation", "exkommunikation", "weltlicher", "arm", "kanonistik"] },
+    { label: "Quellenanalyse", minWords: 100, prompt: "Eine lateinische Quelle droht mit kirchlichen Sanktionen und ruft bei Bedarf weltliche Hilfe an. Entwickle daraus zwei sachliche Aussagen und eine historische Verortung.", expected: ["latein", "sanktion", "kirchlich", "weltlich", "quelle", "verortung", "mittelalter", "autorität"] }
+  ],
+  "Lehnswesen und Grundherrschaft": [
+    { label: "Lehen vs. Grundherrschaft", minWords: 110, prompt: "Grenze Lehnswesen und Grundherrschaft systematisch ab: Akteure, Rechtsbindung, wirtschaftliche Grundlage, Gericht und soziale Funktion.", expected: ["lehen", "grundherrschaft", "treue", "schutz", "dienst", "abgaben", "gericht", "soziale"] },
+    { label: "Lehnspyramide", minWords: 100, prompt: "Erkläre die Heerschildordnung als Modell adliger Rang- und Bindungsverhältnisse. Was leistet das Modell, und wo vereinfacht es zu stark?", expected: ["heerschildordnung", "lehnspyramide", "rang", "adel", "bindung", "sachsenspiegel", "libri", "feudorum"] },
+    { label: "Vilikation und Rentengrundherrschaft", minWords: 110, prompt: "Vergleiche Villikationsverfassung, Rentengrundherrschaft und Gutsherrschaft als Entwicklungsformen. Welche Veränderungen in Herrschaft und Wirtschaft werden sichtbar?", expected: ["vilikation", "rentengrundherrschaft", "gutsherrschaft", "hof", "abgaben", "wirtschaft", "herrschaft", "abhängigkeit"] },
+    { label: "Keine moderne Trennung", minWords: 100, prompt: "Erkläre anhand dieses Themenfelds, warum Privatrecht, öffentliches Recht, Wirtschaft und Sozialordnung analytisch getrennt, historisch aber verschränkt sind.", expected: ["privatrecht", "öffentlich", "wirtschaft", "sozialordnung", "herrschaft", "land", "gericht", "personenstatus"] },
+    { label: "Quellenindizien", minWords: 90, prompt: "Welche Textmerkmale sprechen für Lehnsrecht, welche für Grundherrschaft? Formuliere je drei Indizien mit Begründung.", expected: ["treue", "vasall", "lehen", "zins", "fron", "hof", "abgabe", "gericht"] }
+  ],
+  "Stadt- und Wirtschaftsrecht": [
+    { label: "Städtische Freiheit", minWords: 100, prompt: "Erkläre städtische Freiheit als rechtlich gebundene Autonomie, nicht als schrankenlose Freiheit. Beziehe Privileg, Gericht, Markt und Bürgerschaft ein.", expected: ["stadt", "freiheit", "autonomie", "privileg", "gericht", "markt", "bürger", "stadtrecht"] },
+    { label: "Zunftverfassung", minWords: 110, prompt: "Analysiere Zünfte als wirtschaftliche, soziale und politische Ordnung. Welche Funktionen erfüllen Zugangsbeschränkung, Qualitätskontrolle und Beteiligung?", expected: ["zunft", "gilde", "innung", "arbeit", "qualitaet", "zugang", "politik", "beteiligung"] },
+    { label: "Zürich 1336", minWords: 100, prompt: "Nutze die Zürcher Zunftrevolution als Beispiel für Konflikte zwischen Patriziat, Handwerk und städtischer Verfassung.", expected: ["zuerich", "1336", "zunftrevolution", "patriziat", "handwerk", "brun", "verfassung", "emanzipation"] },
+    { label: "Legal Transfer", minWords: 100, prompt: "Erkläre Stadtrechtsfamilien als Form von Legal Transfer. Was wird übertragen, was verändert sich lokal?", expected: ["legal", "transfer", "stadtrechtsfamilien", "privileg", "lokal", "uebertragung", "rezeption", "autonomie"] },
+    { label: "Handel und Ordnung", minWords: 90, prompt: "Zeige am Beispiel von Handelsorganisationen, warum Wirtschaftsrecht im Mittelalter ohne modernen Staat funktionieren konnte.", expected: ["handel", "hanse", "organisation", "markt", "recht", "stadt", "koordination", "konflikt"] }
+  ],
+  "Universitäten und gelehrtes Recht": [
+    { label: "Studium generale", minWords: 100, prompt: "Erkläre das Studium generale als privilegierte Körperschaft. Beziehe Lehrbetrieb, Schutzrechte, Status und Gerichtsbarkeit ein.", expected: ["studium", "generale", "privileg", "koerperschaft", "lehre", "schutz", "status", "gerichtsbarkeit"] },
+    { label: "Bologna und Methode", minWords: 110, prompt: "Zeige, weshalb Bologna für die Entstehung juristischer Wissenschaft zentral ist. Erkläre Glossatoren, Glossa ordinaria und scholastische Methode.", expected: ["bologna", "glossatoren", "glossa", "scholastik", "corpus", "iuris", "methode", "textarbeit"] },
+    { label: "Kanonistik und Legistik", minWords: 100, prompt: "Vergleiche Kanonistik und Legistik. Welche Texte, Institutionen und Praxisfelder prägen beide Wissensformen?", expected: ["kanonistik", "legistik", "kanonisch", "roemisch", "corpus", "decretum", "gratian", "praxis"] },
+    { label: "Ius commune", minWords: 110, prompt: "Erkläre das ius commune als europäische Rechtsschicht. Wie verbindet es gelehrte Methode, Gerichtspraxis und Bedarf an Juristen?", expected: ["ius", "commune", "europa", "juristen", "gericht", "verwaltung", "gelehrt", "praxis"] },
+    { label: "Quellenanalyse", minWords: 100, prompt: "Eine Quelle spricht von Privilegien für Magister und Studenten. Entwickle zwei Themenkreise und eine plausible Verortung.", expected: ["privilegien", "magister", "studenten", "universität", "mittelalter", "papst", "gelehrtes", "recht"] }
+  ],
+  "Humanismus, Reformation und gute Policey": [
+    { label: "Humanistische Textkritik", minWords: 100, prompt: "Erkläre, wie Humanismus und mos gallicus den Umgang mit Rechtstexten verändern. Was bedeutet historisch-kritische Lektüre hier?", expected: ["humanismus", "mos", "gallicus", "textkritik", "philologie", "quelle", "renaissance", "rechtstext"] },
+    { label: "Reformation und Territorium", minWords: 110, prompt: "Analysiere den Zusammenhang von Reformation, Augsburger Religionsfrieden und konfessioneller Staatlichkeit.", expected: ["reformation", "augsburger", "religionsfrieden", "konfession", "territorium", "cuius", "regio", "staatlichkeit"] },
+    { label: "Gute Policey", minWords: 110, prompt: "Erkläre gute Policey als Ordnungskonzept. Beziehe Sittlichkeit, Versorgung, Wirtschaft, Gesundheit und Sicherheit ein.", expected: ["policey", "ordnung", "sittlichkeit", "versorgung", "wirtschaft", "gesundheit", "sicherheit", "gemeinwohl"] },
+    { label: "Normdichte", minWords: 100, prompt: "Zeige, weshalb frühneuzeitliche Normdichte nicht automatisch modernen Verwaltungsstaat bedeutet. Welche Zwischenformen sind sichtbar?", expected: ["normdichte", "frühe", "neuzeit", "verwaltung", "obrigkeit", "sozialdisziplinierung", "territorium", "ordnung"] },
+    { label: "Gewalt und Ordnung", minWords: 90, prompt: "Erkläre, wie konfessionelle Gewalt und Ordnungsbedürfnis neue Formen von Rechtserzeugung begünstigen.", expected: ["gewalt", "konfessionalisierung", "ordnung", "herrschaft", "rechtserzeugung", "territorial", "reformation", "policey"] }
+  ],
+  "Strafrecht und Verfahren": [
+    { label: "Gottesurteil und Beweis", minWords: 100, prompt: "Erkläre die Bedeutung des Vierten Laterankonzils für Beweisformen. Warum ist das Verbot der Gottesurteile verfahrensgeschichtlich wichtig?", expected: ["laterankonzil", "gottesurteil", "beweis", "verfahren", "kirche", "1215", "rationalisierung", "gericht"] },
+    { label: "Carolina", minWords: 110, prompt: "Analysiere die Carolina als Straf- und Prozessordnung. Beziehe Vereinheitlichung, Indizienlehre, Folter und körperliche Strafen ein.", expected: ["carolina", "strafrecht", "prozess", "indizien", "folter", "strafe", "vereinheitlichung", "reich"] },
+    { label: "Inquisitionsprozess", minWords: 100, prompt: "Erkläre den Inquisitionsprozess als Veränderung der Strafverfolgung. Welche Rolle spielen Amtsermittlung, Geständnis und Wahrheitssuche?", expected: ["inquisitionsprozess", "amtsermittlung", "gestaendnis", "wahrheit", "verfahren", "richter", "beweis", "verfolgung"] },
+    { label: "Salvatorische Klausel", minWords: 90, prompt: "Warum ist die salvatorische Klausel der Carolina rechtshistorisch aussagekräftig? Erkläre Reichsrecht, lokale Rechte und politische Kompromisse.", expected: ["salvatorische", "klausel", "reichsrecht", "lokal", "partikular", "kompromiss", "carolina", "geltung"] },
+    { label: "Historische Bewertung", minWords: 100, prompt: "Bewerte frühneuzeitliches Strafrecht differenziert: Wo sieht man Rationalisierung, wo Gewaltintensivierung?", expected: ["rationalisierung", "gewalt", "strafe", "verfahren", "folter", "beweis", "ordnung", "frühe"] }
+  ],
+  "Absolutismus und Souveränität": [
+    { label: "Herrschaftsform", minWords: 100, prompt: "Beschreibe absolutistische Herrschaft nicht als Karikatur, sondern als Struktur von Normsetzung, Verwaltung, Rechtsprechung und Wirtschaftslenkung.", expected: ["absolutismus", "normsetzung", "verwaltung", "rechtsprechung", "wirtschaft", "zentralisierung", "monarch", "stände"] },
+    { label: "Entstehungsbedingungen", minWords: 110, prompt: "Erkläre die Entstehungsbedingungen des Absolutismus aus Konfessionalisierung, Krieg, Finanzbedarf, stehenden Heeren und Territorialisierung.", expected: ["konfessionalisierung", "krieg", "finanz", "heer", "territorium", "zentralisierung", "obrigkeit", "sozialdisziplinierung"] },
+    { label: "Bodin und Hobbes", minWords: 110, prompt: "Vergleiche Bodin und Hobbes als Begründungen starker Herrschaft. Welche Probleme lösen sie jeweils, und welche Risiken entstehen?", expected: ["bodin", "hobbes", "souveränität", "leviathan", "vertrag", "sicherheit", "bürgerkrieg", "herrschaft"] },
+    { label: "Konsequenzen", minWords: 100, prompt: "Zeige drei rechtliche oder politische Konsequenzen absolutistischer Herrschaft und erkläre jeweils den Mechanismus.", expected: ["buerokratie", "gesetzgebung", "policey", "merkantilismus", "militär", "stände", "zentral", "staat"] },
+    { label: "Quellenbezug", minWords: 90, prompt: "Welche Textsignale sprechen für absolutistisches Herrschaftsdenken? Formuliere eine sachliche Aussage mit Gegenwartsbezug.", expected: ["souverän", "monarch", "ordnung", "sicherheit", "verwaltung", "staat", "gesetz", "gegenwartsbezug"] }
+  ],
+  "Naturrecht, Aufklärung und Kodifikation": [
+    { label: "Vernunftrecht", minWords: 100, prompt: "Erkläre Vernunftrecht mit den Merkmalen universal, säkular, autonom und rational. Warum verändert das die Begründung von Recht?", expected: ["vernunftrecht", "universal", "säkular", "autonom", "rational", "begründung", "naturrecht", "individuum"] },
+    { label: "Aufklärung und Herrschaft", minWords: 110, prompt: "Vergleiche Montesquieu, Locke, Pufendorf und Kant als Denkfiguren rechtlicher und politischer Ordnung.", expected: ["montesquieu", "locke", "pufendorf", "kant", "gewaltenteilung", "eigentum", "pflicht", "freiheit"] },
+    { label: "Kodifikationen", minWords: 110, prompt: "Vergleiche ALR, ABGB, Code civil und BGB als unterschiedliche Kodifikationsmodelle. Welche Ordnungsvorstellungen stehen dahinter?", expected: ["alr", "abgb", "code", "civil", "bgb", "kodifikation", "system", "ordnung"] },
+    { label: "Kodifikationsstreit", minWords: 100, prompt: "Erkläre den Kodifikationsstreit zwischen Savigny und Thibaut. Was sagt der Streit über Gesetzgebung und Rechtswissenschaft?", expected: ["savigny", "thibaut", "kodifikationsstreit", "volksgeist", "gesetzgebung", "rechtswissenschaft", "historisch", "reife"] },
+    { label: "Strafrechtsreform", minWords: 90, prompt: "Zeige, wie Aufklärung und Vernunftrecht strafrechtliche Reformen ermöglichen. Welche Kritik richtet sich gegen ältere Strafpraktiken?", expected: ["aufklaerung", "strafrecht", "reform", "vernunft", "folter", "verhältnismässigkeit", "gesetzlichkeit", "kritik"] }
+  ],
+  "Revolution, Industrialisierung und Nationalstaat": [
+    { label: "Doppelte Revolution", minWords: 100, prompt: "Erkläre die doppelte Revolution als Verbindung politischer und industrieller Umbrüche. Warum beschleunigt sie Rechtsentwicklung?", expected: ["doppelte", "revolution", "politisch", "industriell", "rechtsentwicklung", "arbeit", "staat", "gesellschaft"] },
+    { label: "Menschenrechte", minWords: 100, prompt: "Vergleiche Virginia Bill of Rights und französische Menschenrechtserklärung. Welche Rechtsideen werden formuliert, und wo bleiben Grenzen?", expected: ["virginia", "menschenrechte", "frankreich", "freiheit", "gleichheit", "eigentum", "bürger", "grenzen"] },
+    { label: "Schweiz und Helvetik", minWords: 110, prompt: "Bewerte die Folgen der Französischen Revolution für die Schweiz als Ambivalenz von Freiheit, Besatzung, Zentralisierung und autoritärer Herrschaft.", expected: ["schweiz", "helvetik", "freiheit", "besatzung", "zentralisierung", "franzoesisch", "untertan", "ambivalent"] },
+    { label: "Industrialisierung", minWords: 100, prompt: "Zeige, welche neuen Rechtsprobleme Industrialisierung hervorbringt: Arbeit, Haftung, soziale Frage, Familie und staatliche Intervention.", expected: ["industrialisierung", "arbeit", "haftung", "soziale", "frage", "familie", "intervention", "fabrik"] },
+    { label: "Nationalstaat und Rechtsvereinheitlichung", minWords: 100, prompt: "Erkläre, wie Nationalstaatlichkeit, Konstitutionalismus und Rechtsvereinheitlichung zusammenhängen, ohne sie gleichzusetzen.", expected: ["nationalstaat", "konstitutionalismus", "rechtsvereinheitlichung", "verfassung", "staat", "gesetz", "bürger", "einheit"] }
+  ],
+  "20. Jahrhundert: Recht und Unrecht": [
+    { label: "Weimar und Anfälligkeit", minWords: 100, prompt: "Erkläre die Anfälligkeit Deutschlands nach 1919 aus Verfassung, Versailles, Krisenerfahrung und politischer Radikalisierung.", expected: ["weimar", "versailles", "krise", "radikalisierung", "verfassung", "inflation", "arbeitslosigkeit", "nationalismus"] },
+    { label: "NS-Staat als Rechtsumbau", minWords: 110, prompt: "Beschreibe die rechtliche Umwandlung ab 1933 mit Ermächtigungsgesetz, Führerprinzip, Gleichschaltung, Sonderrecht und Einheitspartei.", expected: ["ermaechtigungsgesetz", "fuehrerprinzip", "gleichschaltung", "sonderrecht", "einheitspartei", "1933", "recht", "staat"] },
+    { label: "Antisemitismus", minWords: 110, prompt: "Zeichne die historischen Wurzeln des modernen Antisemitismus nach und erkläre den Übergang zu rassistisch-biologistischer Rechtsausgrenzung.", expected: ["antisemitismus", "rassenlehre", "sozialdarwinismus", "gobineau", "biologisch", "ausgrenzung", "jüdisch", "ideologie"] },
+    { label: "Normiertes Unrecht", minWords: 100, prompt: "Analysiere zwei Beispiele, wie antisemitische Ideologie in die Rechtsordnung des NS-Staates eingeht.", expected: ["nürnberger", "gesetze", "reichsbürger", "blutschutz", "ehe", "staatsangehörigkeit", "recht", "ausgrenzung"] },
+    { label: "Nach 1945", minWords: 100, prompt: "Erkläre UNO, Menschenrechte, europäische Integration und Radbruch-Formel als Reaktionen auf extremes Unrecht. Wo liegen Unterschiede der Reaktionen?", expected: ["uno", "menschenrechte", "europäische", "integration", "radbruch", "formel", "unrecht", "1945"] }
+  ]
+};
 
 const timeline = [
   ["ca. 400 v. Chr.", "Nikomachische Ethik und Politica", "work", "Aristoteles; frühe naturrechtliche und politische Grundfragen."],
@@ -400,6 +459,17 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
+function normalizeGerman(value) {
+  return String(value)
+    .toLowerCase()
+    .replaceAll("ä", "ae")
+    .replaceAll("ö", "oe")
+    .replaceAll("ü", "ue")
+    .replaceAll("ß", "ss")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
 function saveState() {
   localStorage.setItem("rg-lab-state", JSON.stringify(state));
   updateStats();
@@ -420,12 +490,23 @@ function moduleKeywordPool(module) {
   return [...new Set(words.filter((word) => !stop.has(word)))].slice(0, 18);
 }
 
-function buildControlQuestions(module) {
+function fallbackControlQuestions(module) {
   const keywords = moduleKeywordPool(module);
-  return controlQuestionTypes.map((type, index) => ({
+  const fallbackTypes = [
+    { label: "Abgrenzungsanalyse", minWords: 90, prompt: `Arbeite für "${module.title}" eine präzise Abgrenzung heraus: Was unterscheidet dieses Thema von der unmittelbar vorhergehenden oder nachfolgenden Entwicklungsstufe?` },
+    { label: "Quellenindizien", minWords: 100, prompt: `Nenne fünf Indizien, an denen du eine unbekannte Quelle zu "${module.title}" erkennen würdest, und begründe jedes Indiz.` },
+    { label: "Kausalmodell", minWords: 110, prompt: "Baue ein Kausalmodell mit Voraussetzungen, rechtlichen Formen, Institutionen, Konflikten und Grenzen." },
+    { label: "Prüfungsbaustein", minWords: 120, prompt: "Schreibe einen ausformulierten Baustein für eine sachliche Aussage in der Quellenanalyse." },
+    { label: "Fehlerdiagnose", minWords: 100, prompt: `Korrigiere die Aussage: "${module.title} ist vor allem wichtig, weil es später moderner wurde."` }
+  ];
+  return fallbackTypes.map((type, index) => ({
     ...type,
     expected: keywords.slice(index * 2, index * 2 + 8).concat(keywords.slice(0, 4))
   }));
+}
+
+function buildControlQuestions(module) {
+  return moduleControlSets[module.title] || fallbackControlQuestions(module);
 }
 
 function correctionMessage(score, maxScore, hits, missing, wordCount) {
@@ -445,13 +526,13 @@ function evaluateControlQuestion(button) {
   const question = buildControlQuestions(module)[questionIndex];
   const textarea = document.querySelector(`[data-control-answer="${moduleIndex}-${questionIndex}"]`);
   const feedback = document.querySelector(`#control-feedback-${moduleIndex}-${questionIndex}`);
-  const answer = textarea.value.toLowerCase();
+  const answer = normalizeGerman(textarea.value);
   const words = answer.match(/[a-zäöüß]{2,}/g) || [];
-  const uniqueHits = [...new Set(question.expected.filter((keyword) => answer.includes(keyword.toLowerCase())))];
+  const uniqueHits = [...new Set(question.expected.filter((keyword) => answer.includes(normalizeGerman(keyword))))];
   const missing = question.expected.filter((keyword) => !uniqueHits.includes(keyword)).slice(0, 5);
-  const hasCausal = /\b(weil|deshalb|daher|folglich|führt|bedingt|voraussetzung|konsequenz|wirkung)\b/.test(answer);
-  const hasContrast = /\b(hingegen|während|anders|aber|jedoch|demgegenüber|nicht nur|sondern)\b/.test(answer);
-  const hasSourceLogic = /\b(quelle|text|indiz|begriff|institution|autorität|sanktion|verortung)\b/.test(answer);
+  const hasCausal = /\b(weil|deshalb|daher|folglich|fuehrt|bedingt|voraussetzung|konsequenz|wirkung)\b/.test(answer);
+  const hasContrast = /\b(hingegen|waehrend|anders|aber|jedoch|demgegenueber|nicht nur|sondern)\b/.test(answer);
+  const hasSourceLogic = /\b(quelle|text|indiz|begriff|institution|autoritaet|sanktion|verortung)\b/.test(answer);
   let score = 0;
   if (words.length >= question.minWords) score += 2;
   if (uniqueHits.length >= 3) score += 1;
@@ -496,7 +577,7 @@ function renderModules() {
               <section class="control-question">
                 <p class="eyebrow">${question.label}</p>
                 <h4>Aufgabe ${questionIndex + 1}</h4>
-                <p>${escapeHtml(question.prompt(module))}</p>
+                <p>${escapeHtml(typeof question.prompt === "function" ? question.prompt(module) : question.prompt)}</p>
                 <textarea data-control-answer="${index}-${questionIndex}" rows="5" placeholder="Ausformulierte Antwort schreiben..."></textarea>
                 <button class="button primary" data-check-control data-module="${index}" data-question="${questionIndex}" type="button">Sofort korrigieren</button>
                 <div id="control-feedback-${index}-${questionIndex}" class="control-feedback" aria-live="polite"></div>
