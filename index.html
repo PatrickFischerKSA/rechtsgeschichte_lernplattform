@@ -24,7 +24,7 @@
         <a href="#training">Training</a>
         <a href="#repetition">Repetition</a>
       </nav>
-      <div id="profile-switcher" class="profile-switcher" aria-label="Profil wählen"></div>
+      <div class="profile-switcher" aria-label="Profil wählen"></div>
     </header>
 
     <main>
@@ -57,6 +57,14 @@
           </aside>
           <article id="chapter-detail" class="chapter-detail"></article>
         </div>
+      </section>
+
+      <section class="profile-panel" aria-label="Profil">
+        <div>
+          <p class="eyebrow">Profile</p>
+          <h2 id="active-profile-title">Offen</h2>
+        </div>
+        <div class="profile-switcher large" aria-label="Profil wählen"></div>
       </section>
 
       <section class="dashboard" aria-label="Lernstand">
@@ -269,23 +277,33 @@
         </div>
         <div class="practice-grid">
           <article class="practice">
-            <h3>Karteikarten</h3>
+            <h3>Abrufkarten</h3>
             <p id="flashcard" class="flashcard" tabindex="0"></p>
+            <textarea id="card-answer" rows="5" placeholder="Erst frei rekonstruieren: Definition, Abgrenzung, Prüfungsnutzen..."></textarea>
+            <div id="card-feedback" class="micro-feedback" aria-live="polite"></div>
             <div class="practice-actions">
-              <button id="flip-card" class="button" type="button">Aufdecken</button>
-              <button id="known-card" class="button primary" type="button">Gewusst</button>
+              <button id="check-card" class="button primary" type="button">Prüfen</button>
+              <button id="flip-card" class="button" type="button">Muster</button>
               <button id="next-card" class="button" type="button">Weiter</button>
             </div>
           </article>
           <article class="practice">
-            <h3>Begriffe zuordnen</h3>
-            <div id="match-area" class="match-area"></div>
-            <button id="new-match" class="button" type="button">Neue Runde</button>
+            <h3>Lückentext</h3>
+            <div id="cloze-drill"></div>
+            <div class="practice-actions">
+              <button id="cloze-check" class="button primary" type="button">Prüfen</button>
+              <button id="new-cloze" class="button" type="button">Neu</button>
+            </div>
           </article>
           <article class="practice">
-            <h3>Mini-Fälle</h3>
-            <div id="case-drill"></div>
-            <button id="case-check" class="button primary" type="button">Prüfen</button>
+            <h3>Quellen-Sprint</h3>
+            <div id="free-drill"></div>
+            <textarea id="free-answer" rows="8" placeholder="Kurze Analyseantwort..."></textarea>
+            <div id="free-feedback" class="micro-feedback" aria-live="polite"></div>
+            <div class="practice-actions">
+              <button id="free-check" class="button primary" type="button">Prüfen</button>
+              <button id="new-free" class="button" type="button">Neu</button>
+            </div>
           </article>
         </div>
       </section>

@@ -330,6 +330,70 @@ const cases = [
   }
 ];
 
+const clozeDrills = [
+  {
+    text: ["Die ", " knüpft Recht an Gruppenzugehörigkeit; moderne territoriale Staatlichkeit darf hier nicht vorausgesetzt werden."],
+    answers: ["Personalität"],
+    expected: ["personalität", "gruppe", "stammesrecht"],
+    hint: "Gesucht ist das frühmittelalterliche Prinzip personaler Rechtszugehörigkeit."
+  },
+  {
+    text: ["Beim Investiturstreit geht es um ", ", Sakralität von Herrschaft und die Abgrenzung geistlicher und weltlicher Kompetenz."],
+    answers: ["Ämterbesetzung"],
+    expected: ["ämterbesetzung", "kompetenz", "geistlich", "weltlich"],
+    hint: "Nicht Canossa als Ereignis, sondern das Rechtsproblem der Ämterbesetzung benennen."
+  },
+  {
+    text: ["Die ", " ordnet in der Frühen Neuzeit Sittlichkeit, Versorgung, Wirtschaft, Gesundheit und Sicherheit."],
+    answers: ["gute Policey"],
+    expected: ["policey", "ordnung", "sicherheit", "versorgung"],
+    hint: "Gesucht ist der frühneuzeitliche Begriff umfassender Ordnungsgesetzgebung."
+  },
+  {
+    text: ["Der Kodifikationsstreit zwischen Savigny und Thibaut betrifft Gesetzgebung, ", " und historische Reife des Rechts."],
+    answers: ["Volksgeist"],
+    expected: ["volksgeist", "savigny", "thibaut", "rechtswissenschaft"],
+    hint: "Savigny argumentiert gegen vorschnelle Kodifikation aus der historischen Entwicklung des Rechts."
+  },
+  {
+    text: ["Die Nürnberger Gesetze übersetzen rassistischen Antisemitismus in ", " und Blutschutz."],
+    answers: ["Reichsbürgerrecht"],
+    expected: ["reichsbürgerrecht", "blutschutz", "antisemitismus", "ausgrenzung"],
+    hint: "Gesucht ist die rechtliche Kategorie, mit der Zugehörigkeit abgestuft wird."
+  }
+];
+
+const freeTextDrills = [
+  {
+    source: "Eine Quelle gewährt Studenten Privilegien, spricht von kanonischem und weltlichem Recht und droht Störern Exkommunikation an.",
+    task: "Formuliere in 4-5 Sätzen Themenkreis, historische Erklärung und Verortung.",
+    expected: ["studium generale", "privileg", "kanonisch", "weltlich", "exkommunikation", "mittelalter"],
+    minHits: 4,
+    hint: "Universität/gelehrtes Recht und kirchliche Gerichtsbarkeit müssen beide sichtbar werden."
+  },
+  {
+    source: "Ein Stadtrecht regelt Meisterzugang, Arbeitsqualität, Marktaufsicht und Bürgerpflichten.",
+    task: "Erkläre die Quelle als städtische Wirtschafts- und Sozialordnung.",
+    expected: ["stadt", "zunft", "markt", "qualität", "bürger", "autonomie"],
+    minHits: 4,
+    hint: "Nicht nur Wirtschaft: auch Bürgerstatus und städtische Autonomie benennen."
+  },
+  {
+    source: "Ein Text verlangt nach Bürgerkrieg eine ungeteilte höchste Gewalt, die Sicherheit garantiert.",
+    task: "Ordne rechtsphilosophisch ein und grenze Bodin/Hobbes knapp ab.",
+    expected: ["hobbes", "sicherheit", "bürgerkrieg", "souveränität", "bodin", "gewalt"],
+    minHits: 4,
+    hint: "Hobbes über Sicherheit/Bürgerkrieg; Bodin über höchste dauerhafte Gewalt."
+  },
+  {
+    source: "Ein Gesetz schliesst Personen aufgrund rassischer Kategorien von Bürgerrechten und Ehefähigkeit aus.",
+    task: "Analysiere Ideologie, Rechtsform und historischen Kontext.",
+    expected: ["antisemitismus", "rasse", "nürnberger", "reichsbürger", "blutschutz", "ns"],
+    minHits: 4,
+    hint: "Rassistische Ideologie und konkrete Normtechnik zusammenführen."
+  }
+];
+
 const materials = window.dropboxMaterials || [];
 const chapters = [
   {
@@ -682,13 +746,16 @@ function saveState() {
 }
 
 function renderProfileSwitcher() {
-  const switcher = document.querySelector("#profile-switcher");
-  switcher.innerHTML = profiles.map((profile) => `
-    <button class="${profile.id === activeProfile ? "active" : ""}" data-profile="${profile.id}" type="button">
-      ${escapeHtml(profile.label)}
-    </button>
-  `).join("");
-  if (!switcher.dataset.bound) {
+  document.querySelector("#active-profile-title").textContent = profiles.find((profile) => profile.id === activeProfile)?.label || "Offen";
+  document.querySelectorAll(".profile-switcher").forEach((switcher) => {
+    switcher.innerHTML = profiles.map((profile) => `
+      <button class="${profile.id === activeProfile ? "active" : ""}" data-profile="${profile.id}" type="button">
+        ${escapeHtml(profile.label)}
+      </button>
+    `).join("");
+  });
+  document.querySelectorAll(".profile-switcher").forEach((switcher) => {
+    if (switcher.dataset.bound) return;
     switcher.addEventListener("click", (event) => {
       const button = event.target.closest("[data-profile]");
       if (!button || button.dataset.profile === activeProfile) return;
@@ -701,7 +768,7 @@ function renderProfileSwitcher() {
       renderModules();
     });
     switcher.dataset.bound = "true";
-  }
+  });
 }
 
 function updateStats() {
@@ -1187,72 +1254,101 @@ function setupTimer() {
 
 function setupCards() {
   let index = 0;
-  let flipped = false;
   const card = document.querySelector("#flashcard");
+  const answer = document.querySelector("#card-answer");
+  const feedback = document.querySelector("#card-feedback");
   const draw = () => {
-    card.textContent = flipped ? cards[index][1] : cards[index][0];
+    card.textContent = cards[index][0];
+    answer.value = "";
+    feedback.innerHTML = "";
+    feedback.className = "micro-feedback";
   };
-  document.querySelector("#flip-card").addEventListener("click", () => {
-    flipped = !flipped;
-    draw();
+  document.querySelector("#check-card").addEventListener("click", () => {
+    const expected = cards[index][1].match(/[A-ZÄÖÜa-zäöüß]{6,}/g) || [];
+    const text = normalizeGerman(answer.value);
+    const hits = expected.filter((word) => text.includes(normalizeGerman(word)));
+    const key = `card-${index}`;
+    const passed = hits.length >= Math.min(3, expected.length);
+    const correction = stagedCorrection(key, passed, "Nenne Definition, Abgrenzung und Prüfungsnutzen der Karte.", cards[index][1]);
+    feedback.className = `micro-feedback ${correction.className}`;
+    feedback.innerHTML = `${correction.html}${passed ? `<p>Treffer: ${escapeHtml([...new Set(hits)].join(", "))}</p>` : ""}`;
   });
-  document.querySelector("#known-card").addEventListener("click", () => {
-    state.cards += 1;
+  document.querySelector("#flip-card").addEventListener("click", () => {
+    state.unlockedSolutions[`card-${index}`] = true;
     saveState();
-    index = (index + 1) % cards.length;
-    flipped = false;
-    draw();
+    feedback.className = "micro-feedback ok";
+    feedback.innerHTML = modelSolutionBlock(`card-${index}`, cards[index][1]);
   });
   document.querySelector("#next-card").addEventListener("click", () => {
+    if (answer.value.trim()) state.cards += 1;
+    saveState();
     index = (index + 1) % cards.length;
-    flipped = false;
     draw();
   });
   draw();
 }
 
 function setupMatch() {
-  const area = document.querySelector("#match-area");
+  const area = document.querySelector("#cloze-drill");
+  let current = 0;
   const draw = () => {
-    const round = [...matchPool].sort(() => Math.random() - 0.5).slice(0, 4);
-    const answers = round.map((item) => item[1]).sort(() => Math.random() - 0.5);
-    area.innerHTML = round.map(([term], index) => `
-      <div class="match-row">
-        <strong>${term}</strong>
-        <select data-answer="${round[index][1]}">
-          <option value="">Zuordnung wählen</option>
-          ${answers.map((answer) => `<option>${answer}</option>`).join("")}
-        </select>
+    const drill = clozeDrills[current];
+    area.innerHTML = `
+      <div class="cloze-text">
+        <p>${escapeHtml(drill.text[0])}<input data-cloze="0" type="text" />${escapeHtml(drill.text[1])}</p>
       </div>
-    `).join("");
+      <div id="cloze-feedback" class="micro-feedback" aria-live="polite"></div>
+    `;
   };
-  area.addEventListener("change", (event) => {
-    const select = event.target.closest("select");
-    if (!select) return;
-    select.style.borderColor = select.value === select.dataset.answer ? "var(--green)" : "var(--red)";
+  document.querySelector("#cloze-check").addEventListener("click", () => {
+    const drill = clozeDrills[current];
+    const value = normalizeGerman(document.querySelector("[data-cloze='0']").value);
+    const feedback = document.querySelector("#cloze-feedback");
+    const hits = drill.expected.filter((keyword) => value.includes(normalizeGerman(keyword)));
+    const passed = drill.answers.some((answer) => value.includes(normalizeGerman(answer)));
+    const key = `cloze-${current}`;
+    const correction = stagedCorrection(key, passed, drill.hint, `Einsetzen: ${drill.answers.join(" / ")}. Fachlich muss dies mit ${drill.expected.join(", ")} verknüpft werden.`);
+    feedback.className = `micro-feedback ${correction.className}`;
+    feedback.innerHTML = `${correction.html}${passed ? `<p>Treffer: ${escapeHtml(hits.join(", ") || drill.answers.join(", "))}</p>` : ""}`;
   });
-  document.querySelector("#new-match").addEventListener("click", draw);
+  document.querySelector("#new-cloze").addEventListener("click", () => {
+    current = (current + 1) % clozeDrills.length;
+    draw();
+  });
   draw();
 }
 
 function setupCases() {
-  const box = document.querySelector("#case-drill");
-  const current = cases[Math.floor(Math.random() * cases.length)];
-  box.innerHTML = `
-    <p>${current.text}</p>
-    ${current.options.map((option) => `
-      <label class="case-option">
-        <input type="radio" name="case" value="${option}" /> ${option}
-      </label>
-    `).join("")}
-    <p id="case-feedback"></p>
-  `;
-  document.querySelector("#case-check").addEventListener("click", () => {
-    const chosen = document.querySelector('input[name="case"]:checked');
-    document.querySelector("#case-feedback").textContent = chosen?.value === current.answer
-      ? "Richtig. Jetzt mit zwei historischen Stichworten begründen."
-      : `Noch nicht. Tragender Themenkreis: ${current.answer}.`;
+  const box = document.querySelector("#free-drill");
+  const answer = document.querySelector("#free-answer");
+  const feedback = document.querySelector("#free-feedback");
+  let current = 0;
+  const draw = () => {
+    const drill = freeTextDrills[current];
+    box.innerHTML = `
+      <p class="source-chip">${escapeHtml(drill.source)}</p>
+      <strong>${escapeHtml(drill.task)}</strong>
+    `;
+    answer.value = "";
+    feedback.innerHTML = "";
+    feedback.className = "micro-feedback";
+  };
+  document.querySelector("#free-check").addEventListener("click", () => {
+    const drill = freeTextDrills[current];
+    const text = normalizeGerman(answer.value);
+    const hits = drill.expected.filter((keyword) => text.includes(normalizeGerman(keyword)));
+    const passed = hits.length >= drill.minHits;
+    const key = `free-${current}`;
+    const solution = compactModelSolution(`${drill.source} ${drill.task}`, drill.expected);
+    const correction = stagedCorrection(key, passed, drill.hint, solution);
+    feedback.className = `micro-feedback ${correction.className}`;
+    feedback.innerHTML = `${correction.html}${passed ? `<p>Treffer: ${escapeHtml(hits.join(", "))}</p>` : ""}`;
   });
+  document.querySelector("#new-free").addEventListener("click", () => {
+    current = (current + 1) % freeTextDrills.length;
+    draw();
+  });
+  draw();
 }
 
 document.querySelector("#reset-progress").addEventListener("click", () => {
