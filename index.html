@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rechtsgeschichte Labor</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="mark">RG</span>
+        <div>
+          <h1>Rechtsgeschichte Labor</h1>
+          <p>Stoff, Zeitstrahl, Textanalyse und Klausurtraining</p>
+        </div>
+      </div>
+      <nav aria-label="Hauptnavigation">
+        <a href="#stoff">Stoff</a>
+        <a href="#lernkarte">Lernkarte</a>
+        <a href="#gedaechtnis">Bildanker</a>
+        <a href="#materialien">Materialien</a>
+        <a href="#zeitstrahl">Zeitstrahl</a>
+        <a href="#training">Training</a>
+        <a href="#repetition">Repetition</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Rechtsgeschichte</p>
+          <h2 id="hero-title">Vom Stammesrecht zur Moderne, prüfungsnah trainiert.</h2>
+          <p>
+            Eine grosse Lernplattform für die Verbindung von Epochenwissen, Rechtsquellen,
+            Institutionen, Ideengeschichte und eigenständiger Textinterpretation.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#simulator">Prüfung starten</a>
+            <a class="button" href="#stoff">Stoff erkunden</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Prüfungsraster">
+          <img src="assets/source/analyseraster.jpeg" alt="Analyseraster für die Quellenanalyse" />
+        </div>
+      </section>
+
+      <section id="lernkarte" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Lernarchitektur</p>
+            <h2>Vom Stoff zur Textanalyse</h2>
+          </div>
+        </div>
+        <div class="learning-map">
+          <aside class="learning-rail" aria-label="Kapitel auswählen">
+            <div id="chapter-list"></div>
+          </aside>
+          <article id="chapter-detail" class="chapter-detail"></article>
+        </div>
+      </section>
+
+      <section class="dashboard" aria-label="Lernstand">
+        <article>
+          <strong id="progress-score">0%</strong>
+          <span>bearbeiteter Stoff</span>
+        </article>
+        <article>
+          <strong id="card-score">0</strong>
+          <span>gefestigte Karten</span>
+        </article>
+        <article>
+          <strong id="exam-score">-</strong>
+          <span>letzte Selbstkorrektur</span>
+        </article>
+        <article>
+          <strong id="material-count">104</strong>
+          <span>Dropbox-Dateien integriert</span>
+        </article>
+      </section>
+
+      <section id="stoff" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Teil 1</p>
+            <h2>Stoffteil</h2>
+          </div>
+          <div class="tools">
+            <input id="module-search" type="search" placeholder="Stoff suchen" />
+            <select id="epoch-filter" aria-label="Epoche filtern">
+              <option value="all">Alle Epochen</option>
+            </select>
+          </div>
+        </div>
+        <div id="module-grid" class="module-grid"></div>
+      </section>
+
+      <section id="materialien" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Vollständiger Import</p>
+            <h2>Materialbibliothek</h2>
+          </div>
+          <div class="tools">
+            <input id="material-search" type="search" placeholder="Material suchen" />
+            <select id="material-filter" aria-label="Materialtyp filtern">
+              <option value="all">Alle Materialien</option>
+            </select>
+          </div>
+        </div>
+        <div class="import-summary">
+          <article>
+            <strong id="material-total">104</strong>
+            <span>.goodnotes-Dateien aus dem Dokumentenordner</span>
+          </article>
+          <article>
+            <strong id="material-visible">94</strong>
+            <span>aktuell sichtbar</span>
+          </article>
+          <article>
+            <strong>vollständig</strong>
+            <span>vollständige Ordnerstruktur, Quellen, Lösungen, Folien, Stoffeinheiten</span>
+          </article>
+        </div>
+        <div id="material-grid" class="material-grid"></div>
+      </section>
+
+      <section id="zeitstrahl" class="section split">
+        <div>
+          <p class="eyebrow">Chronologie</p>
+          <h2>Zeitstrahl</h2>
+          <p class="lead">
+            Ereignisse, Werke und Rechtsquellen sind miteinander verknüpft. Nutze den
+            Zeitstrahl als Orientierung vor jeder Quellenanalyse.
+          </p>
+          <div class="legend">
+            <span><i class="dot event"></i>Ereignis</span>
+            <span><i class="dot law"></i>Recht</span>
+            <span><i class="dot work"></i>Werk</span>
+          </div>
+          <div class="source-links">
+            <a href="assets/source/zeitstrahl-rechtsgeschichte.pdf">Zeitstrahl-PDF</a>
+            <a href="assets/source/sachverhalt-fs-2025.pdf">Prüfung FS 2025</a>
+            <a href="assets/source/musterloesung-pruefung-fs2025.pdf">Musterlösung FS 2025</a>
+          </div>
+          <div class="timeline-controls" aria-label="Zeitstrahl filtern">
+            <button class="active" data-timeline-filter="all" type="button">Alle</button>
+            <button data-timeline-filter="event" type="button">Ereignisse</button>
+            <button data-timeline-filter="law" type="button">Recht</button>
+            <button data-timeline-filter="work" type="button">Werke</button>
+          </div>
+          <article id="timeline-detail" class="timeline-detail"></article>
+        </div>
+        <div id="timeline" class="timeline" tabindex="0"></div>
+      </section>
+
+      <section id="gedaechtnis" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Mnemotechnik</p>
+            <h2>Bildanker</h2>
+          </div>
+        </div>
+        <div id="mnemonic-grid" class="mnemonic-grid"></div>
+      </section>
+
+      <section id="training" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Aufbaukurs</p>
+            <h2>Schrittweise zum Prüfungsformat</h2>
+          </div>
+        </div>
+        <div id="training-ladder" class="training-ladder"></div>
+      </section>
+
+      <section id="simulator" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Teil 2</p>
+            <h2>Prüfungssimulator</h2>
+          </div>
+          <div class="timer">
+            <button id="timer-toggle" class="icon-button" type="button" aria-label="Timer starten">▶</button>
+            <span id="timer-label">180:00</span>
+          </div>
+        </div>
+
+        <div class="exam-layout">
+          <aside class="exam-tabs" aria-label="Prüfungsteile">
+            <button class="active" data-exam-tab="source">Teil A: Text</button>
+            <button data-exam-tab="absolutism">Teil B I</button>
+            <button data-exam-tab="revolution">Teil B II</button>
+            <button data-exam-tab="ns">Teil B III</button>
+          </aside>
+
+          <div class="exam-workspace">
+            <article id="source" class="exam-pane active">
+              <h3>Päpstliche Bulle zur Gründung eines Studium generale</h3>
+              <div class="source-picker">
+                <label for="source-select">Quellentext aus dem Import</label>
+                <select id="source-select"></select>
+                <a id="source-link" class="button" href="assets/source/sachverhalt-fs-2025.pdf">Quelle öffnen</a>
+              </div>
+              <p id="dynamic-source" class="source-text">
+                Der Text begründet die Wissenschaft als Gabe Gottes, ordnet mit apostolischer
+                Autorität ein Studium generale mit Theologie, kanonischem und weltlichem Recht
+                an, gewährt Privilegien, Freiheiten und Immunitäten für Lehrende und Studierende
+                und droht kirchliche Sanktionen gegen Störungen an. Bei Bedarf kann der weltliche
+                Arm zur Durchsetzung beigezogen werden.
+              </p>
+              <div class="answer-grid">
+                <label>Zusammenfassung <textarea data-check="summary" rows="5"></textarea></label>
+                <label>Sachliche Aussage 1 <textarea data-check="topic1" rows="7"></textarea></label>
+                <label>Sachliche Aussage 2 <textarea data-check="topic2" rows="7"></textarea></label>
+                <label>Historische Verortung <textarea data-check="dating" rows="4"></textarea></label>
+                <label>Gegenwartsbezüge <textarea data-check="present" rows="5"></textarea></label>
+              </div>
+              <button class="button primary evaluate" data-evaluate="source" type="button">Selbstkorrektur</button>
+              <div id="feedback-source" class="feedback" aria-live="polite"></div>
+            </article>
+
+            <article id="absolutism" class="exam-pane">
+              <h3>Absolutismus</h3>
+              <ol class="question-list">
+                <li>Inhalte der Herrschaftsform mit Beispielen.</li>
+                <li>Entstehungsbedingungen.</li>
+                <li>Zwei prägende rechtsphilosophische Beispiele.</li>
+                <li>Drei rechtliche oder politische Konsequenzen.</li>
+              </ol>
+              <textarea data-check="absolutism" rows="14"></textarea>
+              <button class="button primary evaluate" data-evaluate="absolutism" type="button">Selbstkorrektur</button>
+              <div id="feedback-absolutism" class="feedback" aria-live="polite"></div>
+            </article>
+
+            <article id="revolution" class="exam-pane">
+              <h3>Französische Revolution und Schweiz</h3>
+              <p class="source-text">
+                Ein Beobachter beschreibt 1798 die Schweiz als von französischen Truppen,
+                Freiheitsbäumen, demokratisierenden Bewegungen, bäuerlichen Drohungen und
+                Angst vor Gewalt erfasst.
+              </p>
+              <textarea data-check="revolution" rows="14"></textarea>
+              <button class="button primary evaluate" data-evaluate="revolution" type="button">Selbstkorrektur</button>
+              <div id="feedback-revolution" class="feedback" aria-live="polite"></div>
+            </article>
+
+            <article id="ns" class="exam-pane">
+              <h3>Nationalsozialistische Herrschaft</h3>
+              <ol class="question-list">
+                <li>Anfälligkeit Deutschlands nach 1919.</li>
+                <li>Zentrale rechtliche Veränderungen ab 1933.</li>
+                <li>Historische Wurzeln des Antisemitismus und Eingang in die Rechtsordnung.</li>
+              </ol>
+              <textarea data-check="ns" rows="14"></textarea>
+              <button class="button primary evaluate" data-evaluate="ns" type="button">Selbstkorrektur</button>
+              <div id="feedback-ns" class="feedback" aria-live="polite"></div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="repetition" class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Training</p>
+            <h2>Übungs- und Repetitionsformen</h2>
+          </div>
+          <button id="reset-progress" class="button" type="button">Lernstand zurücksetzen</button>
+        </div>
+        <div class="practice-grid">
+          <article class="practice">
+            <h3>Karteikarten</h3>
+            <p id="flashcard" class="flashcard" tabindex="0"></p>
+            <div class="practice-actions">
+              <button id="flip-card" class="button" type="button">Aufdecken</button>
+              <button id="known-card" class="button primary" type="button">Gewusst</button>
+              <button id="next-card" class="button" type="button">Weiter</button>
+            </div>
+          </article>
+          <article class="practice">
+            <h3>Begriffe zuordnen</h3>
+            <div id="match-area" class="match-area"></div>
+            <button id="new-match" class="button" type="button">Neue Runde</button>
+          </article>
+          <article class="practice">
+            <h3>Mini-Fälle</h3>
+            <div id="case-drill"></div>
+            <button id="case-check" class="button primary" type="button">Prüfen</button>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Rechtsgeschichte Labor</span>
+      <span>Statisch, quellennah, GitHub-Pages-fähig</span>
+    </footer>
+
+    <script src="assets/data/dropbox-materials.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
