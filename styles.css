@@ -88,6 +88,31 @@ nav {
   gap: 8px;
 }
 
+.profile-switcher {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: flex-end;
+}
+
+.profile-switcher button {
+  min-height: 34px;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--muted);
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.profile-switcher button.active {
+  border-color: var(--blue);
+  background: var(--blue);
+  color: #fff;
+}
+
 nav a,
 .button,
 .icon-button {
@@ -1043,6 +1068,7 @@ footer {
   }
 
   nav,
+  .profile-switcher,
   .tools,
   .source-links {
     display: grid;

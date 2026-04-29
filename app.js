@@ -575,9 +575,49 @@ const examModelSolutions = {
   ns: "Eine tragfähige Antwort erklärt zuerst die Anfälligkeit nach 1919: Weimarer Belastungen, Versailles, Krisen, Radikalisierung, Inflation und Arbeitslosigkeit. Ab 1933 wird Recht durch Ermächtigungsgesetz, Führerprinzip, Gleichschaltung, Sondergerichte, Einheitspartei und Sonderrecht umgebaut. Antisemitismus wird rassistisch-biologistisch aufgeladen und rechtlich operationalisiert, etwa in Reichsbürgerrecht, Blutschutz, Eheverboten und Ausschluss aus voller Rechtsstellung. Nach 1945 reagieren Menschenrechte, internationale Ordnung und Radbruch-Formel auf extremes Unrecht."
 };
 
-const state = JSON.parse(localStorage.getItem("rg-lab-state") || '{"done":[],"cards":0,"lastExam":null}');
-state.correctionAttempts ||= {};
-state.unlockedSolutions ||= {};
+const profiles = [
+  { id: "vera", label: "Vera" },
+  { id: "lena", label: "Lena" },
+  { id: "dreamteam", label: "DreamTeam" },
+  { id: "open", label: "Offen" }
+];
+
+const defaultState = () => ({
+  done: [],
+  cards: 0,
+  lastExam: null,
+  correctionAttempts: {},
+  unlockedSolutions: {}
+});
+
+let activeProfile = localStorage.getItem("rg-lab-active-profile") || "open";
+if (!profiles.some((profile) => profile.id === activeProfile)) activeProfile = "open";
+
+function profileStorageKey(profileId = activeProfile) {
+  return `rg-lab-state-${profileId}`;
+}
+
+function normalizeState(value) {
+  const next = { ...defaultState(), ...(value || {}) };
+  next.done = Array.isArray(next.done) ? next.done : [];
+  next.cards = Number.isFinite(Number(next.cards)) ? Number(next.cards) : 0;
+  next.lastExam = next.lastExam === null || next.lastExam === undefined ? null : Number(next.lastExam);
+  next.correctionAttempts = next.correctionAttempts || {};
+  next.unlockedSolutions = next.unlockedSolutions || {};
+  return next;
+}
+
+function loadProfileState(profileId) {
+  const stored = localStorage.getItem(profileStorageKey(profileId));
+  if (stored) return normalizeState(JSON.parse(stored));
+  if (profileId === "open") {
+    const legacy = localStorage.getItem("rg-lab-state");
+    if (legacy) return normalizeState(JSON.parse(legacy));
+  }
+  return defaultState();
+}
+
+let state = loadProfileState(activeProfile);
 
 function escapeHtml(value) {
   return String(value)
@@ -637,8 +677,31 @@ function compactModelSolution(prompt, expected) {
 }
 
 function saveState() {
-  localStorage.setItem("rg-lab-state", JSON.stringify(state));
+  localStorage.setItem(profileStorageKey(), JSON.stringify(state));
   updateStats();
+}
+
+function renderProfileSwitcher() {
+  const switcher = document.querySelector("#profile-switcher");
+  switcher.innerHTML = profiles.map((profile) => `
+    <button class="${profile.id === activeProfile ? "active" : ""}" data-profile="${profile.id}" type="button">
+      ${escapeHtml(profile.label)}
+    </button>
+  `).join("");
+  if (!switcher.dataset.bound) {
+    switcher.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-profile]");
+      if (!button || button.dataset.profile === activeProfile) return;
+      saveState();
+      activeProfile = button.dataset.profile;
+      localStorage.setItem("rg-lab-active-profile", activeProfile);
+      state = loadProfileState(activeProfile);
+      renderProfileSwitcher();
+      updateStats();
+      renderModules();
+    });
+    switcher.dataset.bound = "true";
+  }
 }
 
 function updateStats() {
@@ -1193,13 +1256,12 @@ function setupCases() {
 }
 
 document.querySelector("#reset-progress").addEventListener("click", () => {
-  state.done = [];
-  state.cards = 0;
-  state.lastExam = null;
+  state = defaultState();
   saveState();
   renderModules();
 });
 
+renderProfileSwitcher();
 renderModules();
 renderLearningMap();
 renderMaterials();
