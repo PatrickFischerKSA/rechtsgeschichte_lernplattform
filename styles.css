@@ -278,8 +278,64 @@ textarea {
   margin-top: 6px;
 }
 
-.module-card button {
+.module-card > button {
   margin-top: auto;
+}
+
+.control-block {
+  margin: 14px 0;
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+.control-block summary {
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.control-question {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f8f7f2;
+}
+
+.control-question h4,
+.control-question p {
+  margin-bottom: 0;
+}
+
+.control-question textarea {
+  min-height: 130px;
+  background: #fff;
+}
+
+.control-question .button {
+  justify-self: start;
+}
+
+.control-feedback {
+  display: grid;
+  gap: 6px;
+  padding: 12px;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.control-feedback:empty {
+  display: none;
+}
+
+.control-feedback p {
+  margin-bottom: 0;
+}
+
+.control-feedback ul {
+  margin: 0;
+  padding-left: 18px;
 }
 
 .learning-map {

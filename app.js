@@ -133,6 +133,34 @@ const modules = [
   }
 ];
 
+const controlQuestionTypes = [
+  {
+    label: "Abgrenzungsanalyse",
+    minWords: 90,
+    prompt: (module) => `Arbeite für "${module.title}" eine präzise Abgrenzung heraus: Was unterscheidet dieses Thema von der unmittelbar vorhergehenden oder nachfolgenden Entwicklungsstufe? Formuliere mindestens zwei Abgrenzungskriterien und erkläre, weshalb eine blosse Stichwortdefinition nicht genügt.`
+  },
+  {
+    label: "Quellenindizien",
+    minWords: 100,
+    prompt: (module) => `Du erhältst eine unbekannte Quelle zu "${module.title}". Nenne fünf Indizien, an denen du das Thema erkennen würdest, und begründe bei jedem Indiz, welchen historischen Schluss es erlaubt.`
+  },
+  {
+    label: "Kausalmodell",
+    minWords: 110,
+    prompt: (module) => `Baue ein Kausalmodell mit mindestens vier Stufen: Welche Voraussetzungen führen zu welchen rechtlichen Formen, Institutionen oder Konflikten? Zeige dabei mindestens eine Gegenkraft oder Begrenzung.`
+  },
+  {
+    label: "Prüfungsbaustein",
+    minWords: 120,
+    prompt: (module) => `Schreibe einen ausformulierten Baustein für eine sachliche Aussage in der Quellenanalyse. Der Baustein muss vom Textbefund ausgehen, Stoffwissen entfalten und am Ende zurück zum Quellenproblem führen.`
+  },
+  {
+    label: "Fehlerdiagnose",
+    minWords: 100,
+    prompt: (module) => `Korrigiere folgende zu einfache Aussage zum Thema "${module.title}": "Das ist vor allem wichtig, weil es später moderner wurde." Ersetze sie durch eine differenzierte historische Erklärung mit Fachbegriffen, Grenzen und einem prüfbaren Gegenwartsbezug.`
+  }
+];
+
 const timeline = [
   ["ca. 400 v. Chr.", "Nikomachische Ethik und Politica", "work", "Aristoteles; frühe naturrechtliche und politische Grundfragen."],
   ["391", "Christentum als Staatsreligion", "event", "Theodosius I. verbindet Reich und christliche Ordnung."],
@@ -385,6 +413,63 @@ function updateStats() {
   document.querySelector("#material-total").textContent = materials.length;
 }
 
+function moduleKeywordPool(module) {
+  const stop = new Set(["diese", "dieser", "dieses", "einer", "einem", "einen", "nicht", "oder", "und", "recht", "rechts", "werden", "durch", "thema", "quellen", "historisch"]);
+  const text = `${module.title} ${module.focus} ${module.points.join(" ")}`.toLowerCase();
+  const words = text.match(/[a-zäöüß]{6,}/g) || [];
+  return [...new Set(words.filter((word) => !stop.has(word)))].slice(0, 18);
+}
+
+function buildControlQuestions(module) {
+  const keywords = moduleKeywordPool(module);
+  return controlQuestionTypes.map((type, index) => ({
+    ...type,
+    expected: keywords.slice(index * 2, index * 2 + 8).concat(keywords.slice(0, 4))
+  }));
+}
+
+function correctionMessage(score, maxScore, hits, missing, wordCount) {
+  if (score >= maxScore - 1) {
+    return `Stark. ${wordCount} Wörter, tragende Begriffe erkannt (${hits.join(", ")}). Jetzt noch knapper und mit einem expliziten Textsignal formulieren.`;
+  }
+  if (score >= Math.ceil(maxScore / 2)) {
+    return `Teilweise tragfähig. Treffer: ${hits.join(", ") || "wenige"}. Nachschärfen: ${missing.join(", ")}. Achte auf Kausalität, Abgrenzung und konkrete historische Begriffe.`;
+  }
+  return `Noch nicht prüfungsfest. ${wordCount} Wörter; es fehlen zentrale Begriffe wie ${missing.join(", ")}. Baue zuerst eine klare These, dann Begründung, dann Rückbindung an eine Quelle.`;
+}
+
+function evaluateControlQuestion(button) {
+  const moduleIndex = Number(button.dataset.module);
+  const questionIndex = Number(button.dataset.question);
+  const module = modules[moduleIndex];
+  const question = buildControlQuestions(module)[questionIndex];
+  const textarea = document.querySelector(`[data-control-answer="${moduleIndex}-${questionIndex}"]`);
+  const feedback = document.querySelector(`#control-feedback-${moduleIndex}-${questionIndex}`);
+  const answer = textarea.value.toLowerCase();
+  const words = answer.match(/[a-zäöüß]{2,}/g) || [];
+  const uniqueHits = [...new Set(question.expected.filter((keyword) => answer.includes(keyword.toLowerCase())))];
+  const missing = question.expected.filter((keyword) => !uniqueHits.includes(keyword)).slice(0, 5);
+  const hasCausal = /\b(weil|deshalb|daher|folglich|führt|bedingt|voraussetzung|konsequenz|wirkung)\b/.test(answer);
+  const hasContrast = /\b(hingegen|während|anders|aber|jedoch|demgegenüber|nicht nur|sondern)\b/.test(answer);
+  const hasSourceLogic = /\b(quelle|text|indiz|begriff|institution|autorität|sanktion|verortung)\b/.test(answer);
+  let score = 0;
+  if (words.length >= question.minWords) score += 2;
+  if (uniqueHits.length >= 3) score += 1;
+  if (uniqueHits.length >= 6) score += 1;
+  if (hasCausal) score += 1;
+  if (hasContrast || hasSourceLogic) score += 1;
+  const maxScore = 6;
+  feedback.innerHTML = `
+    <strong>${score}/${maxScore} Kriterien erfüllt</strong>
+    <p>${escapeHtml(correctionMessage(score, maxScore, uniqueHits, missing, words.length))}</p>
+    <ul>
+      <li>Mindestumfang: ${words.length}/${question.minWords} Wörter</li>
+      <li>Fachbegriffe: ${uniqueHits.length ? escapeHtml(uniqueHits.join(", ")) : "noch keine tragenden Treffer"}</li>
+      <li>Argumentationsstruktur: ${hasCausal ? "Kausalität vorhanden" : "Kausalität fehlt"}; ${hasContrast ? "Abgrenzung vorhanden" : "Abgrenzung schwach"}; ${hasSourceLogic ? "Quellenlogik vorhanden" : "Quellenlogik fehlt"}</li>
+    </ul>
+  `;
+}
+
 function renderModules() {
   const grid = document.querySelector("#module-grid");
   const filter = document.querySelector("#epoch-filter");
@@ -405,6 +490,19 @@ function renderModules() {
           </header>
           <p>${module.focus}</p>
           <ul>${module.points.map((point) => `<li>${point}</li>`).join("")}</ul>
+          <details class="control-block">
+            <summary>5 schwierige Kontrollfragen mit Sofortkorrektur</summary>
+            ${buildControlQuestions(module).map((question, questionIndex) => `
+              <section class="control-question">
+                <p class="eyebrow">${question.label}</p>
+                <h4>Aufgabe ${questionIndex + 1}</h4>
+                <p>${escapeHtml(question.prompt(module))}</p>
+                <textarea data-control-answer="${index}-${questionIndex}" rows="5" placeholder="Ausformulierte Antwort schreiben..."></textarea>
+                <button class="button primary" data-check-control data-module="${index}" data-question="${questionIndex}" type="button">Sofort korrigieren</button>
+                <div id="control-feedback-${index}-${questionIndex}" class="control-feedback" aria-live="polite"></div>
+              </section>
+            `).join("")}
+          </details>
           <button class="button ${state.done.includes(index) ? "primary" : ""}" data-done="${index}" type="button">
             ${state.done.includes(index) ? "Gefestigt" : "Als gelernt markieren"}
           </button>
@@ -413,14 +511,21 @@ function renderModules() {
       .join("");
   };
 
-  grid.addEventListener("click", (event) => {
-    const button = event.target.closest("[data-done]");
-    if (!button) return;
-    const index = Number(button.dataset.done);
-    state.done = state.done.includes(index) ? state.done.filter((item) => item !== index) : [...state.done, index];
-    saveState();
-    draw();
-  });
+  if (!grid.dataset.listenersBound) {
+    grid.addEventListener("click", (event) => {
+      const doneButton = event.target.closest("[data-done]");
+      if (doneButton) {
+        const index = Number(doneButton.dataset.done);
+        state.done = state.done.includes(index) ? state.done.filter((item) => item !== index) : [...state.done, index];
+        saveState();
+        draw();
+        return;
+      }
+      const controlButton = event.target.closest("[data-check-control]");
+      if (controlButton) evaluateControlQuestion(controlButton);
+    });
+    grid.dataset.listenersBound = "true";
+  }
 
   document.querySelector("#module-search").addEventListener("input", draw);
   filter.addEventListener("change", draw);
