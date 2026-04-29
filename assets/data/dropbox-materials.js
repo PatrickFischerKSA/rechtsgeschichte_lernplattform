@@ -5,22 +5,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(1) Einführung/(1) Infos - Literatur.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(1) Einführung/(1) Infos - Literatur.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(1) Einführung/(1) Infos - Literatur.pdf",
     "notes": 11,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "verfügbar",
-      "vorlesung",
-      "folien",
-      "history",
-      "legal",
-      "https",
-      "online"
+      "garantie",
+      "keine",
+      "technisches",
+      "übungen",
+      "andere",
+      "angebot",
+      "assessmentstufe",
+      "aufzeichnungen",
+      "beachten",
+      "begleitet"
     ],
-    "excerpt": "178B6E5D-67DE-5D68-AB6B-FCF0A4EE66AC search/178B6E5D-67DE-5D68-AB6B-FCF0A4EE66AC 854EA283-34F1-5619-84FD-407E4F0AC7C5 notes/854EA283-34F1-5619-84FD-407E4F0AC7C5R D6A35D3F-B278-5AF7-9A2F-98B65A5DA69D notes/D6A35D3F-B278-5AF7-9A2F-98B65A5DA69DR EAED833A-B27D-5071-A9F3-AC4D2ABB5F81 notes/EAED833A-B27D-5071-A9F3-AC4D2ABB5F81R 8B14C54F-238D-5701-BADF-5A000749236D notes/8B14C54F-238D-5701-BADF-5A000749236DR 40D10721-D99E-5094-A652-0B575FCB64AE notes/40D10721-D99E-5094-A652-0B575FCB64AER 4CD31EE4-5910-5AF9-A8F0-E416DE2445B0 notes/4CD31EE4-5910-5AF9-A8F0-E416DE2445B0R 4DD016BD-B6A5-5CB9-94E6-833C655DFA43 notes/4DD016BD-B6A5-5CB9-94E6-833C655DFA43R 707B45E2-4B0D-5E02-939F-18C5C00037C9 notes/707B45E2-4B0D-5E02-939F-18C5C00037C9R 348DCBFE-ACDC-513F-A68C-083A5E778659 notes/348DCBFE-ACDC-513F-A68C-083A5E778659R E01495B5-7CFC-5A91-B64E-68957F4D577A notes/E01495B5-7CFC-5A91-B64E-68957F4D577AR DF38C599-"
+    "excerpt": "Vorlesung– Teil des Assessment-Moduls Rechtsgeschichte– Verknüpft mit den „Übungen zur Rechtsgeschichte“ (FS2024)– Gemeinsam Grundlage des Leistungsnachweises –Klausur von 3 Stunden – im Sommer 2024 Vorlesung– Bereitet auf die Übungen vor– Zielt auf die Vermittlung von Grundlagenwissen– Ist auch als Angebot zur Reflexion über andere Fächer(nicht nur) der Assessmentstufe gedachtRechtsgeschichte (Assessment) Seite 2 Technisches (1)§ Vorlesung wird durch verschiedene Materialien begleitet– Skript und Quellentexte– Folien– Podcasts:– Grundsätzlich nur für Mitglieder der UZH– Bitte beachten Sie– Erste Sitzreihen von der Kamera miterfasst– Keine Garantie störungsfreier Aufzeichnungen– Keine Garantie permanenter Verfügbarkeit– Im Zweifel: Vorrang des Skripts und der Folien– Benutzung nur für den Privatgebrauch§ Zugriff über LHA und OLATRechtsgeschichte (Assessment) Seite 3 Technisches (2): ..."
   },
   {
     "title": "(2) Perspektiven der Rechtsgeschichte",
@@ -28,22 +29,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(1) Einführung/(2) Perspektiven der Rechtsgeschichte.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(1) Einführung/(2) Perspektiven der Rechtsgeschichte.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(1) Einführung/(2) Perspektiven der Rechtsgeschichte.pdf",
     "notes": 11,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "verfügbar",
-      "vorlesung",
-      "folien",
-      "history",
-      "legal",
-      "https",
-      "online"
+      "garantie",
+      "keine",
+      "technisches",
+      "übungen",
+      "andere",
+      "angebot",
+      "assessmentstufe",
+      "aufzeichnungen",
+      "beachten",
+      "begleitet"
     ],
-    "excerpt": "BF3832AD-BDAA-5C50-971C-DD50CA9C3445 search/BF3832AD-BDAA-5C50-971C-DD50CA9C3445U 9B0E90FC-286E-5829-8EBB-D06C31C0AA27 search/9B0E90FC-286E-5829-8EBB-D06C31C0AA27 148F611A-83A8-524B-9B7F-EDEF9F326609 notes/148F611A-83A8-524B-9B7F-EDEF9F326609R 7DDBB4F7-47A3-59E1-875B-11B745AA682F notes/7DDBB4F7-47A3-59E1-875B-11B745AA682FR 25823050-832B-5D50-94D1-6F94B30A7328 notes/25823050-832B-5D50-94D1-6F94B30A7328R 44154016-017D-57D8-8634-3D29EA7697DD notes/44154016-017D-57D8-8634-3D29EA7697DDR 891F67D2-ED88-5A90-B8C7-D4C772BB0D29 notes/891F67D2-ED88-5A90-B8C7-D4C772BB0D29R F525779A-AE94-56F4-B0CF-191F6841A088 notes/F525779A-AE94-56F4-B0CF-191F6841A088R C8FE4AFF-5CE2-5FAB-8DBF-EAD912D5E8C0 notes/C8FE4AFF-5CE2-5FAB-8DBF-EAD912D5E8C0R 706748DA-1631-5F3B-9AD7-141B150A4A61 notes/706748DA-1631-5F3B-9AD7-141B150A4A61R notes/BF3832AD-BDAA-5C50-971C-DD50CA9C3445R 283F75B5-496F-5A2D-81CF-C69E40F0E3FF notes/28"
+    "excerpt": "Vorlesung– Teil des Assessment-Moduls Rechtsgeschichte– Verknüpft mit den „Übungen zur Rechtsgeschichte“ (FS2024)– Gemeinsam Grundlage des Leistungsnachweises –Klausur von 3 Stunden – im Sommer 2024 Vorlesung– Bereitet auf die Übungen vor– Zielt auf die Vermittlung von Grundlagenwissen– Ist auch als Angebot zur Reflexion über andere Fächer(nicht nur) der Assessmentstufe gedachtRechtsgeschichte (Assessment) Seite 2 Technisches (1)§ Vorlesung wird durch verschiedene Materialien begleitet– Skript und Quellentexte– Folien– Podcasts:– Grundsätzlich nur für Mitglieder der UZH– Bitte beachten Sie– Erste Sitzreihen von der Kamera miterfasst– Keine Garantie störungsfreier Aufzeichnungen– Keine Garantie permanenter Verfügbarkeit– Im Zweifel: Vorrang des Skripts und der Folien– Benutzung nur für den Privatgebrauch§ Zugriff über LHA und OLATRechtsgeschichte (Assessment) Seite 3 Technisches (2): ..."
   },
   {
     "title": "(3) Ansatzpunkte",
@@ -51,22 +53,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(1) Einführung/(3) Ansatzpunkte.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(1) Einführung/(3) Ansatzpunkte.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(1) Einführung/(3) Ansatzpunkte.pdf",
     "notes": 11,
     "searchPages": 3,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "verfügbar",
-      "vorlesung",
-      "folien",
-      "history",
-      "legal",
-      "https",
-      "online"
+      "garantie",
+      "keine",
+      "übungen",
+      "andere",
+      "angebot",
+      "assessmentstufe",
+      "aufzeichnungen",
+      "beachten",
+      "begleitet",
+      "benutzung"
     ],
-    "excerpt": "422A73FB-27A5-5DAB-9BB7-70AFAF63B9F1 search/422A73FB-27A5-5DAB-9BB7-70AFAF63B9F1S 7648580D-91C4-5116-B467-DCC6BFB84DF3 search/7648580D-91C4-5116-B467-DCC6BFB84DF3U 9E295A2D-2DC2-5B1E-9CB9-2947BFC19C45 search/9E295A2D-2DC2-5B1E-9CB9-2947BFC19C45 C0DA7E17-9DA2-5E1A-B0EB-0BA430A3F79D notes/C0DA7E17-9DA2-5E1A-B0EB-0BA430A3F79DR FE88C69D-01AE-5306-8502-8E9C87D9965D notes/FE88C69D-01AE-5306-8502-8E9C87D9965DR 9C8F4DD9-A612-5772-8433-5D42FC4B9728 notes/9C8F4DD9-A612-5772-8433-5D42FC4B9728R 40724D1B-647B-55D7-9D1C-A9DA3A317743 notes/40724D1B-647B-55D7-9D1C-A9DA3A317743R 37983CFF-6AC6-5E8C-9F98-8E962C8C276E notes/37983CFF-6AC6-5E8C-9F98-8E962C8C276ER 6CFF1646-ADB5-51C6-8F50-6D3CD5F449EE notes/6CFF1646-ADB5-51C6-8F50-6D3CD5F449EER 70FDD601-49FC-58EB-BCF7-44B83AD27F80 notes/70FDD601-49FC-58EB-BCF7-44B83AD27F80R 21DEAC43-A9DB-5651-B886-D193F8DE489B notes/21DEAC43-A9DB-5651-B886-D193F8DE489BR 47D659B"
+    "excerpt": "Was ist Recht für uns und wie sieht es aus? Vorlesung– Teil des Assessment-Moduls Rechtsgeschichte– Verknüpft mit den „Übungen zur Rechtsgeschichte“ (FS2024)– Gemeinsam Grundlage des Leistungsnachweises –Klausur von 3 Stunden – im Sommer 2024 Vorlesung– Bereitet auf die Übungen vor– Zielt auf die Vermittlung von Grundlagenwissen– Ist auch als Angebot zur Reflexion über andere Fächer(nicht nur) der Assessmentstufe gedachtRechtsgeschichte (Assessment) Seite 2 Technisches (1)§ Vorlesung wird durch verschiedene Materialien begleitet– Skript und Quellentexte– Folien– Podcasts:– Grundsätzlich nur für Mitglieder der UZH– Bitte beachten Sie– Erste Sitzreihen von der Kamera miterfasst– Keine Garantie störungsfreier Aufzeichnungen– Keine Garantie permanenter Verfügbarkeit– Im Zweifel: Vorrang des Skripts und der Folien– Benutzung nur für den Privatgebrauch§ Zugriff über LHA und ..."
   },
   {
     "title": "Zeitstrahl Rechtsgeschichte",
@@ -74,22 +77,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(1) Einführung/Zeitstrahl Rechtsgeschichte.goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(1) Einführung/Zeitstrahl Rechtsgeschichte.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(1) Einführung/Zeitstrahl Rechtsgeschichte.pdf",
     "notes": 1,
     "searchPages": 1,
     "attachments": 2,
     "keywords": [
-      "kaiser",
-      "reich",
-      "gründung",
-      "iuris",
-      "corpus",
-      "erste",
-      "naturrechtsphase",
-      "civilis",
-      "friedrich",
-      "kannst"
+      "zeitstrahl",
+      "erfolgreich",
+      "animiertbetrachten",
+      "anwendenum",
+      "auswendiglernen",
+      "bessere",
+      "blatt",
+      "dadurch",
+      "damit",
+      "dient"
     ],
-    "excerpt": "FA743491-CB02-5DDB-8F7D-3820B68FEC59 search/FA743491-CB02-5DDB-8F7D-3820B68FEC59 926F628C-44DD-5B86-A806-36DC81FA7005 notes/926F628C-44DD-5B86-A806-36DC81FA7005 F11. Jh. (ab 1001)12. – 17. Jh. Handelsorganisationen (z. B. Hanse)ab 19. Jh. Historische Rechtsschule12. – 17. Jh. Mos italicus12. – 13. Jh. Emanzipation der Kirche vom Reich –– Machtkampf um Vorherrschaft919 – 1024Ottonisches ReichZEITSTRAHL RECHTSGESCHICHTEÜbersicht gewinnenDer Zeitstrahl Rechtsgeschichte fasst rechtsgeschichtlich wichtige Ereignisse, rechtlicheGrundlagen und Werke zusammen und dient damit der Einführung ins Fach. In unseremLernvideo auf kannst du den Zeitstrahl zusätzlich animiertbetrachten, um eine noch bessere Übersicht zu gewinnen.Persönlich ergänzenWir empfehlen dir, den Zeitstrahl mit persönlichen Ergänzungen zu vervollständigen.Dadurch schaffst du dir einen echten Mehrwert. Es erleichtert dir das Auswen"
+    "excerpt": "F11. Jh. (ab 1001)12. – 17. Jh. Handelsorganisationen (z. B. Hanse)ab 19. Jh. Historische Rechtsschule12. – 17. Jh. Mos italicus12. – 13. Jh. Emanzipation der Kirche vom Reich Machtkampf um Vorherrschaft919 – 1024Ottonisches ReichZEITSTRAHL RECHTSGESCHICHTEÜbersicht gewinnenDer Zeitstrahl Rechtsgeschichte fasst rechtsgeschichtlich wichtige Ereignisse, rechtlicheGrundlagen und Werke zusammen und dient damit der Einführung ins Fach. In unseremLernvideo auf kannst du den Zeitstrahl zusätzlich animiertbetrachten, um eine noch bessere Übersicht zu gewinnen.Persönlich ergänzenWir empfehlen dir, den Zeitstrahl mit persönlichen Ergänzungen zu vervollständigen.Dadurch schaffst du dir einen echten Mehrwert. Es erleichtert dir das Auswendiglernen,wenn du den gesamten Lernstoff auf einem Blatt stichwortartig zusammengefasst hast.Erfolgreich anwendenUm die Prüfung in Rechtsgeschichte erfolgreich ..."
   },
   {
     "title": "(1) Übersicht",
@@ -97,22 +101,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(10) Natur- und Vernunftrecht/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(1) Übersicht.pdf",
     "notes": 16,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "natur",
-      "naturrecht",
       "aufklärung",
-      "kodifikation",
-      "vernunftrecht",
+      "epoche",
+      "individuum",
+      "ordnung",
+      "religiösen",
+      "zurück",
       "absolutismus",
-      "menschen"
+      "antike",
+      "aufgestellt",
+      "basis"
     ],
-    "excerpt": "E3605EE4-7C22-55E8-B221-EED29801C79C search/E3605EE4-7C22-55E8-B221-EED29801C79CU 87D1D6FF-C3C9-5700-BD6A-C69B68AF677E search/87D1D6FF-C3C9-5700-BD6A-C69B68AF677E notes/E3605EE4-7C22-55E8-B221-EED29801C79CR 509B5DCC-5C50-5088-BD1B-1497D641F493 notes/509B5DCC-5C50-5088-BD1B-1497D641F493R 1E529D1F-95CA-59BC-9A83-14E50EFF5393 notes/1E529D1F-95CA-59BC-9A83-14E50EFF5393R 4D905940-436E-5676-9EB5-9AB106C98C7A notes/4D905940-436E-5676-9EB5-9AB106C98C7AR AEC5C4BA-B198-57E0-874C-DD237B6CBFBD notes/AEC5C4BA-B198-57E0-874C-DD237B6CBFBDR 27B3F0E6-2043-5721-97AF-D1D8F6ECB520 notes/27B3F0E6-2043-5721-97AF-D1D8F6ECB520R F9228C45-BAC4-5EBA-BEFD-CC4DC50A6B27 notes/F9228C45-BAC4-5EBA-BEFD-CC4DC50A6B27R DD023F26-F3DE-5808-BB0E-3F44493ABDB3 notes/DD023F26-F3DE-5808-BB0E-3F44493ABDB3R 0CC9D7C1-8227-58C4-99C0-62CA6A62637D notes/0CC9D7C1-8227-58C4-99C0-62CA6A62637DR 16BF686A-6559-57DB-845E-9ADC153836AD notes/16"
+    "excerpt": "Die Kodifikation, also die Gestaltung von Recht setzt voraus, dass Recht gestaltbar ist Reflex von Absolutismus: Recht gestalten können Naturrechtskonzepte und Vernunftrechtskonzepte, die das 17. und 18. Jh. geprägt haben Das hier ist die letzte Epoche vor der französischen Reovlution In der blutigen Epoche gab es zugleich eine Denkweise, die sich durchsetzte, die man als rationalistisch bezeichnet (Richtung Aufklärung) Frühe Neuzeit / Aufklärung: Menschliches Individuum tritt hervor: Das Denken über rechtliche Ordnung beginnt sich um das Individuum zu organisieren Keine neue Erfindung (bis Antike zurück): Geht auf lange Tradition zurück Hier: Ordnung, die sich selbst unabhängig von einer religiösen Offenbarung und dem geltenden Recht aufgestellt wird, wie eine Metaordnung von Prinzipien: denunziert aus der Natur des Menschen Emanzipation von der religiösen Basis von recht zu einer ..."
   },
   {
     "title": "(2) Rationalismus - Aufklärung",
@@ -120,22 +125,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(10) Natur- und Vernunftrecht/(2) Rationalismus - Aufklärung.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(2) Rationalismus - Aufklärung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(2) Rationalismus - Aufklärung.pdf",
     "notes": 18,
     "searchPages": 6,
     "attachments": 3,
     "keywords": [
-      "notes",
-      "assessment",
-      "natur",
-      "seite",
-      "naturrecht",
-      "menschen",
-      "vernunftrecht",
-      "vernunftrechtliche",
-      "absolutismus",
-      "aufklärung"
+      "individuum",
+      "alles",
+      "autorität",
+      "gemeinwohl",
+      "vernunft",
+      "vernünftig",
+      "abstellen",
+      "anzweifeln",
+      "aufgestellt",
+      "ausgehen"
     ],
-    "excerpt": "C8DA5F07-B4D4-5AEF-8A09-466124AE4346 search/C8DA5F07-B4D4-5AEF-8A09-466124AE4346S 7DD40804-DBED-5EAD-8887-E8071EDAEBD6 search/7DD40804-DBED-5EAD-8887-E8071EDAEBD6S 56F76970-3187-4CEC-9CFA-C8032663C673 search/56F76970-3187-4CEC-9CFA-C8032663C673U 9114FC5B-6D6D-5409-92A4-5503BD1034C0 search/9114FC5B-6D6D-5409-92A4-5503BD1034C0 E6F90BAC-87B1-404C-8F56-4694AF023BCE search/E6F90BAC-87B1-404C-8F56-4694AF023BCE 68CDBC57-A908-481F-82FB-2181D6F2383C search/68CDBC57-A908-481F-82FB-2181D6F2383C 65966940-69EC-5242-BF5B-2ABD8BA8DB31 notes/65966940-69EC-5242-BF5B-2ABD8BA8DB31R notes/C8DA5F07-B4D4-5AEF-8A09-466124AE4346R notes/7DD40804-DBED-5EAD-8887-E8071EDAEBD6R 039A5591-335D-56D9-AEB0-F46D1EA9E48C notes/039A5591-335D-56D9-AEB0-F46D1EA9E48CR 7B20A253-E31C-505C-8460-0EB73EDFD029 notes/7B20A253-E31C-505C-8460-0EB73EDFD029R A8D418CE-D77A-5CCB-9337-B54C46FBC0DC notes/A8D418CE-D77A-5CCB-9337-B54C46FBC0DCR"
+    "excerpt": "Fokussierung des Denkens insgesamt auf eine vom Individuum ausgehende Konzepte, die ausgehen davon, welche Rechte der einzelne Mensch hat Vernunftorientiertes Denken, Individuum sei vernunftgeleitet: man geht von der Vernunft des einzelnen Individuums aus Prinzipiell kann man alle traditionell bestehenden Herrschaftsmuster hinterfragen und alles kann perse an Autorität verlieren Ein Zersetzungsprinzip von traditioneller Autorität wird in Gang gesetzt: der grosse Gewinner ist das Individuum Politische Theorie, die vernünftig aufgestellt ist und dem Gemeinwohl dient und auch das Individuum die Rechtsphären garantiert bekommt Abstellen auf menschliche Vernunft, um die Welt zu verstehen Man kann alles anzweifeln wenn man es vernünftig durchdenkt möglichst gut organisiert und Gemeinwohl Rechtswissenschaftliche FakultätRechtsgeschichteJ. Naturrecht, Vernunftrecht und die „vernunftrechtlichen ..."
   },
   {
     "title": "(3) Naturrecht - Vernunftrecht",
@@ -143,22 +149,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(10) Natur- und Vernunftrecht/(3) Naturrecht - Vernunftrecht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(3) Naturrecht - Vernunftrecht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(3) Naturrecht - Vernunftrecht.pdf",
     "notes": 16,
     "searchPages": 4,
     "attachments": 1,
     "keywords": [
-      "natur",
+      "aufklärung",
+      "jahrhundert",
+      "leitbild",
       "naturrecht",
-      "notes",
-      "assessment",
-      "seite",
-      "menschen",
-      "vernunftrecht",
-      "vernunftrechtliche",
+      "rationalismus",
       "absolutismus",
-      "aufklärung"
+      "allem",
+      "aufgeklärter",
+      "aufklärungii",
+      "aufstieg"
     ],
-    "excerpt": "EF240EB1-A720-5D3A-AC6A-6D460BC85218 search/EF240EB1-A720-5D3A-AC6A-6D460BC85218S F70D7AAC-845A-591E-B1E8-FD5849453BFE search/F70D7AAC-845A-591E-B1E8-FD5849453BFES 6BC92A6B-7638-58A3-8774-CAD937FE2B10 search/6BC92A6B-7638-58A3-8774-CAD937FE2B10U E09F7D7A-2673-5D54-AA3C-CD2675F10C3F search/E09F7D7A-2673-5D54-AA3C-CD2675F10C3F 5FED0A18-4A7B-578F-AD13-6A88ECBDDEEF notes/5FED0A18-4A7B-578F-AD13-6A88ECBDDEEFR 7243E088-7A3A-5531-93E9-26554C00A6BC notes/7243E088-7A3A-5531-93E9-26554C00A6BCR 661F63CE-0A0E-557B-96CC-0CB7F4E4BFFC notes/661F63CE-0A0E-557B-96CC-0CB7F4E4BFFCR notes/EF240EB1-A720-5D3A-AC6A-6D460BC85218R notes/F70D7AAC-845A-591E-B1E8-FD5849453BFER notes/6BC92A6B-7638-58A3-8774-CAD937FE2B10R F632CE99-1CD7-5531-BCA6-D71917E06CFE notes/F632CE99-1CD7-5531-BCA6-D71917E06CFER B6FF217E-69B8-5BDF-9F52-ABA15F36A8BD notes/B6FF217E-69B8-5BDF-9F52-ABA15F36A8BDR B486AA9E-6165-5E13-8AA5-29FF2A07290E"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteJ. Naturrecht, Vernunftrecht und die „vernunftrechtlichen Kodifikationen“I. Rationalismus und AufklärungII. Vom Naturrecht zum VernunftrechtIII. Natur- und vernunftrechtliche KonzeptionenIV. Aufklärung und StrafrechtV. Aufgeklärter Absolutismus und Kodifikation I. Rationalismus und Aufklärung (1)§ Verlust religiöser Selbstgewissheit fördert vor allem im 17.Jahrhundert Aufstieg der ratio und der Empirie§ Konsequenz im Bereich der Weltdeutungen – Rationalismusund Empirismus: Deutung und Erkenntnis der Welt mit denInstrumenten der Deduktion und der Beobachtung(Leitwissenschaft: Mathematik)§ Einflussreiche Repräsentanten- René Descartes (1596-1650): Leitbild von der Erkenntnisder Materie durch den Geist: Wichtigster Verbreiter desmos geometricus (entstanden bereits im 15. Jahrhundert)- Francis Bacon (1561 – 1626): Leitbild von der ..."
   },
   {
     "title": "(4) Natur- - Vernunftrechtliche Konzeptionen",
@@ -166,22 +173,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(10) Natur- und Vernunftrecht/(4) Natur- - Vernunftrechtliche Konzeptionen.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(4) Natur- - Vernunftrechtliche Konzeptionen.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(4) Natur- - Vernunftrechtliche Konzeptionen.pdf",
     "notes": 17,
     "searchPages": 8,
     "attachments": 3,
     "keywords": [
+      "mensch",
       "menschen",
-      "natur",
-      "notes",
-      "assessment",
-      "seite",
-      "naturrecht",
-      "freiheit",
-      "search",
-      "vernunftrecht",
-      "gegen"
+      "darauf",
+      "naturrechtler",
+      "rechten",
+      "schon",
+      "vernunftrechtler",
+      "anderen",
+      "angeborenen",
+      "aufbaut"
     ],
-    "excerpt": "8552C766-08D3-5C4A-8EEF-910BAFEEC355 search/8552C766-08D3-5C4A-8EEF-910BAFEEC355S 6C648916-1AC5-546B-93AC-CD900B4C9003 search/6C648916-1AC5-546B-93AC-CD900B4C9003S 0FA19E16-78E8-5906-BE3D-1B1F96FE0C64 search/0FA19E16-78E8-5906-BE3D-1B1F96FE0C64S 524730B1-B4FA-51E9-8407-54B4BFCC691E search/524730B1-B4FA-51E9-8407-54B4BFCC691ES 842D978C-E91B-568C-A709-957B40EDDDF4 search/842D978C-E91B-568C-A709-957B40EDDDF4S F12A7286-FB62-41DE-9F68-7ADC382CB79E search/F12A7286-FB62-41DE-9F68-7ADC382CB79EU B306CAD8-ED99-4A82-B581-A36F90E95E25 search/B306CAD8-ED99-4A82-B581-A36F90E95E25 E7E7A4B6-09AB-56EA-858C-E56B6F91AF25 search/E7E7A4B6-09AB-56EA-858C-E56B6F91AF25 1DD95133-67B2-54FD-A4D2-6357F18346AF notes/1DD95133-67B2-54FD-A4D2-6357F18346AFR C0E246B8-D6CA-5AE3-9FF2-41D7F5C80220 notes/C0E246B8-D6CA-5AE3-9FF2-41D7F5C80220R 83969734-3B25-5048-B5CB-6895B8410DED notes/83969734-3B25-5048-B5CB-6895B8410DEDR 516"
+    "excerpt": "Grosser Vernunftrechtler (hier kann man schon Vernunftrechtler nicht mehr nur Naturrechtler sagen: geht ineinander über) Nimmt an, dass Mensch schon mit angeborenen Rechten auf die Welt kommt Realität: Es mag sein, dass Menschen mit Rechten geboren werden, aber dann ist der Herrscher verantwortlich die Menschen zu perfektionieren (bevormundend) Grotius waren die grossen Vernunftrechtsdenkenr Europas Pufendorf war etwas später und Deutscher und hat noch Latein geschrieben Wichtigster Naturrechtler im mitteleuropäischen Bereich: Vernunftorientiertes Denken Sein Ausgangspunkt: Feststellung, dass der Mensch bedürftig und schwach ist Jeder Mensch bedarf der Hilfe eines anderen (Mensch ist imperfekt) Daraus wird die Notwendigkeit von Vertragsschlüssen aufgebaut Das ganze Naturrecht, das sich darauf aufbaut, ist darauf ausgerichtet, individuelle Freiheit der Menschen zu garantieren (obwohl man ..."
   },
   {
     "title": "(5) Aufklärung - Strafrecht",
@@ -189,22 +197,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(10) Natur- und Vernunftrecht/(5) Aufklärung - Strafrecht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(5) Aufklärung - Strafrecht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(5) Aufklärung - Strafrecht.pdf",
     "notes": 17,
     "searchPages": 6,
     "attachments": 4,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "natur",
-      "naturrecht",
+      "inszeniert",
+      "kommt",
+      "macht",
+      "strafen",
+      "strafprozess",
+      "abschaffung",
+      "achtung",
+      "andere",
       "aufklärung",
-      "vernunftrecht",
-      "menschen",
-      "vernunftrechtliche",
-      "absolutismus"
+      "bestimmen"
     ],
-    "excerpt": "7435EACA-C4F2-57C6-8E9C-0737F766F521 search/7435EACA-C4F2-57C6-8E9C-0737F766F521S A81151D1-5040-429D-A0C9-82773B01E649 search/A81151D1-5040-429D-A0C9-82773B01E649U FFF3C290-BA77-4E14-8084-FDC824D8BBE9 search/FFF3C290-BA77-4E14-8084-FDC824D8BBE9 A9E4239F-4975-4AF9-8293-3DB08283DEFE search/A9E4239F-4975-4AF9-8293-3DB08283DEFE 7E225BD7-7083-5D31-9456-C28145796F93 search/7E225BD7-7083-5D31-9456-C28145796F93 DF578467-EF2D-4629-80A2-44DBE9BF17BB search/DF578467-EF2D-4629-80A2-44DBE9BF17BB D9C14059-4DAA-5D4C-B5EE-EB42EE6DA1ED notes/D9C14059-4DAA-5D4C-B5EE-EB42EE6DA1EDR 97D508D1-EFDC-591E-B3E4-C91C9A271E5D notes/97D508D1-EFDC-591E-B3E4-C91C9A271E5DR 01082407-25D8-5A98-BB7B-200009B8DDD5 notes/01082407-25D8-5A98-BB7B-200009B8DDD5R 3BC2D98F-650E-523E-BDD7-9908C0430ECE notes/3BC2D98F-650E-523E-BDD7-9908C0430ECER 6666785D-7DAF-5AA9-A285-E86FC29753ED notes/6666785D-7DAF-5AA9-A285-E86FC29753EDR 79A2E43"
+    "excerpt": "Strafrechtspraktik (wie man straft) hat sich massiv verändert: Humanisierung des Strafrechts Vergeltungsgedanke: Strafen wurden öffentlich inszeniert: Inszenierung der Macht des Herrschers Zweck der Strafe neu zu bestimmen: Strafen, so weit erforderlich, im notwendigen Masse, aber nicht mehr Vom Rückgang bis zur Abschaffung der Todesstrafe Von da kommen auch die Regeln zum Strafprozess: z.B. wer darf eigentlich zuschauen? Strafpraxis und Strafprozess hat sich verschoben Früher: Monarch hat spektakulär inszeniert wie der Straftäter zerstört wird: Macht des Monarchen veranschaulichen Frühe Neuzeit/Aufklärung: andere Technik des Strafens: Strafzwecke haben sich verwandelt Achtung: In der franz. Revolution kommt die Gouillutine auf: schnelles Verfahren Menschen umzubringen: man sieht es geht nicht einfach weg! Aber trotzdem kommt bis ins 19. Jh. immer mehr Gefängnisstrafe auf und ..."
   },
   {
     "title": "(6) Aufgeklärter Absolutismus - Kodifikation",
@@ -212,22 +221,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(10) Natur- und Vernunftrecht/(6) Aufgeklärter Absolutismus - Kodifikation.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(6) Aufgeklärter Absolutismus - Kodifikation.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(10) Natur- und Vernunftrecht/(6) Aufgeklärter Absolutismus - Kodifikation.pdf",
     "notes": 16,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
+      "revolution",
       "kodifikation",
-      "seite",
-      "natur",
-      "absolutismus",
-      "naturrecht",
-      "vernunftrechtliche",
       "alles",
-      "menschen"
+      "franz",
+      "haben",
+      "preussen",
+      "regeln",
+      "schon",
+      "abschliessend",
+      "absoluter"
     ],
-    "excerpt": "E43BC52F-C1AA-5AEC-9F1D-543FC9B9D267 search/E43BC52F-C1AA-5AEC-9F1D-543FC9B9D267S C7006A1D-50DF-59F1-90F3-C6E46184F064 search/C7006A1D-50DF-59F1-90F3-C6E46184F064S CE4F489B-0FA3-5F82-A0A9-1C32857AD67F search/CE4F489B-0FA3-5F82-A0A9-1C32857AD67FU F1D0D96C-79BE-5A59-8692-9A4B058F8EE2 search/F1D0D96C-79BE-5A59-8692-9A4B058F8EE2 B1A52622-4B21-52A7-A0DC-A0A3056179A2 notes/B1A52622-4B21-52A7-A0DC-A0A3056179A2R A78634C6-EB86-5522-936B-980C29714A3F notes/A78634C6-EB86-5522-936B-980C29714A3FR AAD03A9B-B030-5E2C-A4FC-D7B292C9C260 notes/AAD03A9B-B030-5E2C-A4FC-D7B292C9C260R A26B7224-06AD-53A4-A437-DF17C2826CCA notes/A26B7224-06AD-53A4-A437-DF17C2826CCAR D57CACAE-4B62-5158-9AB0-4F1FE88F8E9B notes/D57CACAE-4B62-5158-9AB0-4F1FE88F8E9BR EE00D1CD-4E8A-5AD0-B83B-3E9C7FAB4395 notes/EE00D1CD-4E8A-5AD0-B83B-3E9C7FAB4395R 66137078-E45B-513D-ABE4-9C3F8D871B6A notes/66137078-E45B-513D-ABE4-9C3F8D871B6AR 278808"
+    "excerpt": "Sobald eine neue kommt, ist die alte weg Ist selbst noch keine Kodifikation, sondern erst ein Zusammentragen von Prinzipien (Zwischenzustand) Redet sehr viel, regelt aber noch nicht so viel war die französische Revolution schon: In in Geltung getreten nach franz. Revolution (Preussen haben gesehen, was in Frankreich passierte: Angst) Wurde von Friedrich II. veranlasst, aber der war 1794 schon tot: Vorrevolutionäres Gesetzbuch: 20 Artikel: Wollten abschliessend alles regeln für Preussen! Absoluter Regelungsanspruch einer Kodifikation: Ein Gesetzgeber, der schafft, alles für die Zukunft zu regeln und Richter oder Rechtslehrer haben dann nix zu sagen Im Code Civil (nach der franz. Revolution) finden sich viele Positionen, die sich in der Revolution erkämpft wurden (zb Idee der bürgerlichen Gleichheit, Vertragsfreiheit, nichtmehr ständische Gesellschaft, Erste Kodifikation, die im echten ..."
   },
   {
     "title": "(1) Übersicht",
@@ -235,22 +245,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(1) Übersicht.pdf",
     "notes": 9,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
       "rechtsschule",
-      "friedrich",
-      "schweiz",
-      "seite",
-      "germanistik",
-      "savigny",
-      "search",
-      "drittel"
+      "anrecht",
+      "bindungdes",
+      "dervernunftdiskreditierungder",
+      "desnapoleonischenfrankreichsexport",
+      "entstehungsvoraussetzungenii",
+      "erfolgreichergeneral",
+      "ersterkonsuldominanz",
+      "europahumanismusseit",
+      "fakultätrechtsgeschichtek"
     ],
-    "excerpt": "8C968A1B-C68F-59DA-AF97-98FA322156FF search/8C968A1B-C68F-59DA-AF97-98FA322156FFS A2890A72-4EC4-4C77-8B14-22997A0DEEE2 search/A2890A72-4EC4-4C77-8B14-22997A0DEEE2U E907349E-747E-5CA7-9D42-22DA0767DB68 search/E907349E-747E-5CA7-9D42-22DA0767DB68 A9D86D1F-1822-450C-BAE0-9055C9C4BEA8 search/A9D86D1F-1822-450C-BAE0-9055C9C4BEA8 notes/8C968A1B-C68F-59DA-AF97-98FA322156FFR B5F08361-16C0-5C63-A466-0B6ABDBDFA09 notes/B5F08361-16C0-5C63-A466-0B6ABDBDFA09R A608F337-0937-5097-8F3D-CA99A6863B0E notes/A608F337-0937-5097-8F3D-CA99A6863B0ER EC49F38E-49DD-5027-97A5-E0A079FDFD05 notes/EC49F38E-49DD-5027-97A5-E0A079FDFD05R 8E38C34E-F9D2-5822-BAA2-EB1237B3BFDC notes/8E38C34E-F9D2-5822-BAA2-EB1237B3BFDCR 54534D9B-A2DB-59B6-AEC3-ED0482C9FE19 notes/54534D9B-A2DB-59B6-AEC3-ED0482C9FE19R 77C7E719-4195-5A0D-8668-9F2826A5B25E notes/77C7E719-4195-5A0D-8668-9F2826A5B25ER 46F5DD14-121F-52CB-ADFD-27D88F76E98F notes/4"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteK. Die Historische Rechtsschule und ihre WirkungenI. EntstehungsvoraussetzungenII. Römisches Recht und PandektistikIII. Die GermanistikIV. Späte Historische Rechtsschule und die Kodifikationen um 1900 Zeitstrahl: Die französische Revolution und EuropaHumanismusSeit 17891793/9417991799-18141815FranzösischeRevolution1789: Franz.Menschen- undBürgerrechtserkl.1791: Verfassung(mit der Bindungdes Staats anRecht)1792: Frankreichwird RepupblikGrande TerreurMarkanteAusweitungstaatlicherHerrschaft unterdemWolhlfahrsaus-schuss;Verfolgung undTöting vonmenschen imNamen derVernunftDiskreditierungder RevolutionNapoleonischeMachtüber-nahmeNapoléonBonaparte,erfolgreicherGeneral, wird1799 ErsterKonsulDominanz desnapoleonischenFrankreichsExport vonIndividualfreiheitund Gleichheitbei gleichz.starkerStaatsherrschaft1804:KaiserkrönungNapoleons1798:Ende der ..."
   },
   {
     "title": "(2) Historische Rechtsschule - Kodifikationen des Privatrechts",
@@ -258,22 +269,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(2) Historische Rechtsschule - Kodifikationen des Privatrechts.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(2) Historische Rechtsschule - Kodifikationen des Privatrechts.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(2) Historische Rechtsschule - Kodifikationen des Privatrechts.pdf",
     "notes": 9,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "rechtsschule",
-      "assessment",
       "kodifikationen",
-      "friedrich",
+      "civil",
+      "gegen",
       "kodifikation",
-      "seite",
-      "pandektistik",
-      "savigny",
-      "search"
+      "rechtsschule",
+      "aargau",
+      "anlehnt",
+      "aufbauen",
+      "ausgerichteten",
+      "begründung"
     ],
-    "excerpt": "813AF4FD-5D58-5CCF-ABEA-761165803FC1 search/813AF4FD-5D58-5CCF-ABEA-761165803FC1S E93005D4-CDCA-4BDC-A412-F3F74F10F3D4 search/E93005D4-CDCA-4BDC-A412-F3F74F10F3D4U 82BE52D9-0395-4001-AAA4-0E5A60791910 search/82BE52D9-0395-4001-AAA4-0E5A60791910 C38C3476-E6DC-565A-8049-17A327E7F001 search/C38C3476-E6DC-565A-8049-17A327E7F001 6F39EACA-ACB4-5ADE-8343-BDC37F163F2B notes/6F39EACA-ACB4-5ADE-8343-BDC37F163F2BR 7407C140-A88B-5281-9932-7F29054A3DD5 notes/7407C140-A88B-5281-9932-7F29054A3DD5R 9E6DF469-3D18-58DE-AD54-5A2883E8DBEC notes/9E6DF469-3D18-58DE-AD54-5A2883E8DBECR 90061313-DF7C-5002-8447-1D1D77552D6B notes/90061313-DF7C-5002-8447-1D1D77552D6BR 05A99133-995A-56CA-A708-1046C4B7CDF0 notes/05A99133-995A-56CA-A708-1046C4B7CDF0R 6970F8EA-F788-55AE-8D40-DA320187DEDB notes/6970F8EA-F788-55AE-8D40-DA320187DEDBR E192034E-FDE8-54EF-AE1C-C1B38E685D9E notes/E192034E-FDE8-54EF-AE1C-C1B38E685D9ER notes/8"
+    "excerpt": "Romanstik als Hauptlinie, Germanistik als Nebenlinie und Kodifikationen als Niederschlag Grosse Kodifikationen des Vernunftrechts: Code Civil und ABGB Savignys Programmschrift, die gegen eine Kodifikation spricht und sagt, wir müssen erstmal richtige historische RW aufbauen Parallel Eichhorns Begründung einer germanistischen historischen Rechtsschule Unterschiedliche Standardwerke innerhalb der Mainstream Pandektistik ( Romanistik), mit der römisch-rechtlich ausgerichteten Rechtsschule Georg Beseler: Gegen das Juristenrecht und für das Volksrecht Zeitgleich die ersten frühen Kodifikationen in unseren Kantonen um 1830 zb Berner Kodifikation, die sich an ABGB anlehnt zb Kodifikationen aus der Romandie richten sich stark auf den code civil aus zb Aargau blieb unkodifiziert bis zum ZGB Auf Schweizniveau/Bundesniveau erst nach der Verfassungsrevision von 74 und nach Bundesstaatsgründung Da ..."
   },
   {
     "title": "(3) Französische Revolution - Europa (Zeitstrahl)",
@@ -281,22 +293,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(3) Französische Revolution - Europa (Zeitstrahl).goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(3) Französische Revolution - Europa (Zeitstrahl).goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(3) Französische Revolution - Europa (Zeitstrahl).pdf",
     "notes": 8,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "friedrich",
-      "helvetik",
-      "seite",
-      "verfassung",
       "rechtsschule",
-      "savigny",
-      "drittel",
-      "eidgenossenschaft"
+      "anrecht",
+      "bindungdes",
+      "dervernunftdiskreditierungder",
+      "desnapoleonischenfrankreichsexport",
+      "entstehungsvoraussetzungenii",
+      "erfolgreichergeneral",
+      "ersterkonsuldominanz",
+      "europahumanismusseit",
+      "fakultätrechtsgeschichtek"
     ],
-    "excerpt": "6DFB0841-E036-5427-8253-3D22011CF08A search/6DFB0841-E036-5427-8253-3D22011CF08AU 60E3E53A-9E78-55FE-87B2-B8B6580C0260 search/60E3E53A-9E78-55FE-87B2-B8B6580C0260 3929B705-4791-5537-8060-026711249642 notes/3929B705-4791-5537-8060-026711249642R notes/6DFB0841-E036-5427-8253-3D22011CF08AR 08F5CDA0-8920-56ED-AF24-DC0B7EE4D196 notes/08F5CDA0-8920-56ED-AF24-DC0B7EE4D196R D700F1A1-9707-568D-990C-38454A3A595C notes/D700F1A1-9707-568D-990C-38454A3A595CR B5E6F61A-3C9B-576D-B35B-DADD8BDAEDB1 notes/B5E6F61A-3C9B-576D-B35B-DADD8BDAEDB1R 6F7E40B4-98FC-5CDF-B731-0DB46B96105D notes/6F7E40B4-98FC-5CDF-B731-0DB46B96105DR 9EBDE32F-0343-5C31-9E5F-27D00A5C1F98 notes/9EBDE32F-0343-5C31-9E5F-27D00A5C1F98R 6A864C45-845F-59F9-8AED-82A8BEAB60D8 notes/6A864C45-845F-59F9-8AED-82A8BEAB60D8 Rechtswissenschaftliche FakultätRechtsgeschichteK. Die Historische Rechtsschule und ihre WirkungenI. Entstehungsvoraussetzungen"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteK. Die Historische Rechtsschule und ihre WirkungenI. EntstehungsvoraussetzungenII. Römisches Recht und PandektistikIII. Die GermanistikIV. Späte Historische Rechtsschule und die Kodifikationen um 1900 Zeitstrahl: Die französische Revolution und EuropaHumanismusSeit 17891793/9417991799-18141815FranzösischeRevolution1789: Franz.Menschen- undBürgerrechtserkl.1791: Verfassung(mit der Bindungdes Staats anRecht)1792: Frankreichwird RepupblikGrande TerreurMarkanteAusweitungstaatlicherHerrschaft unterdemWolhlfahrsaus-schuss;Verfolgung undTöting vonmenschen imNamen derVernunftDiskreditierungder RevolutionNapoleonischeMachtüber-nahmeNapoléonBonaparte,erfolgreicherGeneral, wird1799 ErsterKonsulDominanz desnapoleonischenFrankreichsExport vonIndividualfreiheitund Gleichheitbei gleichz.starkerStaatsherrschaft1804:KaiserkrönungNapoleons1798:Ende der ..."
   },
   {
     "title": "(4) Entstehungsvoraussetzungen",
@@ -304,22 +317,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(4) Entstehungsvoraussetzungen.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(4) Entstehungsvoraussetzungen.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(4) Entstehungsvoraussetzungen.pdf",
     "notes": 8,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "friedrich",
-      "rechtsschule",
       "vernunft",
-      "seite",
-      "kritik",
-      "savigny",
-      "drittel",
-      "erkennbar"
+      "rechtsschule",
+      "alles",
+      "angestossen",
+      "aufklärer",
+      "aufklärerisch",
+      "ausging",
+      "ausschliesslich",
+      "beginn",
+      "behandlung"
     ],
-    "excerpt": "C5728C04-A55E-5A93-8B66-04A4F1DD956F search/C5728C04-A55E-5A93-8B66-04A4F1DD956FU CFD00C41-3619-5096-94F1-3DEA4FA4A7C2 search/CFD00C41-3619-5096-94F1-3DEA4FA4A7C2 D71A6AB5-81CE-5FF3-A467-C24EFA309A7B notes/D71A6AB5-81CE-5FF3-A467-C24EFA309A7BR 3C0F09EA-45B3-551E-8E3B-215A88B6DA08 notes/3C0F09EA-45B3-551E-8E3B-215A88B6DA08R notes/C5728C04-A55E-5A93-8B66-04A4F1DD956FR 4976FBEB-C8A6-5A1C-95E4-7C015D5CFF30 notes/4976FBEB-C8A6-5A1C-95E4-7C015D5CFF30R 0B4CC2F9-F010-5E9F-8FF9-2C128EBCC324 notes/0B4CC2F9-F010-5E9F-8FF9-2C128EBCC324R 38EEB122-C5BF-5A8F-8906-2F9C87BF7C18 notes/38EEB122-C5BF-5A8F-8906-2F9C87BF7C18R FDB431B9-6175-5269-8A88-5BFDC9695894 notes/FDB431B9-6175-5269-8A88-5BFDC9695894R A2AFFDFE-4A9D-5E78-9162-3CF83909F4F2 notes/A2AFFDFE-4A9D-5E78-9162-3CF83909F4F2 Wir sind hier noch in der Schweiz, die kein wissenschaftlich kultiviertes Rechtsverständnis hat Beginn der 19. Jh. fast ausschl"
+    "excerpt": "Wir sind hier noch in der Schweiz, die kein wissenschaftlich kultiviertes Rechtsverständnis hat Beginn der 19. Jh. fast ausschliesslich Laienrichter Es gibt Regeln und Normen aber keine wissenschaftliche Behandlung dessen! Was hat Verwissenschaftlichung angestossen? Die historische Rechtsschule Historische Rechtsschule, die von Preussen ausging, wurde Relevant für Deutschschweiz Kant war ein Aufklärer, lehnte aber eine rationalistische Philosophie ab Job des Rechts sei die unterschiedlichen Individuen zu koordinieren Man könne nicht aus der Vernunft zum Recht vordringen Kategorischer Imperativ war dort hauptsächliches Vernunftgebot Kritik an inhaltlicher Programmierung der Vernunft durch Wahrheitssätze Er ist aufklärerisch, aber inhaltliche Ergebnisse einer Vernunftphilosophie stellt er in Frage Er sieht Vernunft als die Erkenntnisbedingung (Struktur) Alles wird auf das Individuum ..."
   },
   {
     "title": "(5) Römisches Recht - Pandektistik",
@@ -327,22 +341,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(5) Römisches Recht - Pandektistik.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(5) Römisches Recht - Pandektistik.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(5) Römisches Recht - Pandektistik.pdf",
     "notes": 9,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
-      "friedrich",
-      "historisch",
-      "pandektistik",
-      "savigny",
-      "seite",
-      "kodifikation",
-      "kritik",
-      "rechtsschule"
+      "rechtswissenschaft",
+      "solle",
+      "allfälligen",
+      "analysieren",
+      "antike",
+      "aufbauen",
+      "bedeutet",
+      "befremdlich",
+      "betrieben",
+      "bloss"
     ],
-    "excerpt": "F184D9FA-9364-52B8-9432-0206A9CC556F search/F184D9FA-9364-52B8-9432-0206A9CC556FS 1A6C363E-9D90-47D7-87BA-E18FDC5C4D83 search/1A6C363E-9D90-47D7-87BA-E18FDC5C4D83U 52572765-F62A-42FD-AD66-A3994063FBD8 search/52572765-F62A-42FD-AD66-A3994063FBD8 322EBECF-5F27-5233-B799-411FEA676431 search/322EBECF-5F27-5233-B799-411FEA676431 E320E0CC-48CF-522F-81ED-E9DCE9252836 notes/E320E0CC-48CF-522F-81ED-E9DCE9252836R 7F802172-F04A-54B1-8348-B99A417E7716 notes/7F802172-F04A-54B1-8348-B99A417E7716R AA4C27D2-CEB8-5FDC-A37E-0DA54BBBC9E5 notes/AA4C27D2-CEB8-5FDC-A37E-0DA54BBBC9E5R notes/F184D9FA-9364-52B8-9432-0206A9CC556FR 6002268D-651F-576D-9B47-94D116991940 notes/6002268D-651F-576D-9B47-94D116991940R C69A8008-7999-5984-9B4B-0F22D40F1A94 notes/C69A8008-7999-5984-9B4B-0F22D40F1A94R 8D76BBD4-DF3E-5919-837B-175A993281EE notes/8D76BBD4-DF3E-5919-837B-175A993281EER A8EA40E0-E322-5238-A427-CE5FEFA9A5E8 notes/A"
+    "excerpt": "Spiegelung des Schreckens der französischen Revolution Zentral für Entstehung der Rechtswissenschaft im 19. Jh Rechtswissenschaft bedeutet durch die römischen Bücher gehen und das richtige Recht darauf aufbauen Ideal der Pandektistik setzt sich 19. Jh durch Er propagiert eine historisch-kritische Methode mitder RW betrieben werden soll (für uns ist diese Art befremdlich) Kodofikationen seien eine willkürliche und nicht gutzuheissende Strategie Recht zu formen Man solle rechtsgeschichtlich die Tradition durchdringen und analysieren Somit die bloss zufälligen Dinge trennen von den “goldigen Perlen” Rekonstruktion der Quellen wird sehr relevant (zb Digesten) Dadurch solle man echte Informationen aus der Antike haben und keine allfälligen Lügen aus dem 16. Jh Philiologische Kritik wird ganz gross, Wissenschaftliche Euphorie geht los Infolge dieser historischen Rechtschule entwickelt sich ..."
   },
   {
     "title": "(6) Germanistik",
@@ -350,22 +365,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(6) Germanistik.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(6) Germanistik.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(6) Germanistik.pdf",
     "notes": 9,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "friedrich",
-      "notes",
-      "assessment",
-      "quellen",
-      "kritik",
-      "eichhorn",
-      "kodifikation",
-      "savigny",
-      "seite",
-      "cfbefc"
+      "rechtsschule",
+      "anrecht",
+      "bindungdes",
+      "dervernunftdiskreditierungder",
+      "desnapoleonischenfrankreichsexport",
+      "entstehungsvoraussetzungenii",
+      "erfolgreichergeneral",
+      "ersterkonsuldominanz",
+      "europahumanismusseit",
+      "fakultätrechtsgeschichtek"
     ],
-    "excerpt": "9ED0BD7F-7099-5E60-855E-5DCDB0FE6BF7 search/9ED0BD7F-7099-5E60-855E-5DCDB0FE6BF7S A7C8FE51-FFE2-4E2B-9488-9CFBEFC09C2B search/A7C8FE51-FFE2-4E2B-9488-9CFBEFC09C2BU B750191F-4C52-57C8-A550-BB0AE78F063A search/B750191F-4C52-57C8-A550-BB0AE78F063A 0BB292FB-1E9A-4EC1-9F70-AF759BB0CA23 search/0BB292FB-1E9A-4EC1-9F70-AF759BB0CA23 2EAFF484-1AEE-589B-B36B-2F5FF737CBF3 notes/2EAFF484-1AEE-589B-B36B-2F5FF737CBF3R 7C5D6961-A0E2-596E-AB4A-CA025ABDC1F8 notes/7C5D6961-A0E2-596E-AB4A-CA025ABDC1F8R F7E694DD-A407-51EB-BE26-1B3A74D0E5C5 notes/F7E694DD-A407-51EB-BE26-1B3A74D0E5C5R C9A8235D-AEAF-567F-BDC2-62E7B57E49C2 notes/C9A8235D-AEAF-567F-BDC2-62E7B57E49C2R 3EBCA831-D189-515A-9D07-E137DC7CA321 notes/3EBCA831-D189-515A-9D07-E137DC7CA321R notes/9ED0BD7F-7099-5E60-855E-5DCDB0FE6BF7R A9C9CF7B-7503-5F6C-8261-86765B97DD22 notes/A9C9CF7B-7503-5F6C-8261-86765B97DD22R 522A2A0E-B20C-5251-AF11-1DB7F3D21081 notes/5"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteK. Die Historische Rechtsschule und ihre WirkungenI. EntstehungsvoraussetzungenII. Römisches Recht und PandektistikIII. Die GermanistikIV. Späte Historische Rechtsschule und die Kodifikationen um 1900 Zeitstrahl: Die französische Revolution und EuropaHumanismusSeit 17891793/9417991799-18141815FranzösischeRevolution1789: Franz.Menschen- undBürgerrechtserkl.1791: Verfassung(mit der Bindungdes Staats anRecht)1792: Frankreichwird RepupblikGrande TerreurMarkanteAusweitungstaatlicherHerrschaft unterdemWolhlfahrsaus-schuss;Verfolgung undTöting vonmenschen imNamen derVernunftDiskreditierungder RevolutionNapoleonischeMachtüber-nahmeNapoléonBonaparte,erfolgreicherGeneral, wird1799 ErsterKonsulDominanz desnapoleonischenFrankreichsExport vonIndividualfreiheitund Gleichheitbei gleichz.starkerStaatsherrschaft1804:KaiserkrönungNapoleons1798:Ende der ..."
   },
   {
     "title": "(7) Späte Historische Rechtsschule - Kodifikationen um 1900",
@@ -373,22 +389,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(11) Historische Rechtsschule/(7) Späte Historische Rechtsschule - Kodifikationen um 1900.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(11) Historische Rechtsschule/(7) Späte Historische Rechtsschule - Kodifikationen um 1900.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(11) Historische Rechtsschule/(7) Späte Historische Rechtsschule - Kodifikationen um 1900.pdf",
     "notes": 9,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
-      "friedrich",
+      "entwickeln",
+      "immer",
       "kodifikation",
-      "rechtsschule",
-      "historisch",
-      "seite",
-      "pandektistik",
-      "savigny",
-      "search"
+      "müsse",
+      "neues",
+      "ansatz",
+      "antikebindung",
+      "auftrag",
+      "ausreichen",
+      "bekam"
     ],
-    "excerpt": "0157452A-539D-5676-A7C7-C0D585720D3B search/0157452A-539D-5676-A7C7-C0D585720D3BS 1A8DC45B-58BB-4C92-A864-3F2505615D3C search/1A8DC45B-58BB-4C92-A864-3F2505615D3CU A4BB8FCE-4709-47AE-8C5B-B0F5BF9B0D75 search/A4BB8FCE-4709-47AE-8C5B-B0F5BF9B0D75 85202C77-1722-55DC-8BDD-67673C1A633C search/85202C77-1722-55DC-8BDD-67673C1A633C 7816D7E3-99E0-524B-9F48-669106B5DD1C notes/7816D7E3-99E0-524B-9F48-669106B5DD1CR C688A334-375A-534A-8849-7EDEC06BF233 notes/C688A334-375A-534A-8849-7EDEC06BF233R 0F44ED21-BA22-57E8-9098-F2562D6242D5 notes/0F44ED21-BA22-57E8-9098-F2562D6242D5R 431D6173-228F-5DB0-BCD3-37D283D49E48 notes/431D6173-228F-5DB0-BCD3-37D283D49E48R 87AD5DD1-3A30-5B7F-995E-E5C8643CF58B notes/87AD5DD1-3A30-5B7F-995E-E5C8643CF58BR E3D59D8C-EA1C-5497-83B2-D9C98169CF51 notes/E3D59D8C-EA1C-5497-83B2-D9C98169CF51R notes/0157452A-539D-5676-A7C7-C0D585720D3BR CA913387-00AE-55E0-B9A8-8780480E8329 notes/C"
+    "excerpt": "Innerhalb dieser römisch-rechtlichen Romanistik (nennt man auch Pandektistik) sieht man, dass man sich nicht mehr um die historische Grundsubstanz kreist, sondern doch immer mehr dazu kommt, dass man vielleicht doch ein neues Recht entwickeln müsse Meinung verbreitet sich: Man solle auf eine neue Kodifikation zugehen Die reine römsiche Lehre könne nicht mehr ganz ausreichen Immer mehr wird die Position verlassen (!), dass man keine Kodifikation wolle, weil man erstmal wirklich historisch durchdringen müsse Man geht hin auf eine neue Zivilrechtskodifikation Eugen Huber bekam den Auftrag ich um CH Zivilrecht zu kümmern: typischer Representant der historischen Rechtsschule Er war Germanist, aber auch sehr viel Bildung auch im romanisischen Bereich Gelehrte Professoren entwickeln Distanz zur starken Antikebindung mehr den Ansatz, man will die römische Qualität ein neues Rechtssystem ..."
   },
   {
     "title": "1",
@@ -396,22 +413,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(12) Rechtsbildung im Spannungsfeld/1.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(12) Rechtsbildung im Spannungsfeld/1.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(12) Rechtsbildung im Spannungsfeld/1.pdf",
     "notes": 21,
     "searchPages": 19,
     "attachments": 3,
     "keywords": [
-      "schweiz",
-      "notes",
-      "search",
-      "verfassung",
-      "revolution",
-      "europa",
-      "seite",
-      "assessment",
-      "kantone",
-      "bewegung"
+      "bildet",
+      "massengesellschaft",
+      "politische",
+      "anderer",
+      "andererseits",
+      "ausgangspunkt",
+      "ausgleichen",
+      "bereits",
+      "bewegung",
+      "einbringen"
     ],
-    "excerpt": "035497B0-021E-5B3C-B26E-FAE58670EBC0 search/035497B0-021E-5B3C-B26E-FAE58670EBC0S 22321E14-2E5F-56D5-839F-D795DC1AF95F search/22321E14-2E5F-56D5-839F-D795DC1AF95FS 8A4C14F8-2694-51A5-BB15-55EE3832CF85 search/8A4C14F8-2694-51A5-BB15-55EE3832CF85S 2CC182CB-1A4B-5FF8-B218-61E7A480D8E1 search/2CC182CB-1A4B-5FF8-B218-61E7A480D8E1S 6965C9E5-EB21-5EA2-830B-62D257C91779 search/6965C9E5-EB21-5EA2-830B-62D257C91779S 243BE294-1584-5098-9D8F-4B011A95DF16 search/243BE294-1584-5098-9D8F-4B011A95DF16S 0A41A1D5-B2E1-532A-B8E5-A7030EE0D625 search/0A41A1D5-B2E1-532A-B8E5-A7030EE0D625S CC07F4BD-0BF3-5839-8E51-16895FE1D2DA search/CC07F4BD-0BF3-5839-8E51-16895FE1D2DAS F15BF155-03D0-51F5-9390-B3F810973E37 search/F15BF155-03D0-51F5-9390-B3F810973E37S 0AF6B89C-6879-5843-9AC7-FA99100774A5 search/0AF6B89C-6879-5843-9AC7-FA99100774A5S 6F4B6710-620D-5BE6-9F27-91D945009AD4 search/6F4B6710-620D-5BE6-9F27-91D945009AD4"
+    "excerpt": "Das Problem, wie können wir soziale Gegensätze ausgleichen und was machen wir mit sozialem Elend? Es bildet sich eine politische Bewegung bereits in Frankreich mit ideolgischen radikalsozialistischen Positionen der 30er Jahre Das ist die Epoche, die in der Schweiz zur Regeneration wurde Andererseits kommt es zu einem strukturellen Phänomen, das eine Folge von Industriestaat und Massengesellschaft ist Staatliche Einheit muss sich einbringen, um eine unübersehbare Gesellschaft zu managen Ganz anderer Ausgangspunkt als Vormoderne mit Untertanen oder kleinen Einheiten, jetzt ist es eine industrialisierte Massengesellschaft Über ihr bildet sich das heraus, was man den Interventionsstaat nennt Inverventionsstaat ist in Europa Standard, egal welche politische Position Man trifft aber auch sehr liberale Meinungen an, die trotzdem gewisse Sektoren schützen wollen aus Traditionspflege o.Ä In dem ..."
   },
   {
     "title": "1",
@@ -419,22 +437,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(13) Krieg - Diktatur/1.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(13) Krieg - Diktatur/1.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(13) Krieg - Diktatur/1.pdf",
     "notes": 17,
     "searchPages": 15,
     "attachments": 5,
     "keywords": [
-      "notes",
-      "search",
       "juden",
       "antisemitismus",
-      "assessment",
-      "republik",
-      "seite",
-      "nationalsozialismus",
-      "haben",
-      "weltkrieg"
+      "arten",
+      "jüdische",
+      "menschen",
+      "neues",
+      "nichts",
+      "schon",
+      "anbruch",
+      "bedeutung"
     ],
-    "excerpt": "A3B69ED3-D13D-5D21-B881-561E461F082B search/A3B69ED3-D13D-5D21-B881-561E461F082BS 62D821B5-ADF6-5E58-81E1-34E4B28588C5 search/62D821B5-ADF6-5E58-81E1-34E4B28588C5S 753F8AB5-6E53-50B7-8D7F-696647984646 search/753F8AB5-6E53-50B7-8D7F-696647984646S 583D06D7-6C91-5B22-BABD-D1E61FC9AEB8 search/583D06D7-6C91-5B22-BABD-D1E61FC9AEB8S 1DBC13C2-ABAF-52B3-849F-D445D2B8A0F2 search/1DBC13C2-ABAF-52B3-849F-D445D2B8A0F2S C509D94C-9E63-56CF-8F93-0C0271D620A1 search/C509D94C-9E63-56CF-8F93-0C0271D620A1S 1F2DA7A2-3BC8-5BD9-816D-86B977D531F0 search/1F2DA7A2-3BC8-5BD9-816D-86B977D531F0S 84149CA6-2AEB-519F-BC01-0E3598E81B7E search/84149CA6-2AEB-519F-BC01-0E3598E81B7ES 773F0DB7-EE04-52BF-B5AF-229C2FD28AC1 search/773F0DB7-EE04-52BF-B5AF-229C2FD28AC1S 6C95EC45-AAD7-521A-8F40-ABA48DD623E6 search/6C95EC45-AAD7-521A-8F40-ABA48DD623E6S 1A06953C-0FA9-4432-9EB7-05675722F112 search/1A06953C-0FA9-4432-9EB7-05675722F112"
+    "excerpt": "Im Vordergrund stand der Versuch, Jüdische Menschen massenweise und systematisch zu vernichten Relativ weit geht das schon bis ins 19. Jh. hinein: Maginalisierung von Juden war nichts neues Antisemitismus (Judenhass/Judenfeindlichkeit) ist tief verwurzelt und gab es schon die ganze Vormoderne (Mittelalter und frühe Neuzeit) Erst weitgehend 1866 in der Schweiz Gleichstellung von Juden, in Deutschland erst mit Anbruch der Republik (1919) waren jüdische Menschen komplett gleichgestellt Antisemitismus war also im 19. Jh nichts ganz Neues, aber die Verachtung von Juden verschärfte sich in einer besonderen weise, sie in den Nationalsozialismus einmündete Sozialdarwinismus knüpft an die Evolutionstheorie an (1860, Tierarten, Kampf der Arten): Riesiger Boom an Naturwissenschaft: Ohne Bedeutung für politischen Bereich! Überschwappung in die Betrachtung der Gesellschaft: Idee des Kampes der Arten ..."
   },
   {
     "title": "(1) Übersicht",
@@ -442,22 +461,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(1) Übersicht.pdf",
     "notes": 19,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "stammesrechte",
-      "jahrhundert",
-      "leges",
+      "weltliche",
+      "entstanden",
+      "gruppe",
+      "hochkultur",
+      "sondern",
+      "anderem",
+      "begonnen",
+      "bereitschaft",
       "bildung",
-      "identität",
-      "kapitularien",
-      "kollektiven"
+      "burgund"
     ],
-    "excerpt": "1CF634BA-8BA7-5B48-891A-7362355DEC69 search/1CF634BA-8BA7-5B48-891A-7362355DEC69U C3B045F9-6822-58B7-936D-48044CE08C06 search/C3B045F9-6822-58B7-936D-48044CE08C06 notes/1CF634BA-8BA7-5B48-891A-7362355DEC69R 606AC22E-7FF5-543F-80A3-381245750D44 notes/606AC22E-7FF5-543F-80A3-381245750D44R 798495BD-42F8-56CD-8430-A9FD53956C8A notes/798495BD-42F8-56CD-8430-A9FD53956C8AR 67F1EBD8-86C2-53EE-B5B6-53E6AFE09029 notes/67F1EBD8-86C2-53EE-B5B6-53E6AFE09029R 6F318470-9474-5974-A3BC-DDEFB7850E1A notes/6F318470-9474-5974-A3BC-DDEFB7850E1AR 65E353BD-60AD-56D9-AC97-EF6EBD37E856 notes/65E353BD-60AD-56D9-AC97-EF6EBD37E856R AE05805D-EC32-5EA3-A50B-D47437F4DCE1 notes/AE05805D-EC32-5EA3-A50B-D47437F4DCE1R 28DEBFC8-92DD-5A22-AB0B-46A0063055F5 notes/28DEBFC8-92DD-5A22-AB0B-46A0063055F5R A866E09C-AA07-5911-AD5E-2BA735F94A28 notes/A866E09C-AA07-5911-AD5E-2BA735F94A28R BF0ED8B7-83CD-5527-8522-2CAA76E80130 notes/BF"
+    "excerpt": "Römischgeprägte Hochkultur ging zu Ende und es entstand etwas Neues Epoche, wo eine grosse Dominanz über den europäischen Kontinent zu Ende geht: Römische Hochkultur Es tauchen neue Typen von Recht auf: Stammesrechte WWie sind erste Normstrukturen entstanden? Nicht kirchliche, sondern weltliche Sphäre Die Weltliche war im Frühmittelalter von sehr viel Gewalt geprägt, hohe Bereitschaft zur Eskalation Unter anderem wegen der grossen Migrationswellen Daraus sind die Reiche entstanden wie Burgund, Franken, Gothen, Westgothen, die dann neue Rechtstexte/Rechtssammlungen begonnen haben Gezeichnet von einer Kultur mit hoher Gewaltbereitschaft, nicht nur “Gruppe gegen Gruppe”, sondern auch innerhalb Rechtswissenschaftliche FakultätRechtsgeschichteB. Weltliche Normbildungen im Übergang von Spätantike undMittelalterI. Völkerwanderung und NeuordnungII. Bildung einer kollektiven Identität: Die sog. ..."
   },
   {
     "title": "(2) Völkerwanderung, Germanen - Neuordnung",
@@ -465,22 +485,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(2) Völkerwanderung, Germanen - Neuordnung.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(2) Völkerwanderung, Germanen - Neuordnung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(2) Völkerwanderung, Germanen - Neuordnung.pdf",
     "notes": 22,
     "searchPages": 10,
     "attachments": 8,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
       "germanen",
-      "search",
-      "jahrhundert",
-      "germanischen",
-      "römischen",
       "tacitus",
-      "reich"
+      "andere",
+      "anders",
+      "annäherung",
+      "antike",
+      "ausgelöst",
+      "ausgeprägte",
+      "begannen",
+      "berichtet"
     ],
-    "excerpt": "42CCEBE2-9676-5BB4-B573-6200779D0796 search/42CCEBE2-9676-5BB4-B573-6200779D0796S 00E6376E-99AA-55D0-AE53-65B2E70E8577 search/00E6376E-99AA-55D0-AE53-65B2E70E8577S FAD8E231-022D-5CE6-AD20-CDF739B9782D search/FAD8E231-022D-5CE6-AD20-CDF739B9782DS 3B796BAD-DCE7-538D-9AE7-3A67CE90D107 search/3B796BAD-DCE7-538D-9AE7-3A67CE90D107S 746BB60A-906B-4328-BFCF-03E09B47433E search/746BB60A-906B-4328-BFCF-03E09B47433ES C2906314-9148-4949-89FA-398974118E33 search/C2906314-9148-4949-89FA-398974118E33S 9BCEDE22-74B8-4078-A946-69B6E2869370 search/9BCEDE22-74B8-4078-A946-69B6E2869370U A66A93BD-309C-4086-A180-8DFB0CF38C12 search/A66A93BD-309C-4086-A180-8DFB0CF38C12 5934B320-6DA1-54E0-95CE-E5799B36CCC1 search/5934B320-6DA1-54E0-95CE-E5799B36CCC1 601EDBF8-8D2C-48BD-A32C-9A5AD68A2D53 search/601EDBF8-8D2C-48BD-A32C-9A5AD68A2D53 2C63553F-E83E-5B73-89D4-D20765E2D755 notes/2C63553F-E83E-5B73-89D4-D20765E2D755R no"
+    "excerpt": "CAchtung: nicht wie französischer Adel, sondern einfach eine Klasse Riesige Migrationsbewegung, ausgelöst durch den Hunnensturm Hunnen hatten andere Ethnien verdrängt Durch die Fluchtbewegung wurde die Struktur beseitigt und ersetzt durch neue Ordnungen Diese neuen Herrschaften begannen neue Normen/Rechtsstrukturen zu initiieren Ganz anders als in spätrömischen Kultur Es gab eigentlich nicht “die Germanen”, es gab nur für die Römer “die Germanen” Germanen wurden wahrgenommen aus der Perspektive der Antike Poseidonios hat besonders über kulinarische Traditionen der Germanen berichtet Germanen von Caesar und Tacitus beschrieben Die Annäherung an die germanisch-fränkische Vergangenheit Mitteleuropas und insbesondere ihre Normbildungen wird erschwert durch eine ausgeprägte Quellenarmut: Für das Recht der germanischen Frühzeit ist der Betrachter im Wesentlichen auf Tacitus in seinem Werk ..."
   },
   {
     "title": "(3) Zeitstrahl- Germanische Völkerwanderung - Reichsbildung",
@@ -488,22 +509,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(3) Zeitstrahl- Germanische Völkerwanderung - Reichsbildung.goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(3) Zeitstrahl- Germanische Völkerwanderung - Reichsbildung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(3) Zeitstrahl- Germanische Völkerwanderung - Reichsbildung.pdf",
     "notes": 19,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "jahrhundert",
-      "stammesrechte",
-      "leges",
-      "bildung",
-      "identität",
-      "kapitularien",
-      "kollektiven"
+      "begründet",
+      "erwähnt",
+      "germanen",
+      "reich",
+      "völkerwanderung",
+      "antiken",
+      "begrifflichkeit",
+      "bello",
+      "beschreibungenentstammen",
+      "besonders"
     ],
-    "excerpt": "FD99F549-33AE-5DFE-917C-69D6DF039255 search/FD99F549-33AE-5DFE-917C-69D6DF039255U EA0C6E88-C914-52E2-B681-B497EB2C8EAD search/EA0C6E88-C914-52E2-B681-B497EB2C8EAD 81C530C7-5C54-5768-B95D-07A18C29974E notes/81C530C7-5C54-5768-B95D-07A18C29974ER 7BB68A80-7448-5C4B-BB6F-F7E417609F78 notes/7BB68A80-7448-5C4B-BB6F-F7E417609F78R D1399B80-E77B-580E-92DC-A54A553C9F66 notes/D1399B80-E77B-580E-92DC-A54A553C9F66R 4CCED4E7-D868-57E7-B53D-1900A40B1087 notes/4CCED4E7-D868-57E7-B53D-1900A40B1087R D61EF12C-666E-5040-B7FE-12606670B4B7 notes/D61EF12C-666E-5040-B7FE-12606670B4B7R notes/FD99F549-33AE-5DFE-917C-69D6DF039255R DAFBBF32-C203-59FB-9870-1134D882E847 notes/DAFBBF32-C203-59FB-9870-1134D882E847R CF8B1566-6FBE-56DF-AB7F-7CAA4797211B notes/CF8B1566-6FBE-56DF-AB7F-7CAA4797211BR 537AC2D1-2F48-559A-BF16-BA320D0ACD47 notes/537AC2D1-2F48-559A-BF16-BA320D0ACD47R E34B224F-40AF-5D56-B9BD-6F0F6430EFC5 notes/E3"
+    "excerpt": "Germanen vermischten sich und nahmen Leitungspositionen ein Etablieren sich in Italien, können sich aber nicht lange halten JGundobad hat das burgundische Reich begründet MHat auf dem Gebiet des heutigen Frankreichs das fränkische Reich begründet Rechtswissenschaftliche FakultätRechtsgeschichteB. Weltliche Normbildungen im Übergang von Spätantike undMittelalterI. Völkerwanderung und NeuordnungII. Bildung einer kollektiven Identität: Die sog. StammesrechteIII. Karl der Grosse und die karolingischen ReformenIV. Frühformen herrscherlicher Normsetzung: Die KapitularienV. Grundstrukturen frühen Unrechtsausgleichs: Fehde, Busse und Gericht I. Völkerwanderung und Neuordnung1. Die Germanen Begrifflichkeit wie auch frühe Beschreibungenentstammen aus der antiken Literatur:– Poseidonios (90 v. Chr.) erwähnt,– bei Caesar (De bello gallico) in die Literatureingeführt.– Besonders intensiv erwähnt bei ..."
   },
   {
     "title": "(4) Stammesrechte – Bildung einer kollektiven Identität",
@@ -511,22 +533,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(4) Stammesrechte – Bildung einer kollektiven Identität.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(4) Stammesrechte – Bildung einer kollektiven Identität.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(4) Stammesrechte – Bildung einer kollektiven Identität.pdf",
     "notes": 19,
     "searchPages": 5,
     "attachments": 4,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
       "leges",
-      "stammesrechte",
-      "jahrhundert",
-      "identität",
+      "regeln",
+      "bereits",
+      "bestimmen",
+      "bestimmten",
+      "bevölkerung",
       "bildung",
-      "entstehung",
-      "kapitularien"
+      "bürger",
+      "einfluss",
+      "einige"
     ],
-    "excerpt": "C43EC140-6065-54C0-8BAC-457DCD406804 search/C43EC140-6065-54C0-8BAC-457DCD406804S 9BCAC5AE-182F-507B-807B-AF449C8ACC48 search/9BCAC5AE-182F-507B-807B-AF449C8ACC48S 883976C4-3F81-5956-B0C9-D5515AD3CFEC search/883976C4-3F81-5956-B0C9-D5515AD3CFECS 855702D6-6CE9-592A-B4FA-B47CFA24F5F5 search/855702D6-6CE9-592A-B4FA-B47CFA24F5F5U B68EDBD3-DEA8-54DC-9E31-AD9E5D92EF9A search/B68EDBD3-DEA8-54DC-9E31-AD9E5D92EF9A 21C893FF-C1B3-569A-BB0F-C619F154FD3F notes/21C893FF-C1B3-569A-BB0F-C619F154FD3FR C0B62038-FD84-5C8D-BDD9-A005D13375ED notes/C0B62038-FD84-5C8D-BDD9-A005D13375EDR 5EF25A01-FDA5-5562-BCD4-FA7D01E5047D notes/5EF25A01-FDA5-5562-BCD4-FA7D01E5047DR D648964E-F4C1-5C09-8976-2E55A4980000 notes/D648964E-F4C1-5C09-8976-2E55A4980000R AFEE7AB2-FFA3-5647-8C2D-5A1B48A4D65F notes/AFEE7AB2-FFA3-5647-8C2D-5A1B48A4D65FR 57D4E0C1-FD26-5395-8028-68A7F05C46B6 notes/57D4E0C1-FD26-5395-8028-68A7F05C46B6R notes"
+    "excerpt": "In grossen Teilen sind viele spätromsiche Inhalte und Gebräuche noch am fortlebten, aber immer schwächer wurden und sich vermischten mit neuen Gebräuchen Die Mischung war viel zivilisierter und komplexer als hier in unserer Region Heutiges Italien: hohes Niveau und spätromisch geprägt Recht wird instrumentalisiert zum überleben und Verfahrensrecht kommt Regeln, wie man vorgeht, wenn man ein Problem hat Bereits einige Leges gelten für die römische Bevölkerung: leges romane galten für römsiche Bürger einer bestimmten Ecke Leges an sich sollen bestimmen, was für Regeln es gibt und es soll Einfluss genommen werden Rechtswissenschaftliche FakultätRechtsgeschichteB. Weltliche Normbildungen im Übergang von Spätantike undMittelalterI. Völkerwanderung und NeuordnungII. Bildung einer kollektiven Identität: Die sog. StammesrechteIII. Karl der Grosse und die karolingischen ReformenIV. Frühformen ..."
   },
   {
     "title": "(5) Frühalterliche Leges - andere Normen",
@@ -534,22 +557,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(5) Frühalterliche Leges - andere Normen.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(5) Frühalterliche Leges - andere Normen.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(5) Frühalterliche Leges - andere Normen.pdf",
     "notes": 20,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "jahrhundert",
-      "leges",
-      "stammesrechte",
-      "identität",
-      "bildung",
-      "kapitularien",
-      "kollektiven"
+      "erwähnt",
+      "völkerwanderung",
+      "adeliger",
+      "adligen",
+      "agreement",
+      "antiken",
+      "begrifflichkeit",
+      "behauptet",
+      "bello",
+      "beschreibungenentstammen"
     ],
-    "excerpt": "DDECAD7E-F61E-5F2C-BAEC-17965AB9718E search/DDECAD7E-F61E-5F2C-BAEC-17965AB9718ES E6624B75-6F38-4652-9514-105328655850 search/E6624B75-6F38-4652-9514-105328655850U A8A05628-2319-4BF1-8ED4-10D7BE5F4D4A search/A8A05628-2319-4BF1-8ED4-10D7BE5F4D4A 63D948E5-A400-5B7F-B476-7F045157439F search/63D948E5-A400-5B7F-B476-7F045157439F A35BD047-81DD-54B7-A1FB-3A711A3F4711 notes/A35BD047-81DD-54B7-A1FB-3A711A3F4711R 009BDD68-9F96-59DF-8431-36E26DAAA476 notes/009BDD68-9F96-59DF-8431-36E26DAAA476R 991C3DD7-3E98-5F06-9FA5-846B42DA0303 notes/991C3DD7-3E98-5F06-9FA5-846B42DA0303R 006E13D2-0533-5D18-8602-0E0703C8606A notes/006E13D2-0533-5D18-8602-0E0703C8606AR 650C447B-B7E7-5890-9A2B-4B8085566A40 notes/650C447B-B7E7-5890-9A2B-4B8085566A40R 1ED6E5A6-7450-5D7C-9BAB-A570718B7D90 notes/1ED6E5A6-7450-5D7C-9BAB-A570718B7D90R 8DEAB9ED-9566-5D0D-ABB6-3290300DB35A notes/8DEAB9ED-9566-5D0D-ABB6-3290300DB35AR 4FD8E69"
+    "excerpt": "Herrscher macht Agreement mit den Adligen oder so Rechtswissenschaftliche FakultätRechtsgeschichteB. Weltliche Normbildungen im Übergang von Spätantike undMittelalterI. Völkerwanderung und NeuordnungII. Bildung einer kollektiven Identität: Die sog. StammesrechteIII. Karl der Grosse und die karolingischen ReformenIV. Frühformen herrscherlicher Normsetzung: Die KapitularienV. Grundstrukturen frühen Unrechtsausgleichs: Fehde, Busse und Gericht I. Völkerwanderung und Neuordnung1. Die Germanen Begrifflichkeit wie auch frühe Beschreibungenentstammen aus der antiken Literatur:– Poseidonios (90 v. Chr.) erwähnt,– bei Caesar (De bello gallico) in die Literatureingeführt.– Besonders intensiv erwähnt bei Tacitus (56-117n.Chr.)Rechtsgeschichte (Assessment) Seite 13 Heeres- und wohl auch Sakralkönigtum Egalitäre Elemente– Wahlakklamation– Thing– freilich nur auf adeliger Ebene bisweilen behauptet:– ..."
   },
   {
     "title": "(6) Karl der Grosse - karolingischen Reformen",
@@ -557,22 +581,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(6) Karl der Grosse - karolingischen Reformen.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(6) Karl der Grosse - karolingischen Reformen.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(6) Karl der Grosse - karolingischen Reformen.pdf",
     "notes": 20,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "stammesrechte",
-      "jahrhundert",
       "grosse",
-      "leges",
-      "antike",
-      "bildung",
-      "herrschaft"
+      "lenken",
+      "völkerwanderung",
+      "angestrebt",
+      "aufschreiben",
+      "aufzubauen",
+      "begrifflichkeit",
+      "bekämpft",
+      "bessere",
+      "bildung"
     ],
-    "excerpt": "663F4C66-1D6F-513F-B684-7DF0DDB7E3BF search/663F4C66-1D6F-513F-B684-7DF0DDB7E3BFS AAB882F6-50DB-42C6-92B1-092DF823E776 search/AAB882F6-50DB-42C6-92B1-092DF823E776U C729D7DB-5B0B-4F7B-BB36-32A35AD838BC search/C729D7DB-5B0B-4F7B-BB36-32A35AD838BC 9E02A80F-DD56-5045-AF41-B15595CE1FB0 search/9E02A80F-DD56-5045-AF41-B15595CE1FB0 10871FD3-1050-510C-9748-6443EE1D4473 notes/10871FD3-1050-510C-9748-6443EE1D4473R 2C0BD231-65D3-59D6-ABE6-1DCBB4D4A052 notes/2C0BD231-65D3-59D6-ABE6-1DCBB4D4A052R C76F3FC9-E18E-56E5-A4C2-41A400698D59 notes/C76F3FC9-E18E-56E5-A4C2-41A400698D59R 033A97C8-454C-50B4-A23D-47D8CD273150 notes/033A97C8-454C-50B4-A23D-47D8CD273150R E6BBC2DF-3251-5501-84D5-4184FA1C7F7F notes/E6BBC2DF-3251-5501-84D5-4184FA1C7F7FR 4EFDEBC7-650B-562B-AC17-61AF31C6CFC1 notes/4EFDEBC7-650B-562B-AC17-61AF31C6CFC1R 5647BD91-AB54-5A8E-9FC0-8831B8EB634D notes/5647BD91-AB54-5A8E-9FC0-8831B8EB634DR 2449392"
+    "excerpt": "Nachdem Karl der Grosse die Saxen bekämpft hat, hat er deren Stammesrechte aufschreiben lassen iVerwaltung des Königreiches hat er schon professionalisiert: Planhaftigkeit: unterschiedliche Funktionen Um zu lenken, also mitzuteilen, wie man sich verhalten soll Er will lenken und tut das durch niedergeschriebenes Recht in einer Welt von schriftlosen: Verschriftlichung wurde angestrebt versuchte daraus eine neue bessere Welt aufzubauen Rechtswissenschaftliche FakultätRechtsgeschichteB. Weltliche Normbildungen im Übergang von Spätantike undMittelalterI. Völkerwanderung und NeuordnungII. Bildung einer kollektiven Identität: Die sog. StammesrechteIII. Karl der Grosse und die karolingischen ReformenIV. Frühformen herrscherlicher Normsetzung: Die KapitularienV. Grundstrukturen frühen Unrechtsausgleichs: Fehde, Busse und Gericht I. Völkerwanderung und Neuordnung1. Die Germanen Begrifflichkeit ..."
   },
   {
     "title": "(7) Kapitularien – Frühformen herrscherlicher Normsetzung",
@@ -580,22 +605,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(7) Kapitularien – Frühformen herrscherlicher Normsetzung.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(7) Kapitularien – Frühformen herrscherlicher Normsetzung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(7) Kapitularien – Frühformen herrscherlicher Normsetzung.pdf",
     "notes": 20,
     "searchPages": 5,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
       "kapitularien",
       "leges",
-      "jahrhundert",
-      "stammesrechte",
-      "unrecht",
-      "herrschaft",
-      "normen"
+      "sondern",
+      "abgeschafft",
+      "alles",
+      "anordnungen",
+      "antike",
+      "antiken",
+      "aufgezeichnet",
+      "bestätigen"
     ],
-    "excerpt": "1549B1FF-ADEC-5380-95F0-B7C3D1B86C8E search/1549B1FF-ADEC-5380-95F0-B7C3D1B86C8ES AC2F8DB5-60F6-5B45-8B9C-0270F1F02632 search/AC2F8DB5-60F6-5B45-8B9C-0270F1F02632S 8385C950-AB33-47B4-81BC-F68580E14E02 search/8385C950-AB33-47B4-81BC-F68580E14E02U C3723F8D-D4A9-547D-9BC9-14303DFDD85B search/C3723F8D-D4A9-547D-9BC9-14303DFDD85B AFF200C8-93DB-4D5B-AF51-5211CA03FDAD search/AFF200C8-93DB-4D5B-AF51-5211CA03FDAD 8903705C-6FC6-55A4-A2D6-1F9421BF62A4 notes/8903705C-6FC6-55A4-A2D6-1F9421BF62A4R AFD67CDE-BF4D-5E1F-98F1-D96402B8268F notes/AFD67CDE-BF4D-5E1F-98F1-D96402B8268FR 93AB1064-3F0E-5FFC-8A0B-A4F91F6DB1AA notes/93AB1064-3F0E-5FFC-8A0B-A4F91F6DB1AAR 0345C73F-57E9-5F9A-9099-32CD41E83328 notes/0345C73F-57E9-5F9A-9099-32CD41E83328R 9AAE6A5B-7306-5BE7-AD6E-45EEFA67A46D notes/9AAE6A5B-7306-5BE7-AD6E-45EEFA67A46DR CF1E69E4-EA19-5E1F-BDEA-4231F5F1B105 notes/CF1E69E4-EA19-5E1F-BDEA-4231F5F1B105R 9D04CB"
+    "excerpt": "Kapitularien entstanden als Reflex darauf, dass ein riesiges Herrschaftsgebiet (Frankenreich) langsam einer stärker konzentrieren/verdichteten Verwaltungsidee unterstellt wird Ein mächtiger Herrscher gibt Anordnungen und lenkt und gestaltet irgendwas Er will nicht bestätigen, was sowieso gilt, sondern will neu gestalten Kapitularien tauchen erst spät auf: 8. Jh Etwa ab dem 8. Jh werden kaum noch Leges aufgezeichnet, sondern eigentlich nur noch Kapitularien das heisst aber nicht, dass die Leges abgeschafft wurden oder keine Geltung mehr hätten! Die Lexalika blieben da und die Kapitularien kamen einfach dazu Die Idee, durch einen Erlass etwas zu organisieren geht fast immer auf Antike Vorbilder zurück sind alles Derivate der Antiken Rechtskultur Meist Verwaltungsbezogenes, aber auch um Unrecht zu verfolgen Rechtswissenschaftliche FakultätRechtsgeschichteB. Weltliche Normbildungen im ..."
   },
   {
     "title": "(8) Grundstrukturen frühen Unrechtsausgleichs- Fehde, Busse - Gericht",
@@ -603,22 +629,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(2) Weltliche Normbildung/(8) Grundstrukturen frühen Unrechtsausgleichs- Fehde, Busse - Gericht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(2) Weltliche Normbildung/(8) Grundstrukturen frühen Unrechtsausgleichs- Fehde, Busse - Gericht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(2) Weltliche Normbildung/(8) Grundstrukturen frühen Unrechtsausgleichs- Fehde, Busse - Gericht.pdf",
     "notes": 20,
     "searchPages": 7,
     "attachments": 4,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "fehde",
-      "gericht",
-      "jahrhundert",
       "rache",
-      "search",
-      "stammesrechte",
-      "leges"
+      "fehde",
+      "fehden",
+      "innerhalb",
+      "täter",
+      "wichtig",
+      "abgeben",
+      "alles",
+      "archaischen",
+      "befinden"
     ],
-    "excerpt": "430FED53-2C9E-5DA8-AC66-ADF2DB700841 search/430FED53-2C9E-5DA8-AC66-ADF2DB700841S 3438605B-BA8F-5041-8E45-47FDE126FCEC search/3438605B-BA8F-5041-8E45-47FDE126FCECS EB0817D9-EC7A-5504-AA2B-1EB72C9B2B3E search/EB0817D9-EC7A-5504-AA2B-1EB72C9B2B3ES B4C2985B-AE90-5D55-8809-0D1BA93D374F search/B4C2985B-AE90-5D55-8809-0D1BA93D374FS D16A45C8-59F5-4C49-BD70-97B869204F60 search/D16A45C8-59F5-4C49-BD70-97B869204F60U 84B573E3-6F6A-48B3-9263-B56EEEDF23AC search/84B573E3-6F6A-48B3-9263-B56EEEDF23AC 9A2454F7-817D-5769-B9C9-E232BD7DBF2F search/9A2454F7-817D-5769-B9C9-E232BD7DBF2F 4D619A70-49A1-54E4-BCD4-865CCE96C397 notes/4D619A70-49A1-54E4-BCD4-865CCE96C397R 1A95613A-BCCB-580B-B04D-32727DAE0B61 notes/1A95613A-BCCB-580B-B04D-32727DAE0B61R 6FF1ACA2-C766-5B23-81D6-E00F17FB0853 notes/6FF1ACA2-C766-5B23-81D6-E00F17FB0853R 724AF502-3FF2-58EF-8E9A-F6B03298322D notes/724AF502-3FF2-58EF-8E9A-F6B03298322DR D6C4"
+    "excerpt": "Fehden (langer, sich immer fortsetzender Streit) Rache durch Zufügung des gleichen Unwertes Innerhalb der Racheausübung zeigt sich eine Normativität innerhalb der Gegengewalt soll sich eine innere Grenze befinden Man kann nicht mehr alles tun, was man will: man darf nicht auf jeden Menschen einschlagen In der Archaischen Gesellschaft ist die Ehre sehr wichtig Erlaubte Selbsthilfe durch Gewalt gegen den Täter Fehde/Rache sind Phänomene, die es auch heute noch gibt Bevor ich mit der Fehde beginne, muss ich einen Fehdebrief abgeben Rache-/Fehdepraxis war sehr ungeregelt Opferclan verzichtet auf Rache, dafür wird der Täter zahlungspflichtig Wichtig: vermutlich war Geld damals Naturalien (z.B. Kuh) Durch die neue Idee der Compositio die sich weiter drehende Gewaltspirale zu durchbrechen Bussen sind nicht ein grosser Erfolg gewesen, dass es keine Fehden mehr gab sehr lange 1200 Jahre wurden ..."
   },
   {
     "title": "(1) Übersicht",
@@ -626,22 +653,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(1) Übersicht.pdf",
     "notes": 14,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "kirche",
-      "bischöfe",
-      "herrschaft",
-      "kaiser",
       "amtskirche",
-      "legitimation",
-      "papst"
+      "frühe",
+      "kirchenrecht",
+      "weltlicher",
+      "altenkirche",
+      "anfänge",
+      "apostelwirken",
+      "apostolischersukzession",
+      "ausformung",
+      "auspäpstlichen"
     ],
-    "excerpt": "BA606ED9-F98E-54AE-8261-5A5131896A8B search/BA606ED9-F98E-54AE-8261-5A5131896A8BU 52232E90-1A5D-50C5-BBC6-74398D060BCA search/52232E90-1A5D-50C5-BBC6-74398D060BCA notes/BA606ED9-F98E-54AE-8261-5A5131896A8BR FC030CAE-7ABA-5119-9328-CA074C7B04D5 notes/FC030CAE-7ABA-5119-9328-CA074C7B04D5R 1C3F504A-67E9-57D3-9D09-A83DDD837B51 notes/1C3F504A-67E9-57D3-9D09-A83DDD837B51R 1452ACE7-1027-5370-A7BF-FB4630CF8FF5 notes/1452ACE7-1027-5370-A7BF-FB4630CF8FF5R 156FD584-2442-549D-BDE0-D06439EB39AF notes/156FD584-2442-549D-BDE0-D06439EB39AFR AAF03673-8215-5C53-9631-0D3E6F8BDCE1 notes/AAF03673-8215-5C53-9631-0D3E6F8BDCE1R 386CBD9C-8EEA-58AC-9F88-534C1BB01F1F notes/386CBD9C-8EEA-58AC-9F88-534C1BB01F1FR 0E2E6689-3F81-53F1-9057-6711296FBE93 notes/0E2E6689-3F81-53F1-9057-6711296FBE93R C0FEA00B-6B2F-5140-B5DD-BAB699671780 notes/C0FEA00B-6B2F-5140-B5DD-BAB699671780R 4F18FAEB-9C9D-5D0A-9F2B-5232147E226F notes/4F"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteC. Die Funktion der Religion für die Legitimation weltlicher HerrschaftI. Die frühe Amtskirche und ihr KirchenrechtII. Verflechtung von Kirche und weltlicher Herrschaft im früheren MittelalterIII. Libertas EcclesiaeIV. Papst und Kaiser im Konflikt I. Die frühe Amtskirche und ihr Kirchenrecht (1)§ Anfänge– Gemeinden der AltenKirche bis etwa 2. Jh.– Apostelwirken– Ausformung desMonepiskopates:Bischof in apostolischerSukzession§ Seit dem Toleranzedikt vonMailand (313) und demEdikt von Thessaloniki(380) setzt engeVerbindung zwischenKirche und Kaisertum einRechtsgeschichte (Assessment) Seite 32 I. Die frühe Amtskirche und ihr Kirchenrecht (2)§ Seit dem 4. Jahrhundert Entstehung kirchlicher (schriftlicher)Normtypen (vgl. Text 4)Dictum Gratiani, nach D. 3, c. 2:Des Weiteren besteht das kanonische Recht entweder auspäpstlichen Dekreten oder ..."
   },
   {
     "title": "(2) Frühe Amtskirche - Kirchenrecht",
@@ -649,22 +677,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(2) Frühe Amtskirche - Kirchenrecht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(2) Frühe Amtskirche - Kirchenrecht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(2) Frühe Amtskirche - Kirchenrecht.pdf",
     "notes": 16,
     "searchPages": 7,
     "attachments": 4,
     "keywords": [
-      "notes",
-      "kirche",
-      "assessment",
-      "seite",
-      "bischöfe",
-      "herrschaft",
-      "kaiser",
-      "search",
-      "bischof",
-      "papst"
+      "natur",
+      "religion",
+      "daher",
+      "mensch",
+      "sphäre",
+      "amtskirche",
+      "anspruch",
+      "befindlichen",
+      "christentum",
+      "christentums"
     ],
-    "excerpt": "A824DEEE-D9DC-5E92-A44A-A0664CFB7E45 search/A824DEEE-D9DC-5E92-A44A-A0664CFB7E45S 63C60587-9060-5010-B794-4AF0B89A2D49 search/63C60587-9060-5010-B794-4AF0B89A2D49S F1E52E13-D4F1-4E64-89A8-C785DFFE2B4F search/F1E52E13-D4F1-4E64-89A8-C785DFFE2B4FS 3BA819F6-6322-43DA-B491-DD378BEAD88C search/3BA819F6-6322-43DA-B491-DD378BEAD88CU 35116C7F-F400-557F-8A2D-13004101EC01 search/35116C7F-F400-557F-8A2D-13004101EC01 CF209723-A43D-42E7-BE88-4ADC1CCE8B76 search/CF209723-A43D-42E7-BE88-4ADC1CCE8B76 DA2F3071-4596-486D-B407-7D606C8A6227 search/DA2F3071-4596-486D-B407-7D606C8A6227 95E082D9-5F9A-56BC-8065-AF4B994050F9 notes/95E082D9-5F9A-56BC-8065-AF4B994050F9R notes/A824DEEE-D9DC-5E92-A44A-A0664CFB7E45R notes/63C60587-9060-5010-B794-4AF0B89A2D49R AAC6A60B-BE4C-51C7-9E9A-11D4A310E14B notes/AAC6A60B-BE4C-51C7-9E9A-11D4A310E14BR C739F3FE-F1FD-53F9-B906-B21BECE86A4A notes/C739F3FE-F1FD-53F9-B906-B21BECE86A4A"
+    "excerpt": "Relevante Veränderung der monotistischen Religion des Christentums Gott ist in einer der Natur entgegengesetzten Sphäre, nicht mehr in der Welt befindlichen Sphäre Gott ist welttranszendent (da oben in einem Jenseits) Gott stehe der Natur gegenüber (Natur hat sowas wie einen Objektcharakter erhaltet) Gott wird als Person gedacht, aber in seinem göttlichen Reich ( Revolutionärer Gedanke: Mensch ist prinzipiell gleich wie Gott und hat daher den gleichen Anspruch respektiert zu werden Wenn der Mensch selbst Ebenbild Gottes ist, muss er eine personale Würde haben Hege hat daher im 19. Jh das Christentum eine Religion der Freiheit genannt Das ist übertrieben, aber die Idee dahinter kann man nachvollziehen Rechtswissenschaftliche FakultätRechtsgeschichteC. Die Funktion der Religion für die Legitimation weltlicher HerrschaftI. Die frühe Amtskirche und ihr KirchenrechtII. Verflechtung von ..."
   },
   {
     "title": "(3) Verflechtung von Kirche und weltlicher Herrschaft im frühen Mittelalter",
@@ -672,22 +701,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(3) Verflechtung von Kirche und weltlicher Herrschaft im frühen Mittelalter.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(3) Verflechtung von Kirche und weltlicher Herrschaft im frühen Mittelalter.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(3) Verflechtung von Kirche und weltlicher Herrschaft im frühen Mittelalter.pdf",
     "notes": 15,
     "searchPages": 5,
     "attachments": 2,
     "keywords": [
       "kirche",
-      "notes",
       "bischöfe",
-      "assessment",
+      "immer",
       "kaiser",
-      "seite",
-      "herrschaft",
-      "verflechtung",
-      "weltlichen",
-      "weltlicher"
+      "allem",
+      "bischof",
+      "alles",
+      "ankündigt",
+      "ausstatten",
+      "bestimmen"
     ],
-    "excerpt": "2E052EEA-EAAA-588B-AFF9-C2006A643F03 search/2E052EEA-EAAA-588B-AFF9-C2006A643F03S A4DC808C-3160-5432-824D-05E90D02C443 search/A4DC808C-3160-5432-824D-05E90D02C443S 7C4A88F7-A9DB-40C1-BA00-0952538DDBE0 search/7C4A88F7-A9DB-40C1-BA00-0952538DDBE0U 6BAFEB48-DE02-5239-9BCB-41877A016A98 search/6BAFEB48-DE02-5239-9BCB-41877A016A98 DC6CC847-6A57-4371-8FE4-8E91EFC13301 search/DC6CC847-6A57-4371-8FE4-8E91EFC13301 76F8852C-3637-59F6-9B00-5BCBE9234E0F notes/76F8852C-3637-59F6-9B00-5BCBE9234E0FR E644AD53-4DD6-5907-9C02-860795A7292A notes/E644AD53-4DD6-5907-9C02-860795A7292AR 81C5865D-1D7F-54EC-8B02-4095B55BE191 notes/81C5865D-1D7F-54EC-8B02-4095B55BE191R notes/2E052EEA-EAAA-588B-AFF9-C2006A643F03R notes/A4DC808C-3160-5432-824D-05E90D02C443R EC6FE8B8-9F9E-52FE-BC89-F8E95D3A72D6 notes/EC6FE8B8-9F9E-52FE-BC89-F8E95D3A72D6R B3384CAC-E830-567A-8BC5-B2E36E33B7E8 notes/B3384CAC-E830-567A-8BC5-B2E36E33B7E8R"
+    "excerpt": "Die Bischöfe als funktionäre der Kirche wurden dem Wollen des Kaisertums immer mehr unterstellt Der Kaiser kann nun klar bestimmen wer Bischof wird und kann diese ausstatten Es gibt ganz klare Dienstpflichten der Bischöfe gegenüber dem Kaiser Sobald der Bischof stirbt, fällt alles zurück an den Kaiser Man sieht es ist aber noch kein stukturierter Staat wie zb mit Kantonen und Gemeinden, es war eine lose Herrschaft Kirche kann man als Instrument nutzen für sich Zugriff des Kaisers auf sein Territorium vor allem über die Bischöfe Schon in der Spätantike werden die Christen Staatsreligion Vor allem im Mittelalter ist erkennbar, dass sich eine immer stärkere Verflechtung von Kirchenstrukturen mit den weltlichen Herrschaftsstrukturen ankündigt Kaisertum und Kirche verflechten sich immer mehr miteinander Kinder, Leute von der Kirche etc. sollen nicht in öffentlichen Gerichten geprüft werden, ..."
   },
   {
     "title": "(3) Zeitstrahl- Amtskirche - weltliche Herrschaft",
@@ -695,22 +725,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(3) Zeitstrahl- Amtskirche - weltliche Herrschaft.goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(3) Zeitstrahl- Amtskirche - weltliche Herrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(3) Zeitstrahl- Amtskirche - weltliche Herrschaft.pdf",
     "notes": 16,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "assessment",
-      "kirche",
-      "papst",
-      "seite",
-      "kaiser",
-      "bischöfe",
-      "herrschaft",
-      "verflechtung",
-      "amtskirche"
+      "amtskirche",
+      "frühe",
+      "kirchenrecht",
+      "weltlicher",
+      "altenkirche",
+      "anfänge",
+      "apostelwirken",
+      "apostolischersukzession",
+      "ausformung",
+      "auspäpstlichen"
     ],
-    "excerpt": "2015A715-BF75-40A9-8BD0-C5618F78C586 search/2015A715-BF75-40A9-8BD0-C5618F78C586S C75A550E-8204-4F61-9E51-C9F2BA6A70A4 search/C75A550E-8204-4F61-9E51-C9F2BA6A70A4U CCB8BC60-A53E-486E-8397-88E1B0F94E71 search/CCB8BC60-A53E-486E-8397-88E1B0F94E71 EF2808EA-33E7-5078-9C1D-38ED2B8D4378 search/EF2808EA-33E7-5078-9C1D-38ED2B8D4378 3CA677D7-2DEC-55A4-A54A-97BC6C2D40E8 notes/3CA677D7-2DEC-55A4-A54A-97BC6C2D40E8R F5FB8576-64C1-5004-8C4C-194776FB0D21 notes/F5FB8576-64C1-5004-8C4C-194776FB0D21R CF100662-88E0-55BF-900E-60AD57B30A9C notes/CF100662-88E0-55BF-900E-60AD57B30A9CR A1FA6C33-DB01-5A6A-8FC9-8FD48C01615E notes/A1FA6C33-DB01-5A6A-8FC9-8FD48C01615ER 3C88D0A2-6BC5-50F9-8F7E-287D445C739B notes/3C88D0A2-6BC5-50F9-8F7E-287D445C739BR 6B4D0232-2F85-5F30-96E8-43E5540089D9 notes/6B4D0232-2F85-5F30-96E8-43E5540089D9R EAC9E1F6-C2A0-5B8D-8FA7-7236B5E6AE27 notes/EAC9E1F6-C2A0-5B8D-8FA7-7236B5E6AE27R F111FDE"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteC. Die Funktion der Religion für die Legitimation weltlicher HerrschaftI. Die frühe Amtskirche und ihr KirchenrechtII. Verflechtung von Kirche und weltlicher Herrschaft im früheren MittelalterIII. Libertas EcclesiaeIV. Papst und Kaiser im Konflikt I. Die frühe Amtskirche und ihr Kirchenrecht (1)§ Anfänge– Gemeinden der AltenKirche bis etwa 2. Jh.– Apostelwirken– Ausformung desMonepiskopates:Bischof in apostolischerSukzession§ Seit dem Toleranzedikt vonMailand (313) und demEdikt von Thessaloniki(380) setzt engeVerbindung zwischenKirche und Kaisertum einRechtsgeschichte (Assessment) Seite 32 I. Die frühe Amtskirche und ihr Kirchenrecht (2)§ Seit dem 4. Jahrhundert Entstehung kirchlicher (schriftlicher)Normtypen (vgl. Text 4)Dictum Gratiani, nach D. 3, c. 2:Des Weiteren besteht das kanonische Recht entweder auspäpstlichen Dekreten oder ..."
   },
   {
     "title": "(4) Libertas Ecclesiae (Freiheit der Kirche)",
@@ -718,22 +749,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(4) Libertas Ecclesiae (Freiheit der Kirche).goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(4) Libertas Ecclesiae (Freiheit der Kirche).goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(4) Libertas Ecclesiae (Freiheit der Kirche).pdf",
     "notes": 19,
     "searchPages": 10,
     "attachments": 11,
     "keywords": [
-      "kirche",
-      "kaiser",
-      "papst",
       "bischöfe",
-      "notes",
+      "grosse",
+      "hatten",
+      "unzufriedenheit",
       "weltlichen",
-      "assessment",
-      "zwischen",
-      "seite",
-      "search"
+      "ausbildet",
+      "ausgangspunkt",
+      "ausgehend",
+      "ausgestattet",
+      "befriedeter"
     ],
-    "excerpt": "7FD15954-0CBD-5B74-82C0-64EA68E45D88 search/7FD15954-0CBD-5B74-82C0-64EA68E45D88S 922C699A-2DBE-5A0D-8EF9-AC2191527BB5 search/922C699A-2DBE-5A0D-8EF9-AC2191527BB5S E86AB2C8-3229-5312-8F7E-133C8B8F2947 search/E86AB2C8-3229-5312-8F7E-133C8B8F2947S 9525067D-622D-46A1-BEFA-4F6A2968F16B search/9525067D-622D-46A1-BEFA-4F6A2968F16BS B2DD8498-EEEF-40EA-908B-9CCF75295B4E search/B2DD8498-EEEF-40EA-908B-9CCF75295B4ES 54D1DF94-F977-4F7B-B939-557AD47646F7 search/54D1DF94-F977-4F7B-B939-557AD47646F7S 0BC16018-BDD2-439D-9A07-D16BC10CE976 search/0BC16018-BDD2-439D-9A07-D16BC10CE976U B271F96F-A12F-4FE8-A9EE-675E45AAC69F search/B271F96F-A12F-4FE8-A9EE-675E45AAC69F 35ED711A-5261-5712-A178-EA9360EAB546 search/35ED711A-5261-5712-A178-EA9360EAB546 7C821401-8F4C-4A69-8876-F3BC58F513B4 search/7C821401-8F4C-4A69-8876-F3BC58F513B4 9348D730-BE48-5109-A848-74A2C6B559EA notes/9348D730-BE48-5109-A848-74A2C6B559EAR B2"
+    "excerpt": "XDie Bischöfe konnten nur noch durch die Kirche eingesetzt werden, nicht durch den Papst Bischöfe hatten trotzdem noch eine Doppelfunktion: Bischöfe werden immer noch mit weltlichen Herrschaftsrechten ausgestattet FBischöfe waren deshalb weiterhin dem Kaiser gegenüber treuepflichtig Neu war also die Verschränkung der Ebenen befriedeter Christlich missionarisch fromme Reformbewegung ausgehend von einem Kloster Cluny war eines der vielen Klöster, dort war der Ausgangspunkt für eine umstürzende Bewegung Bischöfe hatten das Sagen über grosse Wirtschaftskomplexe Ging davon aus, dass sich grosse Unzufriedenheit ausbildet Unzufriedenheit dass sich Religiöse in das Weltliche begeben haben Suche zurückzugehen zu den Werten des eigentlichen christlichen Glaubens Stärker christliche Werte zu verfolgen, statt weltlichen Logiken zu folgen Diese Idee entstand nicht in der Kirchensphäre selbst, ..."
   },
   {
     "title": "(5) Papst - Kaiser im Konflikt",
@@ -741,22 +773,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(5) Papst - Kaiser im Konflikt.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(5) Papst - Kaiser im Konflikt.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(5) Papst - Kaiser im Konflikt.pdf",
     "notes": 17,
     "searchPages": 9,
     "attachments": 3,
     "keywords": [
-      "kaiser",
-      "papst",
-      "notes",
-      "herrschaft",
-      "assessment",
-      "kirche",
-      "seite",
-      "legitimation",
-      "search",
-      "beide"
+      "amtskirche",
+      "frühe",
+      "kirchenrecht",
+      "weltlicher",
+      "altenkirche",
+      "anfänge",
+      "apostelwirken",
+      "apostolischersukzession",
+      "ausformung",
+      "auspäpstlichen"
     ],
-    "excerpt": "FB065A9F-95CD-59F3-808A-6FFFE6AB5CB9 search/FB065A9F-95CD-59F3-808A-6FFFE6AB5CB9S CFE7DFF1-A245-534E-9BE1-030BA1C36212 search/CFE7DFF1-A245-534E-9BE1-030BA1C36212S DDBE0272-5413-5964-922B-92F211B337F1 search/DDBE0272-5413-5964-922B-92F211B337F1S 6288520D-9DD7-5E40-AFA7-D879C2D28A41 search/6288520D-9DD7-5E40-AFA7-D879C2D28A41S 2FC9D655-3BD5-4835-98DE-484AB4185C92 search/2FC9D655-3BD5-4835-98DE-484AB4185C92S D0F5B265-7611-44AC-AF9F-2E6BD6DE71BD search/D0F5B265-7611-44AC-AF9F-2E6BD6DE71BDU C20CD8A9-835C-4A62-943E-76815AFBDA26 search/C20CD8A9-835C-4A62-943E-76815AFBDA26 B4B114A7-0C94-57EA-BD3E-7EDF4D986388 search/B4B114A7-0C94-57EA-BD3E-7EDF4D986388 B8D4D1C0-1F09-4D3A-A42F-37A554BC5D9D search/B8D4D1C0-1F09-4D3A-A42F-37A554BC5D9D A6508C90-ECB7-5904-84F9-4FBA7218CB6A notes/A6508C90-ECB7-5904-84F9-4FBA7218CB6AR BE58B61B-EFE9-5D25-B01F-ADED7B3D0F22 notes/BE58B61B-EFE9-5D25-B01F-ADED7B3D0F22R 889"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteC. Die Funktion der Religion für die Legitimation weltlicher HerrschaftI. Die frühe Amtskirche und ihr KirchenrechtII. Verflechtung von Kirche und weltlicher Herrschaft im früheren MittelalterIII. Libertas EcclesiaeIV. Papst und Kaiser im Konflikt I. Die frühe Amtskirche und ihr Kirchenrecht (1)§ Anfänge– Gemeinden der AltenKirche bis etwa 2. Jh.– Apostelwirken– Ausformung desMonepiskopates:Bischof in apostolischerSukzession§ Seit dem Toleranzedikt vonMailand (313) und demEdikt von Thessaloniki(380) setzt engeVerbindung zwischenKirche und Kaisertum einRechtsgeschichte (Assessment) Seite 32 I. Die frühe Amtskirche und ihr Kirchenrecht (2)§ Seit dem 4. Jahrhundert Entstehung kirchlicher (schriftlicher)Normtypen (vgl. Text 4)Dictum Gratiani, nach D. 3, c. 2:Des Weiteren besteht das kanonische Recht entweder auspäpstlichen Dekreten oder ..."
   },
   {
     "title": "(6) Zeitstrahl- Eskalationsstufen",
@@ -764,22 +797,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(3) Funktion der Religion/(6) Zeitstrahl- Eskalationsstufen.goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(3) Funktion der Religion/(6) Zeitstrahl- Eskalationsstufen.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(3) Funktion der Religion/(6) Zeitstrahl- Eskalationsstufen.pdf",
     "notes": 15,
     "searchPages": 4,
     "attachments": 3,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "kirche",
-      "bischöfe",
-      "herrschaft",
-      "kaiser",
       "amtskirche",
-      "legitimation",
-      "papst"
+      "frühe",
+      "kirchenrecht",
+      "weltlicher",
+      "altenkirche",
+      "anfänge",
+      "apostelwirken",
+      "apostolischersukzession",
+      "ausformung",
+      "auspäpstlichen"
     ],
-    "excerpt": "FC6B6EB4-916D-5C9B-9257-361E62D2D326 search/FC6B6EB4-916D-5C9B-9257-361E62D2D326U 569ACE2C-6372-5927-9F26-7AB7314270E7 search/569ACE2C-6372-5927-9F26-7AB7314270E7 56713271-15FA-4549-9F0C-B893ED08821E search/56713271-15FA-4549-9F0C-B893ED08821E 0C5F840D-AC66-4109-976F-05C50E1E33C1 search/0C5F840D-AC66-4109-976F-05C50E1E33C1 4AB2AF28-6975-5356-B6A1-D498B2EFFBD8 notes/4AB2AF28-6975-5356-B6A1-D498B2EFFBD8R 4633026E-08EC-5D98-9134-81A166EC0427 notes/4633026E-08EC-5D98-9134-81A166EC0427R 61FBBBFD-89EE-5D88-9390-D0676B808AFF notes/61FBBBFD-89EE-5D88-9390-D0676B808AFFR DADEBFEB-387E-5E01-845C-5D66280F6503 notes/DADEBFEB-387E-5E01-845C-5D66280F6503R D5D3113C-9F96-536B-B551-D1EBF01E35D5 notes/D5D3113C-9F96-536B-B551-D1EBF01E35D5R A5CDE574-9FC6-5CCC-9DFD-DD59007C7AE5 notes/A5CDE574-9FC6-5CCC-9DFD-DD59007C7AE5R 8F18D744-202C-5C29-8358-3E941268EEF4 notes/8F18D744-202C-5C29-8358-3E941268EEF4R 9734478C"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteC. Die Funktion der Religion für die Legitimation weltlicher HerrschaftI. Die frühe Amtskirche und ihr KirchenrechtII. Verflechtung von Kirche und weltlicher Herrschaft im früheren MittelalterIII. Libertas EcclesiaeIV. Papst und Kaiser im Konflikt I. Die frühe Amtskirche und ihr Kirchenrecht (1)§ Anfänge– Gemeinden der AltenKirche bis etwa 2. Jh.– Apostelwirken– Ausformung desMonepiskopates:Bischof in apostolischerSukzession§ Seit dem Toleranzedikt vonMailand (313) und demEdikt von Thessaloniki(380) setzt engeVerbindung zwischenKirche und Kaisertum einRechtsgeschichte (Assessment) Seite 32 I. Die frühe Amtskirche und ihr Kirchenrecht (2)§ Seit dem 4. Jahrhundert Entstehung kirchlicher (schriftlicher)Normtypen (vgl. Text 4)Dictum Gratiani, nach D. 3, c. 2:Des Weiteren besteht das kanonische Recht entweder auspäpstlichen Dekreten oder ..."
   },
   {
     "title": "(1) Übersicht",
@@ -787,22 +821,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(4) Grundherrschaft/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(4) Grundherrschaft/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(4) Grundherrschaft/(1) Übersicht.pdf",
     "notes": 10,
     "searchPages": 5,
     "attachments": 5,
     "keywords": [
       "grundherrschaft",
-      "notes",
-      "assessment",
-      "grundherrn",
-      "search",
-      "vormoderne",
-      "abgaben",
-      "bauern",
-      "element",
-      "gutsherrn"
+      "ideologie",
+      "plakat",
+      "abgeschnitten",
+      "aktuell",
+      "angestrebt",
+      "angetrieben",
+      "anleitung",
+      "anstrebt",
+      "besatzungszone"
     ],
-    "excerpt": "DBC40D69-0365-51E6-903D-33174816B0AD search/DBC40D69-0365-51E6-903D-33174816B0ADS 97285D05-FD84-572A-B94F-D426406F06B0 search/97285D05-FD84-572A-B94F-D426406F06B0U 7699FAC4-E381-5520-AEF9-8BC2C34E2A65 search/7699FAC4-E381-5520-AEF9-8BC2C34E2A65 F832A220-0F4E-59D1-8B3C-E48E6A09810D search/F832A220-0F4E-59D1-8B3C-E48E6A09810D 95B67C87-471C-57E8-8074-066BF55B6327 search/95B67C87-471C-57E8-8074-066BF55B6327 notes/DBC40D69-0365-51E6-903D-33174816B0ADR 95162B04-1626-5FC1-8174-DBA85831D0DC notes/95162B04-1626-5FC1-8174-DBA85831D0DCR 28D9CF85-85CA-5AC3-A2EB-0417D8DFEBBC notes/28D9CF85-85CA-5AC3-A2EB-0417D8DFEBBCR A0280BE0-D342-5BB1-AC1D-67FFA123F580 notes/A0280BE0-D342-5BB1-AC1D-67FFA123F580R B8153467-6D85-5BEF-9D1F-2B3351933441 notes/B8153467-6D85-5BEF-9D1F-2B3351933441R 0FA853A4-832B-5B45-B99B-111E924D4BB5 notes/0FA853A4-832B-5B45-B99B-111E924D4BB5R 8F66E222-0447-5C32-BEC1-DFE58D941AD7 notes/8"
+    "excerpt": "Plakat gegen die Grundherren „Reiche enteignen“ Plakat aus der ostdeutschen Besatzungszone Staatlich gelenkte sozialistische Wirtschaftsordnung, die den Kommunismus anstrebt unter der Anleitung der Sowjetunion Den reichen Gutsherrn/Grundherrn in Ostdeutschland Mit der Bodenreform 45 hat man das Abgeschnitten und eine Neuerung angestrebt Politische Ideologie, die noch bis ins 20. JH aktuell war Diese Ideologie hat auch spätere Reformen angetrieben Grundherrschaft hat in der Tat bestanden als Grundtypus der Ordnung der Wirtschaft bis an die Moderne kann man sich heute schlecht vorstellen Blick auf die wirkliche Struktur des Lebens Rechtswissenschaftliche FakultätRechtsgeschichteD. Die Grundherrschaft in der vormodernen WirtschaftI. Die Grundherrschaft als Element der früheren RechtswirklichkeitII. Entwicklungstypen der GrundherrschaftIII. Das Recht in der Grundherrschaft I. Die ..."
   },
   {
     "title": "(2) Die Grundherrschaft als Element der früheren Rechtswirklichkeit",
@@ -810,22 +845,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(4) Grundherrschaft/(2) Die Grundherrschaft als Element der früheren Rechtswirklichkeit.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(4) Grundherrschaft/(2) Die Grundherrschaft als Element der früheren Rechtswirklichkeit.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(4) Grundherrschaft/(2) Die Grundherrschaft als Element der früheren Rechtswirklichkeit.pdf",
     "notes": 10,
     "searchPages": 8,
     "attachments": 4,
     "keywords": [
       "grundherrschaft",
-      "grundherrn",
-      "notes",
-      "search",
-      "assessment",
-      "grundherr",
-      "herrschaft",
-      "bauern",
-      "haupthof",
-      "hufen"
+      "haben",
+      "ideologie",
+      "abgeschnitten",
+      "aktuell",
+      "angestrebt",
+      "angetrieben",
+      "anleitung",
+      "anstrebt",
+      "arbeitet"
     ],
-    "excerpt": "1CFA32F3-6EAA-541E-895E-552CF4C3F843 search/1CFA32F3-6EAA-541E-895E-552CF4C3F843S 183A09B2-3F40-5FEB-98AF-C42948DCA606 search/183A09B2-3F40-5FEB-98AF-C42948DCA606S A4A9841E-CF99-583C-BC06-5A117E0E3C1D search/A4A9841E-CF99-583C-BC06-5A117E0E3C1DS 9B3C9D4B-91BE-55FF-860C-6303B5AEE28D search/9B3C9D4B-91BE-55FF-860C-6303B5AEE28DS 76191A09-4710-562B-8148-77FF7BAB9CC1 search/76191A09-4710-562B-8148-77FF7BAB9CC1U 8E3E97E7-DBA2-5C66-BEE7-B264F9B6BB1B search/8E3E97E7-DBA2-5C66-BEE7-B264F9B6BB1B 9118CE34-8C3B-5121-AA22-9C671BEDFBBF search/9118CE34-8C3B-5121-AA22-9C671BEDFBBF 00D6EEE7-973B-5B9B-B1FA-6038EAC661B4 search/00D6EEE7-973B-5B9B-B1FA-6038EAC661B4 notes/1CFA32F3-6EAA-541E-895E-552CF4C3F843R notes/183A09B2-3F40-5FEB-98AF-C42948DCA606R notes/A4A9841E-CF99-583C-BC06-5A117E0E3C1DR 3A3283FD-6BD7-5B53-887B-6750D0A4300D notes/3A3283FD-6BD7-5B53-887B-6750D0A4300DR 55EE7371-10F3-5F6C-B308-4116C7090A"
+    "excerpt": "wie kann man die Grundherrschaft beschreiben Es gibt aber Ausnahmen, wo Menschen auch auf gemeinem Grund gelebt haben (Egalitär), aber sonst meistens in Europa war Über- und Unterordnung Feudalismus (haben ähnliche Merkmale, geht um Über- und Unterordnungsverhältnisse und um Boden) In der Grundherrschaft geht es darum, wo ein Mensch arbeitet und lebt es geht um sein echtes Leben, wo er eigentlich wohnt und wem er was schuldet Grundherrschaft ist ein „neuer“ Begriff, nicht von den Karolingern Plakat aus der ostdeutschen Besatzungszone Staatlich gelenkte sozialistische Wirtschaftsordnung, die den Kommunismus anstrebt unter der Anleitung der Sowjetunion Den reichen Gutsherrn/Grundherrn in Ostdeutschland Mit der Bodenreform 45 hat man das Abgeschnitten und eine Neuerung angestrebt Politische Ideologie, die noch bis ins 20. JH aktuell war Diese Ideologie hat auch spätere Reformen angetrieben ..."
   },
   {
     "title": "(3) Villikationsverfassung",
@@ -833,22 +869,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(4) Grundherrschaft/(3) Villikationsverfassung.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(4) Grundherrschaft/(3) Villikationsverfassung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(4) Grundherrschaft/(3) Villikationsverfassung.pdf",
     "notes": 11,
     "searchPages": 11,
     "attachments": 7,
     "keywords": [
       "grundherrschaft",
-      "grundherrn",
-      "notes",
-      "search",
-      "bauern",
-      "grundherr",
-      "assessment",
-      "haupthof",
-      "herrschaft",
-      "salland"
+      "ideologie",
+      "abgeschnitten",
+      "achtung",
+      "aktuell",
+      "angestrebt",
+      "angetrieben",
+      "anleitung",
+      "anstrebt",
+      "aufbauschema"
     ],
-    "excerpt": "C799E3E6-6AB4-542B-9058-5270F39137C0 search/C799E3E6-6AB4-542B-9058-5270F39137C0S 2575296D-10FF-599E-AC76-944858B295AA search/2575296D-10FF-599E-AC76-944858B295AAS 86A01C33-2BF7-506A-817B-BD8267E56F6A search/86A01C33-2BF7-506A-817B-BD8267E56F6AS FDFA1E73-8120-5D1A-AB46-CBECBD219967 search/FDFA1E73-8120-5D1A-AB46-CBECBD219967S 84971901-08F6-41F8-A32B-7C61391B20F2 search/84971901-08F6-41F8-A32B-7C61391B20F2S 9ABD54BE-E2AC-444B-8AF5-87000055E8BB search/9ABD54BE-E2AC-444B-8AF5-87000055E8BBS 503C59F1-42AB-465F-8EF0-9BC085A10F06 search/503C59F1-42AB-465F-8EF0-9BC085A10F06U 8894D8BE-8B04-4E29-A7CF-6D4800C90483 search/8894D8BE-8B04-4E29-A7CF-6D4800C90483 11CC3E9C-B79F-4C49-9DC3-72697602201C search/11CC3E9C-B79F-4C49-9DC3-72697602201C EB9E69B1-44CC-584B-B4B0-B80CCD5909B5 search/EB9E69B1-44CC-584B-B4B0-B80CCD5909B5 34C1730E-BB06-40AC-A9DE-9049200C1ED5 search/34C1730E-BB06-40AC-A9DE-9049200C1ED5 no"
+    "excerpt": "wie kann man die Grundherrschaft beschreiben Plakat aus der ostdeutschen Besatzungszone Staatlich gelenkte sozialistische Wirtschaftsordnung, die den Kommunismus anstrebt unter der Anleitung der Sowjetunion Den reichen Gutsherrn/Grundherrn in Ostdeutschland Mit der Bodenreform 45 hat man das Abgeschnitten und eine Neuerung angestrebt Politische Ideologie, die noch bis ins 20. JH aktuell war Diese Ideologie hat auch spätere Reformen angetrieben Grundherrschaft hat in der Tat bestanden als Grundtypus der Ordnung der Wirtschaft bis an die Moderne kann man sich heute schlecht vorstellen Blick auf die wirkliche Struktur des Lebens Das ist das Aufbauschema der sozialen Wirklichkeit der mittelalterlichen Welt Bischöfe (war auch ein Grundherr) bekamen auch Krongut vom König Auch weltliche Herrscher (Kaiser/Könige) hatten Grundherrschaften Achtung: Das waren Wirtschaftseinheiten, das ist nicht ..."
   },
   {
     "title": "(5) Rentengrundherrschaft - Gutsherrschaft",
@@ -856,22 +893,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(4) Grundherrschaft/(5) Rentengrundherrschaft - Gutsherrschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(4) Grundherrschaft/(5) Rentengrundherrschaft - Gutsherrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(4) Grundherrschaft/(5) Rentengrundherrschaft - Gutsherrschaft.pdf",
     "notes": 12,
     "searchPages": 14,
     "attachments": 10,
     "keywords": [
       "grundherrschaft",
-      "search",
-      "grundherrn",
-      "notes",
-      "bauern",
-      "gutsherrschaft",
-      "immer",
-      "assessment",
-      "grundherr",
-      "herrschaft"
+      "element",
+      "früherenrechtswirklichkeit",
+      "herrschaft",
+      "agrarische",
+      "aufdem",
+      "begriffbelegt",
+      "beschreiben",
+      "bestimmt",
+      "boden"
     ],
-    "excerpt": "7F59EDC0-B107-5BA4-A6F7-7BABAC2A9290 search/7F59EDC0-B107-5BA4-A6F7-7BABAC2A9290S 7226BEE5-AD2A-504B-A84A-31A57C5CD99F search/7226BEE5-AD2A-504B-A84A-31A57C5CD99FS 97CE8787-5410-5DB9-8267-24F02C58B962 search/97CE8787-5410-5DB9-8267-24F02C58B962S 5F0DB043-7C9A-5E17-8357-789A6D69710F search/5F0DB043-7C9A-5E17-8357-789A6D69710FS 52FDC028-39C4-531A-A677-478F1571FBC2 search/52FDC028-39C4-531A-A677-478F1571FBC2S 59CEB8DC-9EA4-4425-A3AC-300DACE62F33 search/59CEB8DC-9EA4-4425-A3AC-300DACE62F33S B91A233A-FD3D-44F6-A558-4D90BB8FC033 search/B91A233A-FD3D-44F6-A558-4D90BB8FC033U E5E9F805-43ED-42A7-8C1F-048454F95D1C search/E5E9F805-43ED-42A7-8C1F-048454F95D1C E3FDDEB9-C52D-4DC3-88D7-9B537C01509A search/E3FDDEB9-C52D-4DC3-88D7-9B537C01509A 581D2CEF-4CC0-50E0-8F87-F3AE6906F07E search/581D2CEF-4CC0-50E0-8F87-F3AE6906F07E 9129356B-31A4-4E75-A3C0-5B44B227AA6E search/9129356B-31A4-4E75-A3C0-5B44B227AA6E 6F"
+    "excerpt": "wie kann man die Grundherrschaft beschreiben Rechtswissenschaftliche FakultätRechtsgeschichteD. Die Grundherrschaft in der vormodernen WirtschaftI. Die Grundherrschaft als Element der früheren RechtswirklichkeitII. Entwicklungstypen der GrundherrschaftIII. Das Recht in der Grundherrschaft I. Die Grundherrschaft als Element der früherenRechtswirklichkeit (1)§ Realität von Herrschaft und Recht bestimmt durch- Agrarische Prägung der Wirtschaft- Differenzierung von Herrschaftsbeziehungen imländlichen Raum- Greifbar in I. Die Grundherrschaft als Element der früherenRechtswirklichkeit (2) Grundherrschaft - Herrschaft über Grund und Boden sowiedie darauf siedelnden (u. U. persönlich freien) Leute - Begriffbelegt seit etwa 14. Jh Grundherrschaft prägt Sozial- und Wirtschaftsordnung aufdem Land bis zum 19. Jahrhundert Haupttypen- Villikationsverfassung/Fronhofsystem- Rentengrundherrschaft (seit ..."
   },
   {
     "title": "(6) Das Recht in der Grundherrschaft",
@@ -879,22 +917,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(4) Grundherrschaft/(6) Das Recht in der Grundherrschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(4) Grundherrschaft/(6) Das Recht in der Grundherrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(4) Grundherrschaft/(6) Das Recht in der Grundherrschaft.pdf",
     "notes": 11,
     "searchPages": 11,
     "attachments": 6,
     "keywords": [
-      "grundherrschaft",
-      "grundherrn",
-      "notes",
-      "search",
       "grundherr",
-      "assessment",
-      "bauern",
-      "herrschaft",
-      "haupthof",
-      "immer"
+      "grundherrschaft",
+      "haben",
+      "konnte",
+      "unterschiedliche",
+      "abhängige",
+      "alles",
+      "arbeitet",
+      "aufgeschriebenes",
+      "ausnahmen"
     ],
-    "excerpt": "FD56A618-28D9-5410-A9E9-77BFA4E882BF search/FD56A618-28D9-5410-A9E9-77BFA4E882BFS EBC4CB1C-D553-5161-9F2E-D7ABFE4171CF search/EBC4CB1C-D553-5161-9F2E-D7ABFE4171CFS 8B06C76C-A6DC-59D0-8E6A-081C2653D988 search/8B06C76C-A6DC-59D0-8E6A-081C2653D988S B71CD183-46CE-5345-8F82-BE8FDBFFC08F search/B71CD183-46CE-5345-8F82-BE8FDBFFC08FS F95E26A0-59A0-56E3-99F7-09C07C3C0F87 search/F95E26A0-59A0-56E3-99F7-09C07C3C0F87S C799DE7E-89FB-5109-859A-019A4F10A8A0 search/C799DE7E-89FB-5109-859A-019A4F10A8A0S 7598108D-6086-43BF-A21C-59EC798A8791 search/7598108D-6086-43BF-A21C-59EC798A8791U 975DC8D9-BAAF-44B5-8852-8495356EF092 search/975DC8D9-BAAF-44B5-8852-8495356EF092 33D0C2F3-10CF-531B-AE60-95221A9FC0C8 search/33D0C2F3-10CF-531B-AE60-95221A9FC0C8 2F06AF71-BC6B-5883-9EDF-7633BC7717F2 search/2F06AF71-BC6B-5883-9EDF-7633BC7717F2 8CF2C820-D727-518D-94BD-4566CFEE4F0E search/8CF2C820-D727-518D-94BD-4566CFEE4F0E no"
+    "excerpt": "Es gibt aber Ausnahmen, wo Menschen auch auf gemeinem Grund gelebt haben (Egalitär), aber sonst meistens in Europa war Über- und Unterordnung Feudalismus (haben ähnliche Merkmale, geht um Über- und Unterordnungsverhältnisse und um Boden) In der Grundherrschaft geht es darum, wo ein Mensch arbeitet und lebt es geht um sein echtes Leben, wo er eigentlich wohnt und wem er was schuldet Grundherrschaft ist ein „neuer“ Begriff, nicht von den Karolingern Wie stark konnte Recht wirken in einer Mikroeinheit wo es lauter Abhängige gab und einen Grundherrn? Grundherrschaften fanden auf unterschiedlichen Niveaus statt: Adel, Kirche, Es gab Aufgeschriebenes, also gab mussten beide Seiten sich daran halten, also konnte Grundherr doch nicht ganz alles machen Es gibt unterschiedliche Hofrechte und unterschiedliche Rechtsquellen mit Pflichten Grundherr ist nicht ganz frei, aber unklar wie weit Ob die ..."
   },
   {
     "title": "(1) Übersicht",
@@ -902,22 +941,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(1) Übersicht.pdf",
     "notes": 23,
     "searchPages": 7,
     "attachments": 6,
     "keywords": [
       "herrschaft",
-      "notes",
-      "assessment",
-      "seite",
-      "verfassungsrecht",
-      "jahrhundert",
-      "search",
-      "lehen",
-      "lehnswesen",
-      "personale"
+      "einführung",
+      "allem",
+      "alsordnungsprinzip",
+      "amtskirche",
+      "amtsverfassung",
+      "andererseitsvergemeinschaftungen",
+      "asymmetrien",
+      "ausübungköniglicher",
+      "bedeutung"
     ],
-    "excerpt": "734FC7C7-2469-506C-AC27-8DC1176F0046 search/734FC7C7-2469-506C-AC27-8DC1176F0046S 3C2AE7D4-D415-5699-88AD-584D99528AD3 search/3C2AE7D4-D415-5699-88AD-584D99528AD3S ECE9D833-F2DF-540F-BA6D-86EDB8526941 search/ECE9D833-F2DF-540F-BA6D-86EDB8526941S C1224CC3-0E7E-449C-8DFA-3C4DA203ECE0 search/C1224CC3-0E7E-449C-8DFA-3C4DA203ECE0U 5029F529-EC23-57F7-A61C-70C351E2221B search/5029F529-EC23-57F7-A61C-70C351E2221B 95A41E84-6BEE-52C4-9C4F-409F8C7B85D0 search/95A41E84-6BEE-52C4-9C4F-409F8C7B85D0 C54F785D-8A45-420B-92E7-9D0D63828B8A search/C54F785D-8A45-420B-92E7-9D0D63828B8A notes/734FC7C7-2469-506C-AC27-8DC1176F0046R notes/3C2AE7D4-D415-5699-88AD-584D99528AD3R notes/ECE9D833-F2DF-540F-BA6D-86EDB8526941R 8F1A9FD5-899A-5207-A9E6-66272D92B946 notes/8F1A9FD5-899A-5207-A9E6-66272D92B946R F1AD63C6-B65C-5468-95AA-10B53438398A notes/F1AD63C6-B65C-5468-95AA-10B53438398AR 19AB6213-434D-54AE-AAAE-13A3995FA50"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteE. Rechtliche Strukturen in mittelalterlichen HerrschaftsformenI. EinführungII. III. IV. Personale Herrschaft: Lehnswesen und LehnsrechtRaum und Territorium: Die LandesherrschaftVerbandsbildung durch Selbstorganisation: die coniurationes I. Einführung (1)§ Kontinuierlich wachsende Bedeutung von Recht fürStrukturbildungen politischer Herrschaft– Leges und Kapitularien als Instrumente zur Ausübungköniglicher Herrschaft– Hierarchisierte Amtsverfassung der Amtskirche alsOrdnungsprinzip von Herrschaft§ Verstärkung dieser Entwicklungen vor allem seit dem 12.Jahrhundert§ Zwei grundlegende Tendenzen- einerseitsRechtliche Strukturierung von Asymmetrien politischerHerrschaft durch Herrscherliche Normsetzung und Normanwendung mitBezug auf TerritorienRechtsgeschichte (Assessment) Seite 54 I. Einführung (2)- andererseitsVergemeinschaftungen von ..."
   },
   {
     "title": "(2) Personale Herrschaft- Lehnswesen - Lehnsrecht",
@@ -925,22 +965,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(2) Personale Herrschaft- Lehnswesen - Lehnsrecht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(2) Personale Herrschaft- Lehnswesen - Lehnsrecht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(2) Personale Herrschaft- Lehnswesen - Lehnsrecht.pdf",
     "notes": 24,
     "searchPages": 14,
     "attachments": 11,
     "keywords": [
-      "notes",
-      "herrschaft",
-      "assessment",
-      "seite",
-      "lehen",
-      "search",
+      "lehensherr",
+      "immer",
       "lehensmann",
-      "reichsfürsten",
-      "adligen",
-      "lehensherr"
+      "relevanter",
+      "schwach",
+      "wurden",
+      "zwischen",
+      "aktion",
+      "andere",
+      "anderen"
     ],
-    "excerpt": "22CC4660-87DB-5B76-9B5A-745A069914CF search/22CC4660-87DB-5B76-9B5A-745A069914CFS 81DD2812-5246-5916-950B-0767A02F6513 search/81DD2812-5246-5916-950B-0767A02F6513S 979A09D1-1A2D-57D7-9065-10E6A686D2E7 search/979A09D1-1A2D-57D7-9065-10E6A686D2E7S C2B4E6B4-E052-5115-9800-52546473779E search/C2B4E6B4-E052-5115-9800-52546473779ES 3F426BA7-FB29-55AF-86B5-FF82404764F1 search/3F426BA7-FB29-55AF-86B5-FF82404764F1S A28959A0-B2E9-5050-8FB8-9A21763F4C33 search/A28959A0-B2E9-5050-8FB8-9A21763F4C33S 5000E729-A7F0-5957-A2A6-42AB4A4DBA14 search/5000E729-A7F0-5957-A2A6-42AB4A4DBA14S DDC2136A-D45C-5FD8-874F-CEE8A616CC34 search/DDC2136A-D45C-5FD8-874F-CEE8A616CC34S 2994D1CC-25A5-5BB0-BB1A-2071048198CC search/2994D1CC-25A5-5BB0-BB1A-2071048198CCS 180134BD-A1A1-445D-B2E6-05C990CEB1E2 search/180134BD-A1A1-445D-B2E6-05C990CEB1E2S CFA2EC56-F7E2-469C-9A47-B34BEBA97DBB search/CFA2EC56-F7E2-469C-9A47-B34BEBA97DBB"
+    "excerpt": "Das Recht stellt sich sehr schwach auf Gewaltausübung um Eskalationen zu verhindern, zeigt uns, dass das Recht im Frühmittelalter schwach war Rechtliche wurden immer relevanter seit der Jahrtausendwende Juristische Argumente wurden immer relevanter in der europäischen Geschichte des Mittelalters Bis zum 12. JH breitet sich die Relevanz des Rechtes langsam aus Beziehung zwischen Lehensherr und Lehensmann Eid, indem er sich dem anderen verschrieb / unterordnete Aber, es konnten alle nicht lesen und schreiben Investitura (kennen wir schon aus dem Investiturstreit!) Lehensherr setzt den Lehensmann ein Ende der Herrschaftsbeziehung zwischen übergeordnetem und untergeordnetem eigentlich hätte es des Tod sein müssen Sichtbarkeit/Beweisbarkeit durch eine Aktion/Symbolhandlungen, weil es eine Zeit ohne Schrift war: andere Menschen können bezeugen RIm Gegenzug rüstet Lehensherr ihn mit einem ..."
   },
   {
     "title": "(3) Lehnsherrschaft vs. Grundherrschaft",
@@ -948,22 +989,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(3) Lehnsherrschaft vs. Grundherrschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(3) Lehnsherrschaft vs. Grundherrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(3) Lehnsherrschaft vs. Grundherrschaft.pdf",
     "notes": 22,
     "searchPages": 7,
     "attachments": 4,
     "keywords": [
-      "notes",
+      "wollen",
+      "frieden",
       "herrschaft",
-      "assessment",
-      "seite",
-      "jahrhundert",
-      "search",
-      "lehen",
-      "lehnswesen",
-      "personale",
-      "undlehnsrecht"
+      "menschen",
+      "regeln",
+      "stellt",
+      "ansätze",
+      "ausrichtung",
+      "autonom",
+      "bereich"
     ],
-    "excerpt": "271E9D14-1E22-536A-BEC7-D08932D31086 search/271E9D14-1E22-536A-BEC7-D08932D31086S 106421A5-6B96-5C7B-A861-4ED64C8C952A search/106421A5-6B96-5C7B-A861-4ED64C8C952AS AF2F920E-D6FB-5A44-921F-4170AAE9B952 search/AF2F920E-D6FB-5A44-921F-4170AAE9B952S F8E4BE00-F138-5315-B991-36D14BFB91C6 search/F8E4BE00-F138-5315-B991-36D14BFB91C6S FDFB6FF8-05F3-59DA-96D8-513BB41B6531 search/FDFB6FF8-05F3-59DA-96D8-513BB41B6531U 93CAE092-4AD4-575B-A4A0-91873719959D search/93CAE092-4AD4-575B-A4A0-91873719959D 2D14AF49-456D-5680-AC78-8E747580B66B search/2D14AF49-456D-5680-AC78-8E747580B66B notes/271E9D14-1E22-536A-BEC7-D08932D31086R notes/106421A5-6B96-5C7B-A861-4ED64C8C952AR notes/AF2F920E-D6FB-5A44-921F-4170AAE9B952R D293521A-91B5-5A31-8572-F007F270FF11 notes/D293521A-91B5-5A31-8572-F007F270FF11R E47E92C2-8787-5C04-99A4-C9C0EC86CE13 notes/E47E92C2-8787-5C04-99A4-C9C0EC86CE13R 5ABAD313-1BAA-57DD-95A1-E8ACAEA541"
+    "excerpt": "Starke Föderale Sturktur in der Schweiz - Territorialisierung: Entstehung von Landesherrschaft Ausrichtung von Herrschaft geht weg vom König und hin zu Territorien Herrschaftsausübung stellt sich auf eine neue Art und Weise auf Verschluss von Leuten stellt sich unter gemeinsame Regeln Eine Selbstunterwerfung unter neue Regeln Besonders im Bereich der Gottes- und Landfrieden Menschen kommen zusammen und wollen Frieden haben Sie wollen, dass sich die Kirche stärker emanzipiert und frei sein soll Beschlossen gemeinsam, dass sie Frieden einhalten wollen Menschen gründen autonom neue Einheiten Auch schon im Mittelalter gab es erste Ansätze, dass sich die beteiligten Parteien auf Grundsatzregeln einigen, wie man Konflikte löst Rechtswissenschaftliche FakultätRechtsgeschichteE. Rechtliche Strukturen in mittelalterlichen HerrschaftsformenI. EinführungII. III. IV. Personale Herrschaft: ..."
   },
   {
     "title": "(5) Raum - Territorium- Die Landesherrschaft",
@@ -971,22 +1013,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(5) Raum - Territorium- Die Landesherrschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(5) Raum - Territorium- Die Landesherrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(5) Raum - Territorium- Die Landesherrschaft.pdf",
     "notes": 23,
     "searchPages": 11,
     "attachments": 5,
     "keywords": [
-      "herrschaft",
-      "notes",
-      "assessment",
-      "seite",
-      "search",
+      "klerus",
+      "landesherr",
+      "adligen",
+      "gegenüber",
       "könig",
-      "lehen",
-      "territorien",
-      "territorium",
-      "gegenüber"
+      "sondern",
+      "stehen",
+      "absolut",
+      "adels",
+      "agieren"
     ],
-    "excerpt": "DBB78F4E-2621-59FA-A63B-52006F59715B search/DBB78F4E-2621-59FA-A63B-52006F59715BS E48E2D79-58F2-5471-A108-C82C035E9A98 search/E48E2D79-58F2-5471-A108-C82C035E9A98S ED5ABB58-99BE-5501-A4E1-F97940348F99 search/ED5ABB58-99BE-5501-A4E1-F97940348F99S 9AE737D6-5330-5E46-9C93-6794938C6A77 search/9AE737D6-5330-5E46-9C93-6794938C6A77S DC39FC84-5703-52BF-A62C-F849D026529A search/DC39FC84-5703-52BF-A62C-F849D026529AS B288902E-2C88-596E-B690-F85C34FDB6D0 search/B288902E-2C88-596E-B690-F85C34FDB6D0S 4B358AE7-564B-5D2D-9AFC-FA14B95CA1C2 search/4B358AE7-564B-5D2D-9AFC-FA14B95CA1C2S 6227B97C-FA0A-468F-993B-314E1FBD5D2D search/6227B97C-FA0A-468F-993B-314E1FBD5D2DU F807502D-8E69-53E3-B791-5AA33F0AB923 search/F807502D-8E69-53E3-B791-5AA33F0AB923 9F0C4960-E7A7-51F5-ADFC-67B1302F5CEA search/9F0C4960-E7A7-51F5-ADFC-67B1302F5CEA ED3CDB81-CA0D-4847-AFF5-E7BF23EDD025 search/ED3CDB81-CA0D-4847-AFF5-E7BF23EDD025 n"
+    "excerpt": "Die sich herausbildende Herrschaftsstruktur darf man sich nicht perfekt vorstellen Auf Länderebene und Reichsebene stehen den Landesherrn die Adligen und der Klerus gegenüber Auch auf Landesebene konnte auch ein Fürst nicht absolut herrschen Seine Herrschaft war geteilt mit den Ständen (hier gemeint: Adel, Klerus, Die Stände stehen dem Landesherr gegenüber kein Landesherr kann ohne den Konsens der wichtigsten anderen Adligen neues Recht setzen Das verfestigt sich in den Landständen, die wie Parlamente werden des Adels und Klerus Wenn der Landesherr etwas wollte (Krieg oder Geld) Magna Charta schreibt fest, dass der König nicht ohne Zustimmung der Grossen des Reiches agieren darf Erste Ansätze von leges fundamentales Grundrechte nicht im Sinne von Menschenrechten/Individualrechten sondern Grundstrukturen der Herrschaftsausübung Nicht der König ist der eigentliche Herrscher, sondern hat ..."
   },
   {
     "title": "(6) Coniurationes- Verbandsbildung durch Selbstorganisation",
@@ -994,22 +1037,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(6) Coniurationes- Verbandsbildung durch Selbstorganisation.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(6) Coniurationes- Verbandsbildung durch Selbstorganisation.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(6) Coniurationes- Verbandsbildung durch Selbstorganisation.pdf",
     "notes": 23,
     "searchPages": 9,
     "attachments": 6,
     "keywords": [
-      "notes",
-      "herrschaft",
-      "assessment",
-      "seite",
-      "search",
-      "jahrhundert",
-      "landfrieden",
-      "lehen",
-      "lehnswesen",
-      "personale"
+      "vorher",
+      "alten",
+      "aufbauen",
+      "basismodell",
+      "bedeutung",
+      "befriedeten",
+      "beschworene",
+      "binden",
+      "bündnis",
+      "bündnissystem"
     ],
-    "excerpt": "B9FE2680-B1EB-5175-B034-47F42110957B search/B9FE2680-B1EB-5175-B034-47F42110957BS 669D78EA-7C68-5CB7-AE9A-E29337056A70 search/669D78EA-7C68-5CB7-AE9A-E29337056A70S EC65751D-96FA-511D-BCE7-98DF7E23ACDA search/EC65751D-96FA-511D-BCE7-98DF7E23ACDAS EF0403BF-7E49-504A-8ACB-08CBE36F7056 search/EF0403BF-7E49-504A-8ACB-08CBE36F7056S 2F49453B-AAC6-585C-85EF-32FCE66E886D search/2F49453B-AAC6-585C-85EF-32FCE66E886DS 45A59D54-96A3-4EDE-BFDF-4758A52043C7 search/45A59D54-96A3-4EDE-BFDF-4758A52043C7U 95D41C11-C6C8-5267-A9FD-6B64F3E5FAA8 search/95D41C11-C6C8-5267-A9FD-6B64F3E5FAA8 F93955AB-C72C-45A3-859F-0191829FB6E8 search/F93955AB-C72C-45A3-859F-0191829FB6E8 AC1C5AA4-7DCB-59E0-BDAA-44D0044745A8 search/AC1C5AA4-7DCB-59E0-BDAA-44D0044745A8 43D4ABE5-EE8D-5920-A78E-80DAA9B172CE notes/43D4ABE5-EE8D-5920-A78E-80DAA9B172CER 45482877-0667-5FC2-B65B-17379DEDCBEA notes/45482877-0667-5FC2-B65B-17379DEDCBEAR 4C3"
+    "excerpt": "Schutzbündnis: 3 Orte, die sich Schutz und Bündnis schwören Es gilt als der Gründungstext der alten Eidgenossenschaft Mythos (ähnlich wie die Magna Charta) Also auch hier: Instrumentalisierung von geschichtlichen Dokumenten für gegenwärtige Zwecke Erst 1891 wurde er zum Gründungsdokument der Schweiz erklärt, vorher hatte er gar nicht so grosse Bedeutung Aus den Friedensschlüssen, die erstmal nur ein Territorium befriedeten, entwickelt sich ein mittelalterliches System kollektiver Sicherheit Beschworene Friedensbündnisse zwischen unterschiedlichen Einheiten Idee, sich zu binden durch Eid, wurde ein Basismodell und hat zu neuen Phänomenen geführt: Eidleistung / Selbstverpflichtung Ganze Landfriedensschlüsse ergeben sich zu einem Bündnissystem Ein neuer Mechanismus, wie sich Herrschaft aufbauen kann: durch Eid (vorher hatten wir immer Über-/Unterordnungsphänomene) Schwur, sich an eine ..."
   },
   {
     "title": "(7) Zeitstrahl- Eidgenössische Normbildungen im Spätmittelalter",
@@ -1017,22 +1061,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(7) Zeitstrahl- Eidgenössische Normbildungen im Spätmittelalter.goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(7) Zeitstrahl- Eidgenössische Normbildungen im Spätmittelalter.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(7) Zeitstrahl- Eidgenössische Normbildungen im Spätmittelalter.pdf",
     "notes": 22,
     "searchPages": 3,
     "attachments": 3,
     "keywords": [
-      "notes",
-      "assessment",
       "herrschaft",
-      "seite",
-      "jahrhundert",
-      "lehen",
-      "lehnswesen",
-      "personale",
-      "undlehnsrecht",
-      "vasallen"
+      "einführung",
+      "allem",
+      "alsordnungsprinzip",
+      "amtskirche",
+      "amtsverfassung",
+      "andererseitsvergemeinschaftungen",
+      "asymmetrien",
+      "ausübungköniglicher",
+      "bedeutung"
     ],
-    "excerpt": "BDEB2EF9-5441-59B5-AE76-93BCE87EFF50 search/BDEB2EF9-5441-59B5-AE76-93BCE87EFF50U B7A4B2A1-CB21-5AD8-9061-5F6985D2DB9E search/B7A4B2A1-CB21-5AD8-9061-5F6985D2DB9E 5E960AEC-6535-599B-96A4-ED999FDC342C search/5E960AEC-6535-599B-96A4-ED999FDC342C A906C14D-2DA4-5A42-8A9C-1C9D5334AC05 notes/A906C14D-2DA4-5A42-8A9C-1C9D5334AC05R 9070E747-C2A9-5F49-938F-27CA51215930 notes/9070E747-C2A9-5F49-938F-27CA51215930R CC1F0170-5E35-5506-A56B-2B60360A0530 notes/CC1F0170-5E35-5506-A56B-2B60360A0530R 2778FD28-B87E-569F-9609-624B5CC46D8D notes/2778FD28-B87E-569F-9609-624B5CC46D8DR 06308E3B-0FF5-5DEC-8DF6-DE79AF3AF454 notes/06308E3B-0FF5-5DEC-8DF6-DE79AF3AF454R 7BF00DC5-1393-5095-8F27-41E1DF291D37 notes/7BF00DC5-1393-5095-8F27-41E1DF291D37R 29943E6A-8B72-5460-BD5F-C4CD7103B0B5 notes/29943E6A-8B72-5460-BD5F-C4CD7103B0B5R D7DE3892-C48E-5E4E-BD81-99C758B8C21E notes/D7DE3892-C48E-5E4E-BD81-99C758B8C21ER 0460AEDF"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteE. Rechtliche Strukturen in mittelalterlichen HerrschaftsformenI. EinführungII. III. IV. Personale Herrschaft: Lehnswesen und LehnsrechtRaum und Territorium: Die LandesherrschaftVerbandsbildung durch Selbstorganisation: die coniurationes I. Einführung (1)§ Kontinuierlich wachsende Bedeutung von Recht fürStrukturbildungen politischer Herrschaft– Leges und Kapitularien als Instrumente zur Ausübungköniglicher Herrschaft– Hierarchisierte Amtsverfassung der Amtskirche alsOrdnungsprinzip von Herrschaft§ Verstärkung dieser Entwicklungen vor allem seit dem 12.Jahrhundert§ Zwei grundlegende Tendenzen- einerseitsRechtliche Strukturierung von Asymmetrien politischerHerrschaft durch Herrscherliche Normsetzung und Normanwendung mitBezug auf TerritorienRechtsgeschichte (Assessment) Seite 54 I. Einführung (2)- andererseitsVergemeinschaftungen von ..."
   },
   {
     "title": "(8) Entwicklungsstufen der Schweizerischen Eidgenossenschaft im Spätmittelalter",
@@ -1040,22 +1085,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(8) Entwicklungsstufen der Schweizerischen Eidgenossenschaft im Spätmittelalter.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(8) Entwicklungsstufen der Schweizerischen Eidgenossenschaft im Spätmittelalter.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(5) Rechtliche Strukturen im Mittelalter/(8) Entwicklungsstufen der Schweizerischen Eidgenossenschaft im Spätmittelalter.pdf",
     "notes": 23,
     "searchPages": 4,
     "attachments": 4,
     "keywords": [
-      "notes",
-      "assessment",
-      "herrschaft",
-      "seite",
-      "jahrhundert",
-      "lehen",
-      "lehnswesen",
-      "personale",
-      "undlehnsrecht",
-      "vasallen"
+      "eidgenossenschaft",
+      "epoche",
+      "keine",
+      "spätmittelalter",
+      "abkommen",
+      "beschworden",
+      "betrieben",
+      "bewegung",
+      "denken",
+      "echte"
     ],
-    "excerpt": "A00D5288-7840-49F2-9800-B02DB02DB6A2 search/A00D5288-7840-49F2-9800-B02DB02DB6A2U FEC4D108-E8A8-553B-95B1-A89863E3F9B8 search/FEC4D108-E8A8-553B-95B1-A89863E3F9B8 84088566-40E3-41E5-AB83-2979E7495ED4 search/84088566-40E3-41E5-AB83-2979E7495ED4 10CB8D39-496A-5593-AD99-17D15D10102E search/10CB8D39-496A-5593-AD99-17D15D10102E 280A5FFA-295E-52FD-B743-F42CDA27594B notes/280A5FFA-295E-52FD-B743-F42CDA27594BR E62AC1B2-E119-5068-B490-514089C3D50A notes/E62AC1B2-E119-5068-B490-514089C3D50AR F35CB38F-6187-5227-B666-63AE0CCF41B8 notes/F35CB38F-6187-5227-B666-63AE0CCF41B8R 2C625BE3-DE5D-5924-8064-AC2FF8004B2F notes/2C625BE3-DE5D-5924-8064-AC2FF8004B2FR F40797BA-DEC1-59BD-B6C6-F9CAE26E5F7A notes/F40797BA-DEC1-59BD-B6C6-F9CAE26E5F7AR 6C261360-0229-50CD-AE57-A6399CE15223 notes/6C261360-0229-50CD-AE57-A6399CE15223R 20CCAB72-A411-5C93-BD35-788E40F041F7 notes/20CCAB72-A411-5C93-BD35-788E40F041F7R 1484CE12"
+    "excerpt": "Entwicklungsstufen der Schweizerischen Eidgenossenschaft im Spätmittelalter In dieser Epoche, im Spätmittelalter, vor 1400, hat es noch keine Eidgenossenschaft wie wir heute zurückdenken würden, noch keine echte Einheit Diese Frieden wurden immer wieder neu beschworden: haben nicht ganz gewirkt: Ineffektivität Es gab Raubritter und professionelle Fehdeführung wurde betrieben, um für jemanden etwas zu erreichen, um Geld zu kriegen In dieser Epoche sind wir noch weit entfernt vom Friedensschluss Es ist immernoch ein sehr unstrukturiertes loses Geflecht von einer gewaltorientierten Welt Diese Abkommen sind wie Vorstufen von dem, was die alte Eidgenossenschaft so wurde, wie wir es meist geneigt sind zu denken Es gibt durch das Mittelalter hindurch unterschiedliche Verdichtungen in Bewegung auf die frühe Neuzeit hin Rechtswissenschaftliche FakultätRechtsgeschichteE. Rechtliche Strukturen in ..."
   },
   {
     "title": "(1) Übersicht",
@@ -1063,22 +1109,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(1) Übersicht.pdf",
     "notes": 16,
     "searchPages": 4,
     "attachments": 3,
     "keywords": [
-      "stadt",
-      "notes",
-      "assessment",
-      "entstehung",
-      "seite",
-      "siedlungen",
-      "freiheit",
       "haben",
-      "legal",
-      "städten"
+      "stadt",
+      "städte",
+      "antike",
+      "mittelalter",
+      "siedlungen",
+      "abfall",
+      "andere",
+      "bedeutung",
+      "blühende"
     ],
-    "excerpt": "533E4550-4DA8-5AA4-8622-F55DC961ABD2 search/533E4550-4DA8-5AA4-8622-F55DC961ABD2U 0E3A7AB4-672F-5EC0-AD14-B8223E8B8A9E search/0E3A7AB4-672F-5EC0-AD14-B8223E8B8A9E 020A8E31-84C2-55E2-9477-67372F6330B1 search/020A8E31-84C2-55E2-9477-67372F6330B1 382963BA-6012-553A-BE90-3C2D8058F515 search/382963BA-6012-553A-BE90-3C2D8058F515 notes/533E4550-4DA8-5AA4-8622-F55DC961ABD2R 612AB878-8317-5454-ABB1-1B706D3A1616 notes/612AB878-8317-5454-ABB1-1B706D3A1616R FF6C7AF1-8479-5E69-9C62-B460136F7157 notes/FF6C7AF1-8479-5E69-9C62-B460136F7157R 7BFAE7DD-2F00-577C-B4BA-CF5EA8407A6B notes/7BFAE7DD-2F00-577C-B4BA-CF5EA8407A6BR 9DEA8C1F-0C0A-5C86-BE19-BC095031FF99 notes/9DEA8C1F-0C0A-5C86-BE19-BC095031FF99R B8EF54F5-C081-5922-99FE-52A0793364F4 notes/B8EF54F5-C081-5922-99FE-52A0793364F4R C2707654-182D-55FE-B5A1-7EB42AC244FC notes/C2707654-182D-55FE-B5A1-7EB42AC244FCR E107D460-020F-5FDC-9800-E164550D0146 notes/E1"
+    "excerpt": "Burgum: Bürger, die um eine Burg herum gesiedelt haben REntstehung eines eigenen Rechtskreises in diesen Städten: Stadtrecht in der Stadt BWeitergabe von Recht von einer Stadt an die Andere: legal transfer Bedeutung der Städte für Entstehung des Wirtschaftsrechtes In der Antike haben sich grosse Städte exestiert: blühende hochentwickelte Kultur mit komplexen Strukturen Paar Hundert Jahre später: in ganz Nordeuropa gab es nur ganz klein strukturierte urbane Siedlungen, kleine Städte Was im Mittelalter eine Stadt war, war ein sehr kleiner Raum und sehr einfach strukturiert Insgesamt haben wir von der Antike bis ins frühe Mittelalter einen Abfall der Kulturtechniken (lesen, schreiben, Einige Siedlungen haben sich erhalten (Cologna, Köln): diese haben eine sehr lange Tradition Wichtig für uns: Erneut eine Entfaltungsgeschichte die etwa ab der Jahrtausendwende wirklich relevant wird: ..."
   },
   {
     "title": "(2) Tendenzen städtischer Siedlung",
@@ -1086,22 +1133,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(2) Tendenzen städtischer Siedlung.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(2) Tendenzen städtischer Siedlung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(2) Tendenzen städtischer Siedlung.pdf",
     "notes": 2,
     "searchPages": 3,
     "attachments": 1,
     "keywords": [
-      "stadt",
-      "assessment",
-      "seite",
-      "entstehung",
       "siedlungen",
-      "städten",
       "handel",
-      "städtischer",
-      "freiheit",
-      "legal"
+      "italien",
+      "städten",
+      "abbruch",
+      "antiken",
+      "aufenthaltsorte",
+      "besiedlung",
+      "bischöfe",
+      "bündnisnetz"
     ],
-    "excerpt": "F114CBD8-D804-5469-B298-BF1375D12BB2 search/F114CBD8-D804-5469-B298-BF1375D12BB2S 78A82AE0-1221-5EF8-A56B-A9CE84BDCA5F search/78A82AE0-1221-5EF8-A56B-A9CE84BDCA5FU 558C87B0-35C2-5E0D-AB55-E06DA8B2267E search/558C87B0-35C2-5E0D-AB55-E06DA8B2267E notes/F114CBD8-D804-5469-B298-BF1375D12BB2R notes/78A82AE0-1221-5EF8-A56B-A9CE84BDCA5F Dieses Geschehen, dass sich neue Siedlungen zu Städten verfestigen, nimmt 1100 ganz stark zu Im Mittelmeerraum (Italien) gab es nie einen Abbruch der Kontinuität zur antiken Welt erlebt hatte Auch in Italien neue Gründungen, auch wenn es dort schon viele Städte gab Um Burgen von Herrschern verdichten WIn dieser Epoche 12./13./14. Jh. haben wir eine grosse erstmalige Besiedlung Osteuropas MWelle von ganz gezielten Stadtgründungen durch Landesherrn/Bischöfe/Könige rRiesige Welle von Urbanisierungen kommt zur Verstärkung des Handelsgeschehens und zu neuen politisch"
+    "excerpt": "Dieses Geschehen, dass sich neue Siedlungen zu Städten verfestigen, nimmt 1100 ganz stark zu Im Mittelmeerraum (Italien) gab es nie einen Abbruch der Kontinuität zur antiken Welt erlebt hatte Auch in Italien neue Gründungen, auch wenn es dort schon viele Städte gab WIn dieser Epoche 12./13./14. Jh. haben wir eine grosse erstmalige Besiedlung Osteuropas MWelle von ganz gezielten Stadtgründungen durch Landesherrn/Bischöfe/Könige rRiesige Welle von Urbanisierungen kommt zur Verstärkung des Handelsgeschehens und zu neuen politischen Strukturen Hanse als Bündnisnetz um Handel zu treiben unter den Städten III. IV. Legal Transfer in sog. Stadtrechtsfamilien Entstehung von grösseren Siedlungen in der Zeit bis etwa Königlichen Pfalzen (reguläre Aufenthaltsorte des Königs) teilweise auch kaufmännische Siedlungen (Bspl. Haithabu, Verleihung des Rechts zum regelmässigen Handel Nicht zuletzt von ..."
   },
   {
     "title": "(3) Städtische Freiheit - Stadtrecht",
@@ -1109,22 +1157,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(3) Städtische Freiheit - Stadtrecht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(3) Städtische Freiheit - Stadtrecht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(3) Städtische Freiheit - Stadtrecht.pdf",
     "notes": 16,
     "searchPages": 6,
     "attachments": 3,
     "keywords": [
-      "stadt",
-      "notes",
-      "assessment",
       "freiheit",
-      "seite",
-      "entstehung",
-      "search",
-      "handel",
-      "selbst",
-      "siedlungen"
+      "stadt",
+      "freiheiten",
+      "ihnen",
+      "leisten",
+      "pflicht",
+      "verliehen",
+      "ansliedelnden",
+      "autonom",
+      "bedeutet"
     ],
-    "excerpt": "3754D8E9-5897-54B4-B55E-8A343D7752AE search/3754D8E9-5897-54B4-B55E-8A343D7752AES 053F26DB-33A6-5D1E-BA90-577E5B6F117C search/053F26DB-33A6-5D1E-BA90-577E5B6F117CS 3A0D4CD1-3FC4-5DF6-BDCE-0C0624BFF342 search/3A0D4CD1-3FC4-5DF6-BDCE-0C0624BFF342U F1100818-D8DA-575F-B821-F772C9DE2A47 search/F1100818-D8DA-575F-B821-F772C9DE2A47 2133094A-1C08-56DE-A2F2-B60F124FE397 search/2133094A-1C08-56DE-A2F2-B60F124FE397 682FAE96-973B-52AF-9FF5-BAD247E7C755 search/682FAE96-973B-52AF-9FF5-BAD247E7C755 33D4451B-840F-5676-B965-C96D64B95762 notes/33D4451B-840F-5676-B965-C96D64B95762R 5B26ED7D-A955-5CF7-81F5-B6EE121327B6 notes/5B26ED7D-A955-5CF7-81F5-B6EE121327B6R FADE5AA0-45AC-5C55-AD40-D76AD4FD2D94 notes/FADE5AA0-45AC-5C55-AD40-D76AD4FD2D94R notes/3754D8E9-5897-54B4-B55E-8A343D7752AER notes/053F26DB-33A6-5D1E-BA90-577E5B6F117CR notes/3A0D4CD1-3FC4-5DF6-BDCE-0C0624BFF342R F90D12E9-0412-55C5-B4AD-9ADD1716DA9D"
+    "excerpt": "Stadtbürger hatten sowohl Richten als auch Freiheiten im Gegensatz zur Landbevölkerung: Recht Handel zu treiben, Recht an Selbstbestimmung teilzuhaben, Pflicht Eid zu leisten: Pflicht, auf das Stadtrecht zu schwören: Geltung der stadtrechtlichen Regeln immer wieder zu erneuern Bürgerliche Freiheit bedeutet auch Pflichten zu erfüllen: man musste den Bürgereid leisten und die Stadt verteidigen Zuerst wird ihnen ein Raum gegeben, im nächsten Schritt wird ihnen die Befugnis eingeräumt, sich autonom Recht zu setzen: das ist der Kern der Städtischen Freiheit (als Freiheit der Stadt selbst) Das Recht einer neuen Stadt wurde vom Stadtherrn verliehen: er hat ein Privileg erteilt und den Leuten Freiheiten verliehen und über Generationen bildet sich eine Rechtstradition aus Oder auf der Grundlage einer coniuratio, die neu Ansliedelnden gaben sich Recht III. IV. Legal Transfer in sog. ..."
   },
   {
     "title": "(4) Legal Transfer in Stadtrechtsfamilien",
@@ -1132,22 +1181,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(4) Legal Transfer in Stadtrechtsfamilien.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(4) Legal Transfer in Stadtrechtsfamilien.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(4) Legal Transfer in Stadtrechtsfamilien.pdf",
     "notes": 16,
     "searchPages": 5,
     "attachments": 3,
     "keywords": [
-      "stadt",
-      "notes",
-      "assessment",
-      "seite",
-      "entstehung",
-      "search",
+      "geschriebene",
+      "grosse",
+      "mutterstadt",
       "siedlungen",
-      "städten",
-      "städtischer",
-      "freiheit"
+      "stadtrechte",
+      "allen",
+      "anzahl",
+      "aufenthaltsorte",
+      "ausdehnung",
+      "auskunft"
     ],
-    "excerpt": "AA5F5A25-2D06-5BFB-A3E0-4B3BF5B957A0 search/AA5F5A25-2D06-5BFB-A3E0-4B3BF5B957A0S 65908D2E-ECF0-5C97-99BC-C15F4926262C search/65908D2E-ECF0-5C97-99BC-C15F4926262CU AEC686F8-748D-5C96-8E60-02410DDEE486 search/AEC686F8-748D-5C96-8E60-02410DDEE486 926303BF-B27F-5599-80E2-56682B595B17 search/926303BF-B27F-5599-80E2-56682B595B17 5FA35B91-FFC6-5ED7-A530-BF5201FE9EFE search/5FA35B91-FFC6-5ED7-A530-BF5201FE9EFE EF7FCE0E-D45C-5BC3-B8A3-35A63EC903CA notes/EF7FCE0E-D45C-5BC3-B8A3-35A63EC903CAR 678D1E71-7E21-556D-B28C-9D4CC2B0AA81 notes/678D1E71-7E21-556D-B28C-9D4CC2B0AA81R 64CD09F3-FBB3-5D67-81BD-9F8F75951BB1 notes/64CD09F3-FBB3-5D67-81BD-9F8F75951BB1R 8E26F684-872B-5090-B0EC-8395E02E9C2D notes/8E26F684-872B-5090-B0EC-8395E02E9C2DR D03C5571-1EE7-5E57-B041-D688D3B3EFCA notes/D03C5571-1EE7-5E57-B041-D688D3B3EFCAR 0BC73828-39D0-518F-BA3E-783719A6F356 notes/0BC73828-39D0-518F-BA3E-783719A6F356R notes/A"
+    "excerpt": "Einige Stadtechte erreichen ganz grosse Dominanz, weil sie gültig werden für eine ganz grosse Anzahl von Städten Die Mutterstadt hatte aber keine Gerichtsgewalt, also sie durfte nicht durchentscheiden! (nicht wie Bundesgericht heute) Jedes Jahr wurden Stadtrechte vorgesprochen und von allen Bürgern beschworen, bevor es geschriebene Stadtrechte gibt Zuerst hat man Traditionen/Rechtsgewohnheiten (1), dann hat man geschriebene Texte (2) Zugleich hat man die riesige Expansionsbewegung/Ausdehnung des Städtegründungsphänomens: das Stadtrecht wurde dann oft weitergegeben iBei Problemen/Fragen gehen sie zur Mutterstadt für Auskunft wie etwas zu regeln ist: Wissensverflechtung III. IV. Legal Transfer in sog. Stadtrechtsfamilien Entstehung von grösseren Siedlungen in der Zeit bis etwa Königlichen Pfalzen (reguläre Aufenthaltsorte des Königs) teilweise auch kaufmännische Siedlungen (Bspl. ..."
   },
   {
     "title": "(5) Wirtschafts- und Zunftverfassung",
@@ -1155,22 +1205,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(5) Wirtschafts- und Zunftverfassung.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(5) Wirtschafts- und Zunftverfassung.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(6) Stadt - Wirtschaftsrecht im Mittelalter/(5) Wirtschafts- und Zunftverfassung.pdf",
     "notes": 16,
     "searchPages": 12,
     "attachments": 3,
     "keywords": [
-      "stadt",
-      "notes",
-      "search",
-      "assessment",
       "entstehung",
-      "freiheit",
-      "seite",
-      "städten",
+      "siedlungen",
       "handel",
-      "selbst"
+      "stadt",
+      "aufenthaltsorte",
+      "aufstieg",
+      "ausweitung",
+      "beginnender",
+      "bereits",
+      "burgen"
     ],
-    "excerpt": "3DDD1F04-ACDF-57B3-A1AB-B04F2BAB021C search/3DDD1F04-ACDF-57B3-A1AB-B04F2BAB021CS BB92C0D7-C00B-5C89-BBFA-B35802379FAA search/BB92C0D7-C00B-5C89-BBFA-B35802379FAAS 9B56A539-9BE3-58E6-B5B0-F0C64DCDB592 search/9B56A539-9BE3-58E6-B5B0-F0C64DCDB592S DDC42DA3-CD9E-514B-BC02-F467B9753E62 search/DDC42DA3-CD9E-514B-BC02-F467B9753E62S 7BD6A37A-9ECD-536C-AD45-EC1FA078BB36 search/7BD6A37A-9ECD-536C-AD45-EC1FA078BB36S A2F68AA3-EBC6-5D1C-9D02-15600E24B61B search/A2F68AA3-EBC6-5D1C-9D02-15600E24B61BS 1ACBDDFE-FF79-52D6-87ED-5D379F28305D search/1ACBDDFE-FF79-52D6-87ED-5D379F28305DS D957B354-05DE-57D5-A1F6-2EAD38C2510E search/D957B354-05DE-57D5-A1F6-2EAD38C2510ES 68C8D508-59CD-509F-9D83-7FC137EC0504 search/68C8D508-59CD-509F-9D83-7FC137EC0504U D1A8AC87-DBC6-5A10-ADFD-77F1A5B55637 search/D1A8AC87-DBC6-5A10-ADFD-77F1A5B55637 8B6F1BDF-FB34-5E09-9267-EDB302AFEBFA search/8B6F1BDF-FB34-5E09-9267-EDB302AFEBFA "
+    "excerpt": "Die Stadt wird nun zu einem Treiber der Welt und wird zu einem Zentrum für Handel Wie strukturierten sich die Händler in der Stadt verfassungsrechtlich? Schweureinung III. IV. Legal Transfer in sog. Stadtrechtsfamilien Entstehung von grösseren Siedlungen in der Zeit bis etwa Königlichen Pfalzen (reguläre Aufenthaltsorte des Königs) teilweise auch kaufmännische Siedlungen (Bspl. Haithabu, Verleihung des Rechts zum regelmässigen Handel Nicht zuletzt von hier aus Entstehung verschiedener Seit etwa 1100 rapide Zunahme städtischer Siedlungen Welle gezielter Stadtgründungen durch Landesherren und Ausweitung von Siedlungen um Burgen des Herrschers und Zielsetzung von Gründungsstädten (s. bereits oben) Stadtgründung als Investition und Infrastrukturmassnahme Entstehung urbanisierter Regionen in Europa bis zum Ende des Entstehung von Handelsorganisationen wie der Hanse Beginnender Aufstieg des ..."
   },
   {
     "title": "(1) Übersicht",
@@ -1178,22 +1229,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(1) Übersicht.pdf",
     "notes": 13,
     "searchPages": 3,
     "attachments": 6,
     "keywords": [
-      "notes",
-      "universitären",
-      "assessment",
-      "seite",
-      "universitäten",
-      "weltlichen",
-      "auseinandersetzung",
-      "beschäftigung",
-      "jenseits",
-      "weltlichenr"
+      "mittelalter",
+      "relevant",
+      "schon",
+      "verschriftlichung",
+      "anlassbezogen",
+      "aufgrund",
+      "beruht",
+      "bisher",
+      "danach",
+      "eidgenossenschaft"
     ],
-    "excerpt": "657151E7-79C1-5C83-8472-8A6400678504 search/657151E7-79C1-5C83-8472-8A6400678504U A590E862-5C82-5804-8821-D5B66FE61CEF search/A590E862-5C82-5804-8821-D5B66FE61CEF 2F7F9628-40FC-54EB-947E-FF62F83C3B41 search/2F7F9628-40FC-54EB-947E-FF62F83C3B41 notes/657151E7-79C1-5C83-8472-8A6400678504R 3E44E9FB-7104-511B-84E2-98286BF53632 notes/3E44E9FB-7104-511B-84E2-98286BF53632R 26950932-812A-574F-9802-19D55417C154 notes/26950932-812A-574F-9802-19D55417C154R 122A5C69-2EE0-5FEB-93D4-362E4E1DE7CE notes/122A5C69-2EE0-5FEB-93D4-362E4E1DE7CER CA6D00BE-B1A9-5925-A9A3-66D032F1F606 notes/CA6D00BE-B1A9-5925-A9A3-66D032F1F606R 8F5007FF-1393-5D20-B5F1-8E4947E3F1DA notes/8F5007FF-1393-5D20-B5F1-8E4947E3F1DAR 022BEC9B-9AB4-568D-B524-A8C103E6C448 notes/022BEC9B-9AB4-568D-B524-A8C103E6C448R 875DBE34-8F7F-5E03-B9AE-B9AF89DCA021 notes/875DBE34-8F7F-5E03-B9AE-B9AF89DCA021R 33B34DD2-27A1-52D4-B865-6CBF21096C32 notes/33"
+    "excerpt": "Das ist die letzte Einheit, die noch so halb am Mittelalter hängt, danach gehts in die Neuzeit Mittelalter bis hierher: eine Rechtswelt, die nicht zentral auf Verschriftlichung beruht In der Stadt wird Verschriftlichung schon relevant (das sind die nach vorne zeigenden Motive!) Bisher Rechtstraditionen ohne Schrift: Lehensrecht, Grundherrschaften, Offnungen wo geschrieben steht, wer wann was zu leisten hat dem Grundherrn Wir hatten auch schon schriftliche Zeugnisse, aber der Grundmotor des Rechtes war die gesprochene Sprache und Zeugen Es hat Konsequenzen, wenn eine Kultur sehr lange zur anlassbezogen und meistens auf mündlicher Konfliktlösung lebt Dieser Unterschied war sehr relevant für die Eidgenossenschaft, da sie sich noch stark gewehrt hat gegen die Wissenschaftlichkeit von Recht Gegensatz: Praxisorientiertes momentanes Schlichten ohne Theoretisierung vs. Regelbildung aufgrund von ..."
   },
   {
     "title": "(2) Vorstufen wissenschaftlicher Auseinandersetzung mit Rechtstexten",
@@ -1201,22 +1253,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(2) Vorstufen wissenschaftlicher Auseinandersetzung mit Rechtstexten.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(2) Vorstufen wissenschaftlicher Auseinandersetzung mit Rechtstexten.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(2) Vorstufen wissenschaftlicher Auseinandersetzung mit Rechtstexten.pdf",
     "notes": 13,
     "searchPages": 3,
     "attachments": 6,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
+      "aufstieg",
       "universitäten",
-      "randbemerkung",
-      "anmerkung",
-      "auseinandersetzung",
       "beschäftigung",
-      "jenseits",
-      "sammlung"
+      "erfolg",
+      "normtexten",
+      "abschrift",
+      "analytische",
+      "ausbildung",
+      "auseinandersetzung",
+      "begründer"
     ],
-    "excerpt": "A9CC36B5-2FC6-5EF3-AC9B-2B009A3D2950 search/A9CC36B5-2FC6-5EF3-AC9B-2B009A3D2950U E0A94785-2598-551C-AAA0-98FEA8CD76B3 search/E0A94785-2598-551C-AAA0-98FEA8CD76B3 576366DF-0FB5-556F-A538-721C26201AF0 search/576366DF-0FB5-556F-A538-721C26201AF0 4158B122-65A5-5FC3-8139-3C1E7511A1F0 notes/4158B122-65A5-5FC3-8139-3C1E7511A1F0R notes/A9CC36B5-2FC6-5EF3-AC9B-2B009A3D2950R 1B8E690E-9F84-5C9B-9747-F778FAF2F8CC notes/1B8E690E-9F84-5C9B-9747-F778FAF2F8CCR 59B13127-65E5-5006-B47A-A96075AF09D7 notes/59B13127-65E5-5006-B47A-A96075AF09D7R 5B159DDC-F681-5E89-9E03-9A445B31F13E notes/5B159DDC-F681-5E89-9E03-9A445B31F13ER 0917C729-912C-5267-9CDE-C7A3D4A67536 notes/0917C729-912C-5267-9CDE-C7A3D4A67536R 26D725D0-2751-575C-A0E5-5E48719ABB21 notes/26D725D0-2751-575C-A0E5-5E48719ABB21R CF98CBAA-EF71-5D59-9600-851C5A702B2B notes/CF98CBAA-EF71-5D59-9600-851C5A702B2BR EC1F939C-2585-508C-9FCD-F413B03F9042 notes/EC"
+    "excerpt": "I. II. IV. Vorstufen wissenschaftlicher Auseinandersetzung mit Rechtstexten Aufstieg der Universitäten und Erfolg der Scholastik Neuordnungen von Recht jenseits der Universitäten Institutioneller Rahmen für Ausbildung und Beschäftigung mit Normtexten v. a. seit Karolingerzeit: Kloster und damit Klerus Behandlung von Normtexten seit dieser Zeit bis etwa 11./12 Schwerpunkt liegt eher beim kirchlichen Recht, etwa verschiedenen Versionen in ganz Europa verbreitet Sammlungen des Bischofs Ivo von Chartres ( II. Aufstieg der Universitäten und Erfolg der Analytische Beschäftigung mit theologischen und normativen Texten nimmt etwa seit der Epoche des Investiturstreits an Kontinuität römischrechtlicher Texte und dann seit etwa 11./12. Jh. Verbreitung der sog. Littera Florentina (Abschrift der Digesten) von Süditalien her in Bologna nach 1116 (Irnerius als Begründer der Aufstieg von Hohen Schulen ..."
   },
   {
     "title": "(3) Aufstieg der Universitäten - Erfolg der Scholastik",
@@ -1224,22 +1277,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(3) Aufstieg der Universitäten - Erfolg der Scholastik.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(3) Aufstieg der Universitäten - Erfolg der Scholastik.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(3) Aufstieg der Universitäten - Erfolg der Scholastik.pdf",
     "notes": 13,
     "searchPages": 7,
     "attachments": 6,
     "keywords": [
-      "notes",
-      "universitäten",
-      "assessment",
-      "seite",
-      "search",
-      "studierenden",
-      "auseinandersetzung",
-      "magistri",
-      "rechtstexten",
-      "texten"
+      "analytisch",
+      "denken",
+      "heute",
+      "texten",
+      "antiken",
+      "aquin",
+      "aristoteles",
+      "ausgangspunkt",
+      "ausgleichen",
+      "beginnt"
     ],
-    "excerpt": "A77A8B47-686A-5534-AA78-BE1E72AA2A00 search/A77A8B47-686A-5534-AA78-BE1E72AA2A00S 528EF42C-DC1F-537A-9E63-220A2021CBA9 search/528EF42C-DC1F-537A-9E63-220A2021CBA9S EA6212BB-3ACE-544D-B757-0CF66CA2BFEA search/EA6212BB-3ACE-544D-B757-0CF66CA2BFEAS 318D0EE8-A2C3-51FD-97C3-5371B8A3765B search/318D0EE8-A2C3-51FD-97C3-5371B8A3765BS BA83B7C8-1710-50A8-A3EB-2F4D0C546D4F search/BA83B7C8-1710-50A8-A3EB-2F4D0C546D4FU F6017C40-EC9F-590C-A951-5D864F3B129D search/F6017C40-EC9F-590C-A951-5D864F3B129D E17A47D5-FE5C-5676-A987-805D795A30FB search/E17A47D5-FE5C-5676-A987-805D795A30FB 09F9CCB6-A23D-5879-8CC2-BA6E901916CF notes/09F9CCB6-A23D-5879-8CC2-BA6E901916CFR 5C7390BF-2AD7-5CED-B6B1-C132CF80A794 notes/5C7390BF-2AD7-5CED-B6B1-C132CF80A794R notes/A77A8B47-686A-5534-AA78-BE1E72AA2A00R notes/528EF42C-DC1F-537A-9E63-220A2021CBA9R notes/EA6212BB-3ACE-544D-B757-0CF66CA2BFEAR 0DDC64C8-AC36-5955-915E-AD7515C37D"
+    "excerpt": "Hostiensis: wie man unterrichten muss Dieses Denken geht von einzelnen Texten aus Zuerst lesen, dann den Sinn erfassen, den Text in eine Relation setzen und beschreiben Heute würde man so streng scholastisch nicht vorgeben Heute haben wir viel Zusatzwissen und sind nicht zu texthörig Ein Beispiel wie gedacht wird wie man mit Texten umgeht Die Universtitäten sind der Ausgangspunkt, dass man sich neuartig mit Recht beschäftigt: Mit Rechtstexten analytisch umgehen schulisch, analytisch, kleinkarriert, ultra genau Eine Welt, wo alle christlich unterwegs sind In jedem Text wird eine sinnhafte Vernunft vermutet: Die Widersprüche im Offenbarungstext ausgleichen durch “korrigieren” Thomas von Aquin war der grosse katholische Theologe und beginnt erstmals das Denken der christlichen Theologie zu verbinden mit der antiken Philosophie des Aristoteles: Das ist ein zentraler Wendepunkt für die ..."
   },
   {
     "title": "(4) Das gelehrte Recht",
@@ -1247,22 +1301,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(4) Das gelehrte Recht.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(4) Das gelehrte Recht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(4) Das gelehrte Recht.pdf",
     "notes": 13,
     "searchPages": 6,
     "attachments": 6,
     "keywords": [
-      "notes",
-      "assessment",
-      "universitäten",
       "digesten",
-      "seite",
-      "universitätsgemeinschaft",
-      "autorität",
-      "search",
-      "gelehrte",
-      "gelehrten"
+      "kirchenrechtler",
+      "konzilien",
+      "antikrömischen",
+      "beschlüsse",
+      "bezugstext",
+      "breiten",
+      "caonones",
+      "dekretale",
+      "einnahmen"
     ],
-    "excerpt": "46B05AED-5601-589E-AB6A-44540B81091C search/46B05AED-5601-589E-AB6A-44540B81091CS 8020FF7F-AC17-5667-983F-DAB704E1CA49 search/8020FF7F-AC17-5667-983F-DAB704E1CA49S 5773019F-6DD5-52B5-867E-3A4F5AB2FAE7 search/5773019F-6DD5-52B5-867E-3A4F5AB2FAE7S B0B1B6AB-2BD3-5C5E-A2F4-6DFB91B27A30 search/B0B1B6AB-2BD3-5C5E-A2F4-6DFB91B27A30U 8A6B2FCC-3DA6-5B49-9917-292F62D1D747 search/8A6B2FCC-3DA6-5B49-9917-292F62D1D747 F89B711E-C6F7-5084-B366-BFE615522F2D search/F89B711E-C6F7-5084-B366-BFE615522F2D C97080CA-90E5-5BC3-9995-EC6ECFAB6CC0 notes/C97080CA-90E5-5BC3-9995-EC6ECFAB6CC0R 00637012-85ED-53CF-B325-9C490D32FEEE notes/00637012-85ED-53CF-B325-9C490D32FEEER 06570677-6712-5A9F-9FFD-5A7A5A69FCA2 notes/06570677-6712-5A9F-9FFD-5A7A5A69FCA2R 724F7FD6-4BAC-5F8A-8FF5-C4381683ED8C notes/724F7FD6-4BAC-5F8A-8FF5-C4381683ED8CR A6ADBC2E-FA72-5E77-AA94-B80DD5E0AC5D notes/A6ADBC2E-FA72-5E77-AA94-B80DD5E0AC5DR notes"
+    "excerpt": "Gegenstand dieser Rechtslehre an den Universitäten war die Grundsubstanz der antikrömischen Rechtsüberlieferung (in den Digesten) Alle diese junge Rechtswissenschaft kreiste um den Bezugstext der Digesten Es gab auch schon kirchliches Recht und es gab Kirchenrechtler (Kanonisten) Die Kirchenrechtler waren nicht nur auf Digesten fokussiert, sondern als Offenbarungsquelle die Konzilien/Caonones Die päpstlichen Dekretale und Beschlüsse von Konzilien Indem Scolaren (Studenten) zu Unis zogen und lernten wie das gelernte Recht funktioniert und dann zurückgingen und als Gelehrte Juristen eine herausgehobene Stelle einnahmen Die Inhalte der Unis wruden auch so verbreitet (nicht übernommen, aber Gedankengänge verbreiteten sich) Verbreitung in Städten, aber auch für Landesherrn wurde gearbeitet: Römischrechtliche Normen tauchen auf in der Rechtspraxis und Normtexten Unis breiten sich immer mehr ..."
   },
   {
     "title": "(5) Neuordnungen von Recht jenseits der Universitäten",
@@ -1270,22 +1325,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(5) Neuordnungen von Recht jenseits der Universitäten.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(5) Neuordnungen von Recht jenseits der Universitäten.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(7) Entstehung von Rechtswissenschaft gegen Ende Mittelalter/(5) Neuordnungen von Recht jenseits der Universitäten.pdf",
     "notes": 13,
     "searchPages": 4,
     "attachments": 6,
     "keywords": [
-      "notes",
-      "assessment",
-      "seite",
-      "universitäten",
-      "jenseits",
-      "auseinandersetzung",
-      "beschäftigung",
-      "ccbeb",
-      "damit",
-      "search"
+      "erstmals",
+      "haben",
+      "verstehen",
+      "alles",
+      "anspruch",
+      "aufgezeichnet",
+      "begreifen",
+      "bisher",
+      "darüber",
+      "drehte"
     ],
-    "excerpt": "EDE1D18C-3F87-5098-A99E-801028A74825 search/EDE1D18C-3F87-5098-A99E-801028A74825S C68E2274-B229-52D9-A6D6-3D7CCBEB6C1E search/C68E2274-B229-52D9-A6D6-3D7CCBEB6C1EU 5BDCE217-540B-5C8E-BC3B-B492D015EE9B search/5BDCE217-540B-5C8E-BC3B-B492D015EE9B A8150F3E-3ABC-520E-A552-F95B03929B52 search/A8150F3E-3ABC-520E-A552-F95B03929B52 45842C22-B8F0-5000-A00E-E19868B30EF1 notes/45842C22-B8F0-5000-A00E-E19868B30EF1R 18E52BEF-2AC6-5B6F-AA71-E2B8A5D9228A notes/18E52BEF-2AC6-5B6F-AA71-E2B8A5D9228AR EF1EFA79-144F-5B40-A68A-2364D63A2AD1 notes/EF1EFA79-144F-5B40-A68A-2364D63A2AD1R 3C5B7F08-8E9F-51A3-8F76-971133B3843C notes/3C5B7F08-8E9F-51A3-8F76-971133B3843CR 39585969-DE37-59F5-8E95-B799D6ECAFEC notes/39585969-DE37-59F5-8E95-B799D6ECAFECR E0D20D1A-3FDB-58D6-A233-22B806D2F7E8 notes/E0D20D1A-3FDB-58D6-A233-22B806D2F7E8R 2D201A07-476B-5C66-9CAA-8F73E212898F notes/2D201A07-476B-5C66-9CAA-8F73E212898FR AADFBA0"
+    "excerpt": "Die Hinwendung zur Ergründung des Rechts / Hinterfragung des Rechtes mit neuem Anspruch (was in der Uni gemacht wird, aber nicht in der Praxis) Bisher drehte sich alles um das römische/kanonische Recht, was an den Unis das Thema war, aber jetzt jenseits der Unis erkennt man auch dass Menschen über das Recht nachgedacht haben und darüber geschrieben haben: Spiegelung des neuen Interesses an Recht (getriggert durch Entstehung der Unis) Häufig werden erstmals verschiedene lokale Gewohnheiten aufgezeichnet (Offnungen wruden erstmals dann richtig fixiert/fokussiert/verschriftlicht) Auch as Herangehen an das Recht / Hinterfragen / Verstehen / in Kontext setzten wollen führt zu verschriftlichung des Gewohnheitsrechtes Wichtigster grosser Referenztext des wirklichen Rechts des Lebens zu verstehen/begreifen: Sachsenspiegel Erstmals in dieser Epoche hat ein Mensch sich hingesetzt und das Recht, ..."
   },
   {
     "title": "(1) Übersicht",
@@ -1293,22 +1349,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(8) Humanismus - Usus Modernus/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(1) Übersicht.pdf",
     "notes": 9,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "römischen",
-      "notes",
-      "assessment",
-      "seite",
+      "humanismus",
+      "menschlichen",
+      "moderne",
       "modernus",
-      "pandectarum",
-      "entstehung",
-      "erinnere",
-      "gallicus",
-      "humanismus"
+      "neuer",
+      "umgang",
+      "antike",
+      "antiken",
+      "antiker",
+      "aufstieg"
     ],
-    "excerpt": "D24EE1C1-84AF-5931-B700-7C37F171517C search/D24EE1C1-84AF-5931-B700-7C37F171517CU E396BD9D-49DF-5331-99ED-4FFD914D361C search/E396BD9D-49DF-5331-99ED-4FFD914D361C notes/D24EE1C1-84AF-5931-B700-7C37F171517CR B27C0455-4EFB-5D58-AC4E-1F047B2FCC59 notes/B27C0455-4EFB-5D58-AC4E-1F047B2FCC59R 64D8ADB5-2EBA-50A3-A8AC-D150184DF103 notes/64D8ADB5-2EBA-50A3-A8AC-D150184DF103R 2A42ACFA-BFB5-529E-818C-B039DCA172B8 notes/2A42ACFA-BFB5-529E-818C-B039DCA172B8R 0AFA2A55-FF83-5DED-9FC3-274C1F35E091 notes/0AFA2A55-FF83-5DED-9FC3-274C1F35E091R 1E247F56-6D5A-5395-AA76-084579B96880 notes/1E247F56-6D5A-5395-AA76-084579B96880R 6A33FD95-150E-551D-9F47-419BFB471A85 notes/6A33FD95-150E-551D-9F47-419BFB471A85R 311B62BD-F395-57D4-8A89-FBB905908881 notes/311B62BD-F395-57D4-8A89-FBB905908881R 62603C91-E12D-5365-8DB3-EFF21B5F2B75 notes/62603C91-E12D-5365-8DB3-EFF21B5F2B75 Mittelalterliche Idee, eine Ordnung entstehen "
+    "excerpt": "Mittelalterliche Idee, eine Ordnung entstehen zu lassen Umgang mit Bezugstext verändert sich IRenaissance als grosse Bewegung der Wiedergeburt des menschlichen Denkens als Beispiel: Nation, die globalisieretn Handel durch AGs hat Moderne Verwendung der Pandecten (Digesten, Textsammlungen) neuer Gebrauch über Jus nachzudenken neuer Umgang mit antiken Texten: stärkere Distanz Der Usus Modernus ist die moderne Art mit den Pandekten umzugehen (frühneuzeitliche Epoche) Rechtswissenschaftliche FakultätRechtsgeschichteH. Humanismus und Usus ModernusI. Renaissance und HumanismusII. Der mos gallicusIII. Die niederländische RechtswissenschaftIV. Usus modernus pandectarum Etwa seit der Mitte des 15. Jahrhunderts entsteht der Humanismus– Wiederentdeckung der Antike und antiker Schriften– Aufstieg der Philologie– Neuentdeckung des menschlichen Individuums– Die Welt bleibt göttlich geordnetes ..."
   },
   {
     "title": "(2) Zeitstrahl",
@@ -1316,22 +1373,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(8) Humanismus - Usus Modernus/(2) Zeitstrahl.goodnotes",
     "category": "Zeitstrahl",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(2) Zeitstrahl.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(2) Zeitstrahl.pdf",
     "notes": 10,
     "searchPages": 3,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "römischen",
-      "assessment",
-      "seite",
-      "gallicus",
-      "modernus",
-      "pandectarum",
-      "autorität",
-      "entstehung",
-      "erinnere"
+      "humanismus",
+      "renaissance",
+      "neuen",
+      "weltbildes",
+      "antike",
+      "antiker",
+      "anwendung",
+      "aufnahme",
+      "aufreichsebene",
+      "aufstieg"
     ],
-    "excerpt": "1E7A035C-8701-4CC1-AD2B-627E7609B150 search/1E7A035C-8701-4CC1-AD2B-627E7609B150U 091D8709-16BA-5842-96B1-C2C32ABAD172 search/091D8709-16BA-5842-96B1-C2C32ABAD172 0AA4CB25-8C16-48DA-8021-A565C59CB019 search/0AA4CB25-8C16-48DA-8021-A565C59CB019 C786AD0B-330F-58D1-A584-DD76DA02B1C2 notes/C786AD0B-330F-58D1-A584-DD76DA02B1C2R 4FE6A597-71A9-51EB-A57A-22F695D0E16D notes/4FE6A597-71A9-51EB-A57A-22F695D0E16DR 16F4FCCD-2CED-5290-B007-177C2A65E91C notes/16F4FCCD-2CED-5290-B007-177C2A65E91CR 46E430D3-64FC-57D9-9E48-C7BDAE0C1133 notes/46E430D3-64FC-57D9-9E48-C7BDAE0C1133R 7D9C45A9-2675-541D-8C4B-C5CFE3824576 notes/7D9C45A9-2675-541D-8C4B-C5CFE3824576R 67C7BDD4-AC07-533D-BAE8-EC9D84F06E3B notes/67C7BDD4-AC07-533D-BAE8-EC9D84F06E3BR 92E2F515-2512-5E87-A5D6-474F89A54E67 notes/92E2F515-2512-5E87-A5D6-474F89A54E67R BDBD800B-5E5E-5180-BD10-474785D2E616 notes/BDBD800B-5E5E-5180-BD10-474785D2E616R F4347725"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteH. Humanismus und Usus ModernusI. Renaissance und HumanismusII. Der mos gallicusIII. Die niederländische RechtswissenschaftIV. Usus modernus pandectarum Etwa seit der Mitte des 15. Jahrhunderts entsteht der Humanismus– Wiederentdeckung der Antike und antiker Schriften– Aufstieg der Philologie– Neuentdeckung des menschlichen Individuums– Die Welt bleibt göttlich geordnetes Gefüges– Eröffnung eines neuen Weltbildes durch Ausgangspunkt dieser Entwicklung ist die Renaissance in Italien.Rechtsgeschichte (Assessment) Seite 97 I. Renaissance und Humanismus (2)§ Konsequenzen für Recht und Rechtswissen§ Zwar wird 1495 die Anwendung des römischen Rechts sogar aufReichsebene gesetzgeberisch festgesetzt:§ 3 RKGO- und römische Rechtstradition findet besondere Aufnahme in Reichsgerichtsbarkeit§ Aber die Ausformung neuen Weltbildes führt zunehmend ..."
   },
   {
     "title": "(3) Renaissance - Humanismus",
@@ -1339,22 +1397,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(8) Humanismus - Usus Modernus/(3) Renaissance - Humanismus.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(3) Renaissance - Humanismus.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(3) Renaissance - Humanismus.pdf",
     "notes": 12,
     "searchPages": 8,
     "attachments": 4,
     "keywords": [
-      "römischen",
-      "notes",
-      "humanismus",
-      "renaissance",
-      "assessment",
-      "menschen",
-      "neuen",
-      "search",
-      "seite",
-      "modernus"
+      "festgeschrieben",
+      "rechtstradition",
+      "allem",
+      "allgemeine",
+      "anders",
+      "anpassen",
+      "apellationen",
+      "aufbrechen",
+      "autorität",
+      "beachtet"
     ],
-    "excerpt": "08D38020-1F48-58EC-B648-91EBC2C83B6E search/08D38020-1F48-58EC-B648-91EBC2C83B6ES 527B7205-FFA4-56A6-A140-F88AF93DFC85 search/527B7205-FFA4-56A6-A140-F88AF93DFC85S 5B6F4D2D-95B3-4BAE-88F1-CC883F92B5D2 search/5B6F4D2D-95B3-4BAE-88F1-CC883F92B5D2S 38305B53-BD55-4534-B6BC-EC28BED69E9A search/38305B53-BD55-4534-B6BC-EC28BED69E9AS 8C68A766-1A37-4E8C-B5BB-0B921500940D search/8C68A766-1A37-4E8C-B5BB-0B921500940DU D8B5E95C-6761-45EF-AEC2-E63D0679A8B6 search/D8B5E95C-6761-45EF-AEC2-E63D0679A8B6 AF315B08-CF72-4FB7-879C-7339C9005D62 search/AF315B08-CF72-4FB7-879C-7339C9005D62 E85FB710-2C39-52E7-9D40-F5B5673BCD09 search/E85FB710-2C39-52E7-9D40-F5B5673BCD09 7176DB1B-5B21-5D41-B385-02F841E704A0 notes/7176DB1B-5B21-5D41-B385-02F841E704A0R notes/08D38020-1F48-58EC-B648-91EBC2C83B6ER notes/527B7205-FFA4-56A6-A140-F88AF93DFC85R C6075791-37E5-5427-B97F-EB228889E07A notes/C6075791-37E5-5427-B97F-EB228889E07"
+    "excerpt": "Konsequenz für das Denken über Recht Römisches Recht wird auf Reichsebene (unter Kaiser) festgeschrieben Ein neues Reichskammergericht wird eingerichtet: Apellationen konnten dahin gezogen werden Diese Richter sollen den Eid leisten auf die Ordnungen/Statuten und vor allem nach des Reichs gemeinen Recht fällen (ius commune) Das römische Recht soll also von den Richtern beachtet werden Umbruchsphase: mit Autorität anders umgehen Auf der Ebene des Reiches sind nun erstmals in einem richtigen Gesetz (Reichsgesetz) festgeschrieben, dass die Rechtstradition das tatsächliche Recht sei Gemaines Recht ist das Allgemeine Recht wurde an den europäischen Universitäten gelehrt Aufbrechen des normalen Weltbildes spielt auch eine Rolle für die Rechtstradition Das, was man im römischen Recht hat, möchte man an die Wirklichkeit anpassen Nicht die Ordnung kaputt machen wollen, aber man hat eine neue ..."
   },
   {
     "title": "(4) mos gallicus",
@@ -1362,22 +1421,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(8) Humanismus - Usus Modernus/(4) mos gallicus.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(4) mos gallicus.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(4) mos gallicus.pdf",
     "notes": 11,
     "searchPages": 6,
     "attachments": 3,
     "keywords": [
-      "römischen",
-      "notes",
-      "gallicus",
-      "assessment",
-      "seite",
-      "search",
-      "entstehung",
-      "modernus",
-      "pandectarum",
-      "ebfcd"
+      "humanismus",
+      "renaissance",
+      "neuen",
+      "weltbildes",
+      "antike",
+      "antiker",
+      "anwendung",
+      "aufnahme",
+      "aufreichsebene",
+      "aufstieg"
     ],
-    "excerpt": "4BC5ED9B-2F8E-5D04-83B9-3B46549D7662 search/4BC5ED9B-2F8E-5D04-83B9-3B46549D7662S 5E45AEF9-2087-4CD1-9B1E-EBFCD27A012F search/5E45AEF9-2087-4CD1-9B1E-EBFCD27A012FS 6BA52C74-767E-41C1-A48D-DFC760867C7B search/6BA52C74-767E-41C1-A48D-DFC760867C7BU 8CDB3265-508A-4980-825F-06F052319533 search/8CDB3265-508A-4980-825F-06F052319533 5C834CB1-95CC-4F29-9F91-7A79F62B48DC search/5C834CB1-95CC-4F29-9F91-7A79F62B48DC A831C22C-2B29-5E34-A56A-2309B4CFB135 search/A831C22C-2B29-5E34-A56A-2309B4CFB135 ED3C6478-AAD2-5B23-A63A-ED543105DC76 notes/ED3C6478-AAD2-5B23-A63A-ED543105DC76R 3371EF3A-5F7F-5EF9-978F-F1FC9CE25974 notes/3371EF3A-5F7F-5EF9-978F-F1FC9CE25974R FF0E9423-3D81-58D4-BD09-019FD2EA7F05 notes/FF0E9423-3D81-58D4-BD09-019FD2EA7F05R notes/4BC5ED9B-2F8E-5D04-83B9-3B46549D7662R 05135670-1DF1-5282-A18B-DBB90FAEB35D notes/05135670-1DF1-5282-A18B-DBB90FAEB35DR 39E94566-091C-5DCF-B741-5395A95FC1A4 notes/"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteH. Humanismus und Usus ModernusI. Renaissance und HumanismusII. Der mos gallicusIII. Die niederländische RechtswissenschaftIV. Usus modernus pandectarum Etwa seit der Mitte des 15. Jahrhunderts entsteht der Humanismus– Wiederentdeckung der Antike und antiker Schriften– Aufstieg der Philologie– Neuentdeckung des menschlichen Individuums– Die Welt bleibt göttlich geordnetes Gefüges– Eröffnung eines neuen Weltbildes durch Ausgangspunkt dieser Entwicklung ist die Renaissance in Italien.Rechtsgeschichte (Assessment) Seite 97 I. Renaissance und Humanismus (2)§ Konsequenzen für Recht und Rechtswissen§ Zwar wird 1495 die Anwendung des römischen Rechts sogar aufReichsebene gesetzgeberisch festgesetzt:§ 3 RKGO- und römische Rechtstradition findet besondere Aufnahme in Reichsgerichtsbarkeit§ Aber die Ausformung neuen Weltbildes führt zunehmend ..."
   },
   {
     "title": "(5) Niederländische Rechtswissenschaft",
@@ -1385,22 +1445,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(8) Humanismus - Usus Modernus/(5) Niederländische Rechtswissenschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(5) Niederländische Rechtswissenschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(5) Niederländische Rechtswissenschaft.pdf",
     "notes": 11,
     "searchPages": 6,
     "attachments": 3,
     "keywords": [
-      "römischen",
-      "niederlande",
-      "niederländische",
-      "notes",
-      "assessment",
-      "rechtswissenschaft",
-      "seite",
-      "entstehung",
-      "entwicklung",
-      "modernus"
+      "humanismus",
+      "renaissance",
+      "neuen",
+      "weltbildes",
+      "antike",
+      "antiker",
+      "anwendung",
+      "aufnahme",
+      "aufreichsebene",
+      "aufstieg"
     ],
-    "excerpt": "4F22DC55-2119-5031-AA7C-A7AD3C6D833C search/4F22DC55-2119-5031-AA7C-A7AD3C6D833CS ADF942A3-8B52-51DD-9249-A93F7677EC31 search/ADF942A3-8B52-51DD-9249-A93F7677EC31S C19B6A4B-C908-4BC2-B102-FD1C6CBACE96 search/C19B6A4B-C908-4BC2-B102-FD1C6CBACE96U FB160FCC-D30D-402D-8458-DB11D08BF0D9 search/FB160FCC-D30D-402D-8458-DB11D08BF0D9 8EF53B87-511C-4520-A6EA-D1ADAEA1795E search/8EF53B87-511C-4520-A6EA-D1ADAEA1795E 185F4DAB-4326-5283-8639-88F8CC01D594 search/185F4DAB-4326-5283-8639-88F8CC01D594 BD130859-9A81-53B0-8E8C-DDB5460DD78C notes/BD130859-9A81-53B0-8E8C-DDB5460DD78CR A60B0278-B85E-501A-961A-920E31AFDE95 notes/A60B0278-B85E-501A-961A-920E31AFDE95R 2EE6F8C4-4EAE-54A2-A78A-351753E6F5BD notes/2EE6F8C4-4EAE-54A2-A78A-351753E6F5BDR 6F866D57-3D2F-55A3-87FF-D177CB9CB8B8 notes/6F866D57-3D2F-55A3-87FF-D177CB9CB8B8R notes/4F22DC55-2119-5031-AA7C-A7AD3C6D833CR notes/ADF942A3-8B52-51DD-9249-A93F7677EC31R"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteH. Humanismus und Usus ModernusI. Renaissance und HumanismusII. Der mos gallicusIII. Die niederländische RechtswissenschaftIV. Usus modernus pandectarum Etwa seit der Mitte des 15. Jahrhunderts entsteht der Humanismus– Wiederentdeckung der Antike und antiker Schriften– Aufstieg der Philologie– Neuentdeckung des menschlichen Individuums– Die Welt bleibt göttlich geordnetes Gefüges– Eröffnung eines neuen Weltbildes durch Ausgangspunkt dieser Entwicklung ist die Renaissance in Italien.Rechtsgeschichte (Assessment) Seite 97 I. Renaissance und Humanismus (2)§ Konsequenzen für Recht und Rechtswissen§ Zwar wird 1495 die Anwendung des römischen Rechts sogar aufReichsebene gesetzgeberisch festgesetzt:§ 3 RKGO- und römische Rechtstradition findet besondere Aufnahme in Reichsgerichtsbarkeit§ Aber die Ausformung neuen Weltbildes führt zunehmend ..."
   },
   {
     "title": "(6) Usus modernus pandectarum",
@@ -1408,22 +1469,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(8) Humanismus - Usus Modernus/(6) Usus modernus pandectarum.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(6) Usus modernus pandectarum.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(8) Humanismus - Usus Modernus/(6) Usus modernus pandectarum.pdf",
     "notes": 11,
     "searchPages": 7,
     "attachments": 3,
     "keywords": [
-      "römischen",
-      "notes",
-      "modernus",
-      "assessment",
       "epoche",
-      "seite",
-      "pandectarum",
-      "search",
       "humanismus",
-      "entstehung"
+      "antike",
+      "antiker",
+      "aufstieg",
+      "ausgerichtet",
+      "beginnt",
+      "bleibt",
+      "david",
+      "entsteht"
     ],
-    "excerpt": "6C05076C-5679-53B5-BB13-3584975B745D search/6C05076C-5679-53B5-BB13-3584975B745DS 90C63FA5-E1D7-5A05-997D-5D65BE5C3866 search/90C63FA5-E1D7-5A05-997D-5D65BE5C3866S 91EC7A63-99E5-4650-8CA0-AADF21CAC1A7 search/91EC7A63-99E5-4650-8CA0-AADF21CAC1A7S F51E969F-77F5-455E-A43A-319705D628D6 search/F51E969F-77F5-455E-A43A-319705D628D6U 9532DAFB-EB61-52FC-B704-4994903AD680 search/9532DAFB-EB61-52FC-B704-4994903AD680 74DD8BF0-BAD1-4A64-BFBD-55591F98E3DA search/74DD8BF0-BAD1-4A64-BFBD-55591F98E3DA 6E2D4F00-EE0E-4C2F-A761-9C6342CC7695 search/6E2D4F00-EE0E-4C2F-A761-9C6342CC7695 49E86AC4-547A-5214-B636-6745E57491CE notes/49E86AC4-547A-5214-B636-6745E57491CER 495E73D9-602F-5D80-9140-979683CEEAF1 notes/495E73D9-602F-5D80-9140-979683CEEAF1R DBB11F0E-EE60-55F8-8BCA-1554B3E430DC notes/DBB11F0E-EE60-55F8-8BCA-1554B3E430DCR 3DD151B4-AF06-534E-9B20-A433BE156ACE notes/3DD151B4-AF06-534E-9B20-A433BE156ACER 61D0C"
+    "excerpt": "Lübekstadtrechtsfamilie, die sich über grosse Teile Nordosteuropas erstreckte Lübisches Recht war ganz auf Stradtbedürfnisse ausgerichtet Ein lübischer Rechtsgelehrter: David Mevius: Er kommentierte das lübische Recht Bis vor dieser Epoche war ganz Europa lateinsprachig Aber in dieser Epoche beginnt es, dass die Nationalsprachen in den Vordergrund treten und die europäischen Rechtsgelehrten sich nicht mehr verstehen Rechtswissenschaftliche FakultätRechtsgeschichteH. Humanismus und Usus ModernusI. Renaissance und HumanismusII. Der mos gallicusIII. Die niederländische RechtswissenschaftIV. Usus modernus pandectarum Etwa seit der Mitte des 15. Jahrhunderts entsteht der Humanismus– Wiederentdeckung der Antike und antiker Schriften– Aufstieg der Philologie– Neuentdeckung des menschlichen Individuums– Die Welt bleibt göttlich geordnetes Gefüges– Eröffnung eines neuen Weltbildes durch ..."
   },
   {
     "title": "(1) Übersicht",
@@ -1431,22 +1493,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(1) Übersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(1) Übersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(1) Übersicht.pdf",
     "notes": 20,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "herrschaft",
-      "notes",
-      "seite",
-      "assessment",
+      "allein",
+      "kritik",
+      "radikale",
+      "absolutismusi",
       "absolutistischer",
-      "grundlagen",
-      "konfessionalisierung",
-      "beispiel",
-      "zürich",
-      "reformation"
+      "ampapsttum",
+      "amtskirche",
+      "autorität",
+      "beginnend",
+      "begriff"
     ],
-    "excerpt": "440A1B51-8548-5757-9923-D0FD65A103C3 search/440A1B51-8548-5757-9923-D0FD65A103C3U 91E29F5D-BF76-595E-933B-C62EF096D60C search/91E29F5D-BF76-595E-933B-C62EF096D60C notes/440A1B51-8548-5757-9923-D0FD65A103C3R B221E181-66F3-5002-B362-E66B4229A05B notes/B221E181-66F3-5002-B362-E66B4229A05BR D3A42651-7A9A-5721-AB4E-0357AD7315F9 notes/D3A42651-7A9A-5721-AB4E-0357AD7315F9R C2816629-35C2-5E64-81B2-B3A0A9B4C1A3 notes/C2816629-35C2-5E64-81B2-B3A0A9B4C1A3R 58DA7513-8E78-527B-A59A-091C77B57A3D notes/58DA7513-8E78-527B-A59A-091C77B57A3DR 4CAD6BAA-A428-5CA4-AA9E-FC9F8DC71A9B notes/4CAD6BAA-A428-5CA4-AA9E-FC9F8DC71A9BR 78922068-72B9-5198-9693-5007B2E83198 notes/78922068-72B9-5198-9693-5007B2E83198R 95C4FFA3-E68D-5611-A655-A761066A6E14 notes/95C4FFA3-E68D-5611-A655-A761066A6E14R 5DB3A094-2A2B-5047-BB8C-3337D0BF7DFA notes/5DB3A094-2A2B-5047-BB8C-3337D0BF7DFAR 2D8170B5-346D-5034-99E1-CA417870C826 notes/2D"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteI. Territorialstaat und AbsolutismusI. Die ReformationII. Konfessionalisierung von Recht und VerfassungIII. Gewaltexzesse um 1600IV. Grundlagen absolutistischer HerrschaftsordnungenV. Bilanz Begriff: Reformation– reformare: Wiederherstellen– Kennzeichnung der Zielsetzungen der sog. Reformatoren: ImAusgangspunkt „Wiederherstellung“ des Glaubens und der Theologie Radikale Kritik Martin Luthers – beginnend 1517 („95 Thesen“) amPapsttum, aber auch der Amtskirche Unmittelbare Beziehung zwischen Gott und dem glaubendenMenschen Keine Mittlerfunktion der Kirche, denn Verwaltung göttlicher Gnadedurch irdische Institution unmöglichRechtsgeschichte (Assessment) Seite 106 Individueller Zugang jedes Gläubigen zugöttlicher Liebe und Gnade möglich Autorität allein der Bibel (statt allein derKirche) sola scriptura Radikale Kritik auch und gerade ..."
   },
   {
     "title": "(2) Reformation",
@@ -1454,22 +1517,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(2) Reformation.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(2) Reformation.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(2) Reformation.pdf",
     "notes": 20,
     "searchPages": 3,
     "attachments": 1,
     "keywords": [
-      "seite",
-      "herrschaft",
-      "notes",
-      "assessment",
+      "allein",
+      "kritik",
+      "radikale",
+      "absolutismusi",
       "absolutistischer",
-      "reformation",
-      "zürich",
-      "grundlagen",
-      "konfessionalisierung",
-      "beispiel"
+      "ampapsttum",
+      "amtskirche",
+      "autorität",
+      "beginnend",
+      "begriff"
     ],
-    "excerpt": "C721C3BA-E67B-5903-8964-E6C088BE0D65 search/C721C3BA-E67B-5903-8964-E6C088BE0D65S EC728EEC-CB13-5A13-BF50-F9EE5625424B search/EC728EEC-CB13-5A13-BF50-F9EE5625424BU 74B81026-5DCC-501B-B130-2957A7251B51 search/74B81026-5DCC-501B-B130-2957A7251B51 5E1FB832-5665-5612-BB39-5EFC564FFD6D notes/5E1FB832-5665-5612-BB39-5EFC564FFD6DR notes/C721C3BA-E67B-5903-8964-E6C088BE0D65R BAB2584D-1556-5B4D-A26D-C8EDC545C4B5 notes/BAB2584D-1556-5B4D-A26D-C8EDC545C4B5R notes/EC728EEC-CB13-5A13-BF50-F9EE5625424BR 33BDC66E-785F-542E-8CAE-67F5D0A35D4D notes/33BDC66E-785F-542E-8CAE-67F5D0A35D4DR 7D486FC8-A6AE-5C8A-ADD9-DC27B441C4E7 notes/7D486FC8-A6AE-5C8A-ADD9-DC27B441C4E7R CD13FE48-6F84-5175-997F-D82B3CA4125E notes/CD13FE48-6F84-5175-997F-D82B3CA4125ER 07A8549E-7F18-5DA4-AB18-C605E101290E notes/07A8549E-7F18-5DA4-AB18-C605E101290ER 876C8286-3424-5AA5-801F-C8396F8920F8 notes/876C8286-3424-5AA5-801F-C8396F8920F8R "
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteI. Territorialstaat und AbsolutismusI. Die ReformationII. Konfessionalisierung von Recht und VerfassungIII. Gewaltexzesse um 1600IV. Grundlagen absolutistischer HerrschaftsordnungenV. Bilanz Begriff: Reformation– reformare: Wiederherstellen– Kennzeichnung der Zielsetzungen der sog. Reformatoren: ImAusgangspunkt „Wiederherstellung“ des Glaubens und der Theologie Radikale Kritik Martin Luthers – beginnend 1517 („95 Thesen“) amPapsttum, aber auch der Amtskirche Unmittelbare Beziehung zwischen Gott und dem glaubendenMenschen Keine Mittlerfunktion der Kirche, denn Verwaltung göttlicher Gnadedurch irdische Institution unmöglichRechtsgeschichte (Assessment) Seite 106 Individueller Zugang jedes Gläubigen zugöttlicher Liebe und Gnade möglich Autorität allein der Bibel (statt allein derKirche) sola scriptura Radikale Kritik auch und gerade ..."
   },
   {
     "title": "(3) Konfessionalisierung von Recht - Herrschaft",
@@ -1477,22 +1541,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(3) Konfessionalisierung von Recht - Herrschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(3) Konfessionalisierung von Recht - Herrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(3) Konfessionalisierung von Recht - Herrschaft.pdf",
     "notes": 22,
     "searchPages": 10,
     "attachments": 3,
     "keywords": [
+      "polizei",
+      "beste",
+      "einfluss",
       "herrschaft",
-      "notes",
-      "seite",
-      "assessment",
-      "konfessionalisierung",
-      "search",
-      "absolutistischer",
-      "kirche",
-      "zwischen",
-      "gegenreformation"
+      "heute",
+      "immer",
+      "antiken",
+      "aristoteles",
+      "aufnahme",
+      "aufstellen"
     ],
-    "excerpt": "A673285C-A9A6-59E9-B964-8DCFEB7B2C20 search/A673285C-A9A6-59E9-B964-8DCFEB7B2C20S E976D716-19E1-57CA-A13D-EAB174BBB4AD search/E976D716-19E1-57CA-A13D-EAB174BBB4ADS D20FBB79-0544-5CFB-B749-43529308EB43 search/D20FBB79-0544-5CFB-B749-43529308EB43S 6C5421A2-44B0-5FB6-9A38-C5A3BE21BEB4 search/6C5421A2-44B0-5FB6-9A38-C5A3BE21BEB4S 81F1311F-E891-53F8-A5C2-90212ECFAEE0 search/81F1311F-E891-53F8-A5C2-90212ECFAEE0S 16565D6D-99CA-4E05-8659-6A1E4292D57F search/16565D6D-99CA-4E05-8659-6A1E4292D57FS 7A0DD121-A566-40DA-B065-CC7B318A4DA5 search/7A0DD121-A566-40DA-B065-CC7B318A4DA5U 9F024B18-B40B-4DB2-8696-E8E2D09106AB search/9F024B18-B40B-4DB2-8696-E8E2D09106AB 0C872A36-618D-455C-8A08-B10E8CB0802D search/0C872A36-618D-455C-8A08-B10E8CB0802D C5D563C7-569F-560D-B434-567D4AC0AF13 search/C5D563C7-569F-560D-B434-567D4AC0AF13 DAB13027-CEF8-539B-B7CA-C54E2F468074 notes/DAB13027-CEF8-539B-B7CA-C54E2F468074R 07"
+    "excerpt": "Diese Tendenzen, Herrschaft zu konzentrieren (bsp. Rat kriegt enormen Einfluss: moralische Kontrolle durch Ehegericht) Wie Herrschaft gelenkt wird, wird immer relevanter und wie kann man das Gemeinwesen am besten aufstellen für das gemeine Beste Immer weniger die Idee des heiligen Herrschers, auch nicht mehr nur den Papst: Katholische Kirche ist nicht gerade in der Defensive, aber teilweise ersetzt Aufnahme der Antiken Schriften von Aristoteles Typologie der Stadtstaaten: beschrieben, wie Strukturen waren: diese Lehrtradition erfuhr grosse Ausbreitung und daraus wurde Lehre der Polizei (nicht wie heute!) Polizei: nicht wie heute Polizei, sondern die Idee, wie man die Gesellschaft bestmöglich strukturiert, also wie man die beste Police erzeugt Idee der Polizeiwissenschaft hat Einfluss darauf, was man von Herrschern erwartet: gemeines Bestes für Untertanen wollen Vorstellung der ..."
   },
   {
     "title": "(4) Gewaltexzesse um 1600",
@@ -1500,22 +1565,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(4) Gewaltexzesse um 1600.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(4) Gewaltexzesse um 1600.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(4) Gewaltexzesse um 1600.pdf",
     "notes": 20,
     "searchPages": 3,
     "attachments": 1,
     "keywords": [
-      "herrschaft",
-      "notes",
-      "seite",
-      "assessment",
-      "absolutistischer",
-      "grundlagen",
-      "konfessionalisierung",
-      "beispiel",
-      "reformation",
-      "auseinandersetzungen"
+      "legitimation",
+      "religion",
+      "viele",
+      "abbricht",
+      "abgesprochen",
+      "auseinandersetzungen",
+      "beide",
+      "bruch",
+      "brutale",
+      "delegitimation"
     ],
-    "excerpt": "B49E515C-E1EC-59A5-8ECC-1000B47A0709 search/B49E515C-E1EC-59A5-8ECC-1000B47A0709S BD7CDDFE-CC98-5D47-BF78-170D05CC9296 search/BD7CDDFE-CC98-5D47-BF78-170D05CC9296U F74CF35D-CB7D-5D55-9AB2-999EC34D5208 search/F74CF35D-CB7D-5D55-9AB2-999EC34D5208 7BFBBD65-CF47-5A89-8BE8-DDC892662474 notes/7BFBBD65-CF47-5A89-8BE8-DDC892662474R DEA4A91C-D0EB-5366-9D83-AB731FD9F1EE notes/DEA4A91C-D0EB-5366-9D83-AB731FD9F1EER 3876F920-AFC9-52BB-9024-B63C197EB4C2 notes/3876F920-AFC9-52BB-9024-B63C197EB4C2R 32DBB452-CD45-58A4-8A17-2D257684F01D notes/32DBB452-CD45-58A4-8A17-2D257684F01DR EAF27B11-FF4A-51E5-BADA-78257D96DCAB notes/EAF27B11-FF4A-51E5-BADA-78257D96DCABR E6141B70-F038-5000-A5BF-6BBF8DBE0791 notes/E6141B70-F038-5000-A5BF-6BBF8DBE0791R A3CD420F-C3A8-5984-B83E-D0887BB6F156 notes/A3CD420F-C3A8-5984-B83E-D0887BB6F156R 281EC142-57C3-5A25-AAE8-E9800FCEAF2E notes/281EC142-57C3-5A25-AAE8-E9800FCEAF2ER 01412BF"
+    "excerpt": "Gewaltexzesse und sehr viele weitere Konflikte (16./17. Jh): Spannungen steigen immer mehr, wird auch fortgetragen durch diesen konfessionellen Gegensatz Kriege nehmen zu, Eidgenossenschaft war auch nicht harmonisch: viele brutale Auseinandersetzungen Wenn man in einer Welt der Gewalt und Todesangst lebt, ist es verständlich, dass der Glaube/Legitimation von Recht von dem was sein Soll abbricht In totalitären Ländern mit Diktatoren glaubt man nicht an das Recht unter Gewalterfahrungen: DElegitimation Die Religion, die jahrhunderte lang als Legitimation für die Ordnung der Monarchie etc. gedient hatte, kann nichtmehr herhalten Religion ist nicht mehr in der Lage, die Gesamtordnung zu legitimieren: Bruch Suche nach Religionsfrieden: Beide Konfessionen hatten sich die Vernunft abgesprochen In der Epoche der konfeszionellen Spaltung: Konfessionskriege, 30jähriger Krieg: Frankreich, Spanien ..."
   },
   {
     "title": "(5) Absolutistische Herrschaft",
@@ -1523,22 +1589,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(5) Absolutistische Herrschaft.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(5) Absolutistische Herrschaft.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(5) Absolutistische Herrschaft.pdf",
     "notes": 22,
     "searchPages": 10,
     "attachments": 3,
     "keywords": [
       "herrschaft",
-      "notes",
-      "seite",
-      "assessment",
-      "absolutistischer",
-      "menschen",
-      "search",
-      "hobbes",
-      "herrscher",
-      "reformation"
+      "begründen",
+      "frieden",
+      "geschehen",
+      "politische",
+      "allererst",
+      "anderes",
+      "begründet",
+      "braucht",
+      "bringt"
     ],
-    "excerpt": "D03F47D1-783A-5834-84D8-6FDC568D1F86 search/D03F47D1-783A-5834-84D8-6FDC568D1F86S 4415DD43-4506-58D2-B69D-7DF40BAC027F search/4415DD43-4506-58D2-B69D-7DF40BAC027FS 70A12A3B-7088-53BD-A77C-AD70C2000A48 search/70A12A3B-7088-53BD-A77C-AD70C2000A48S 172E0BAA-0A04-597B-B253-918C099C24ED search/172E0BAA-0A04-597B-B253-918C099C24EDS F7263A99-7844-5DF2-B9DA-80ECFEC82A75 search/F7263A99-7844-5DF2-B9DA-80ECFEC82A75S 769A1A8E-BDB8-5B68-9D0B-38AB14ADB6D3 search/769A1A8E-BDB8-5B68-9D0B-38AB14ADB6D3S BE5F8824-F88E-489C-B9BF-5690B6FB89FA search/BE5F8824-F88E-489C-B9BF-5690B6FB89FAS 0C91805F-31E1-4560-9551-8A61C550CC3B search/0C91805F-31E1-4560-9551-8A61C550CC3BU F67B612C-8D5F-48EB-A08B-E3245C8FF993 search/F67B612C-8D5F-48EB-A08B-E3245C8FF993 8DD0884D-DC2A-5607-AFE5-9DF9276CEFAC search/8DD0884D-DC2A-5607-AFE5-9DF9276CEFAC 770FCC3E-1690-54CB-BEF8-54048FE68D3F notes/770FCC3E-1690-54CB-BEF8-54048FE68D3FR C"
+    "excerpt": "In dieser Epoche zugleich entstehen Theorien über politische Herrschaft Gemeinsames Thema: wie kann man Herrschaftsausübung neu legitimieren nachdem all das geschehen ist (konfessionelle Spaltung hat zu so vielen Kriegen und Gewalt geführt und eine so grosse Exkalation der Zerstörung geschehen ist): wie kommt man zu einem Konzept von politischer Herrschaft/Rechtserzeugung, das verständlich gemacht werden kann? Politische Theorie wendet sich von der Fundamentierung der Politik auf Religion ab: klassische christliche Naturrechtsideen werden unplausibel Anderes Motiv: Nicht mehr religiös, sonder Vertrag: Menschen begründen Gesellschaft durch Vertragsschluss: damit wird Herrschaft allererst begründet Dadurch soll eine Sturktur erzeugt werden, die Frieden bringt: Eine Theorie, mit der man Herrschaft begründen kann, die das garantiert, was man braucht: religiösen Frieden Profesionelle ..."
   },
   {
     "title": "(6) Recht im Staat der Frühen Neuzeit",
@@ -1546,22 +1613,23 @@ window.dropboxMaterials = [
     "path": "(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(6) Recht im Staat der Frühen Neuzeit.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(6) Recht im Staat der Frühen Neuzeit.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(1) Vorlesungen/(9) Territorialstaat - Absolutismus/(6) Recht im Staat der Frühen Neuzeit.pdf",
     "notes": 21,
     "searchPages": 5,
     "attachments": 2,
     "keywords": [
-      "herrschaft",
-      "notes",
-      "seite",
-      "assessment",
+      "allein",
+      "kritik",
+      "radikale",
+      "absolutismusi",
       "absolutistischer",
-      "eidgenossenschaft",
-      "grundlagen",
-      "konfessionalisierung",
-      "beispiel",
-      "damit"
+      "ampapsttum",
+      "amtskirche",
+      "autorität",
+      "beginnend",
+      "begriff"
     ],
-    "excerpt": "64359AD6-CA01-59BC-A5A7-99941195645D search/64359AD6-CA01-59BC-A5A7-99941195645DS 18815BB3-8702-5B1B-BB77-6EAAB89149A2 search/18815BB3-8702-5B1B-BB77-6EAAB89149A2S 96B3F909-24D3-4814-8769-456A18957F6A search/96B3F909-24D3-4814-8769-456A18957F6AU 561568A7-0EDE-5C05-8FBD-C61EB6E400C3 search/561568A7-0EDE-5C05-8FBD-C61EB6E400C3 E2818CDA-DDCF-4350-98D1-6B339F696736 search/E2818CDA-DDCF-4350-98D1-6B339F696736 C8830280-99AE-5CD0-A20F-61C469708B32 notes/C8830280-99AE-5CD0-A20F-61C469708B32R notes/64359AD6-CA01-59BC-A5A7-99941195645DR 2BECCFAF-AE1C-5574-A2FC-E8D330848134 notes/2BECCFAF-AE1C-5574-A2FC-E8D330848134R BCCC68BF-B053-5A5D-869D-A514A1BA69AF notes/BCCC68BF-B053-5A5D-869D-A514A1BA69AFR 3F542D22-02E9-580C-9DF3-6A2F106F0917 notes/3F542D22-02E9-580C-9DF3-6A2F106F0917R 19AEBC3B-EDC4-55E7-90DB-7AA3EE8FF948 notes/19AEBC3B-EDC4-55E7-90DB-7AA3EE8FF948R 91B98DE2-321A-5DDB-8D6D-305A3F3E45D4 notes/"
+    "excerpt": "Rechtswissenschaftliche FakultätRechtsgeschichteI. Territorialstaat und AbsolutismusI. Die ReformationII. Konfessionalisierung von Recht und VerfassungIII. Gewaltexzesse um 1600IV. Grundlagen absolutistischer HerrschaftsordnungenV. Bilanz Begriff: Reformation– reformare: Wiederherstellen– Kennzeichnung der Zielsetzungen der sog. Reformatoren: ImAusgangspunkt „Wiederherstellung“ des Glaubens und der Theologie Radikale Kritik Martin Luthers – beginnend 1517 („95 Thesen“) amPapsttum, aber auch der Amtskirche Unmittelbare Beziehung zwischen Gott und dem glaubendenMenschen Keine Mittlerfunktion der Kirche, denn Verwaltung göttlicher Gnadedurch irdische Institution unmöglichRechtsgeschichte (Assessment) Seite 106 Individueller Zugang jedes Gläubigen zugöttlicher Liebe und Gnade möglich Autorität allein der Bibel (statt allein derKirche) sola scriptura Radikale Kritik auch und gerade ..."
   },
   {
     "title": "(1) Wichtig- Literatur zu den Texten",
@@ -1569,22 +1637,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(0) Übersicht/(1) Wichtig- Literatur zu den Texten.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(0) Übersicht/(1) Wichtig- Literatur zu den Texten.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(0) Übersicht/(1) Wichtig- Literatur zu den Texten.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "053A73B1-4F85-575F-911D-60289247A0CD search/053A73B1-4F85-575F-911D-60289247A0CD 25B0F883-EFD1-527F-8E73-AEBE6A18C1BC notes/25B0F883-EFD1-527F-8E73-AEBE6A18C1BCR E0D01A47-CD45-5B62-A1A4-B7E2704B0922 notes/E0D01A47-CD45-5B62-A1A4-B7E2704B0922R A9CB9DF6-BB02-533E-B9A7-385EB65155BA notes/A9CB9DF6-BB02-533E-B9A7-385EB65155BAR CD12E9BD-554B-54C8-A480-47D1891885ED notes/CD12E9BD-554B-54C8-A480-47D1891885EDR 832E2433-B05E-5040-8C7A-C52AB03D5E6F notes/832E2433-B05E-5040-8C7A-C52AB03D5E6FR 52CCDFE7-23B9-5CAE-9746-C28E204E4DDB notes/52CCDFE7-23B9-5CAE-9746-C28E204E4DDBR 03EA7610-B6B9-58A7-964B-1C72CB5FB5D1 notes/03EA7610-B6B9-58A7-964B-1C72CB5FB5D1R F01E11A6-A1AD-510C-81CC-AB002DBEDF5B notes/F01E11A6-A1AD-510C-81CC-AB002DBEDF5BR BE293848-CAFB-5F64-8598-67294D3C6888 notes/BE293848-CAFB-5F64-8598-67294D3C6888R D68D3224-E28B-5196-BDD3-53D36BBD4349 notes/D68D3224-E28B-5196-BDD3-53D36BBD4349R 384160AA-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "(2) Analyseraster",
@@ -1592,22 +1661,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(0) Übersicht/(2) Analyseraster.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(0) Übersicht/(2) Analyseraster.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(0) Übersicht/(2) Analyseraster.pdf",
     "notes": 5,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "übungen",
-      "assessment",
-      "seite",
+      "thema",
       "aussagen",
+      "latein",
+      "prüfung",
       "sachliche",
-      "gemeinschaft",
-      "individuum",
-      "normsetzung",
-      "volksgemeinschaft",
-      "gesetz"
+      "vertiefung",
+      "wichtig",
+      "anschneiden",
+      "argumentieren",
+      "aufgeworfen"
     ],
-    "excerpt": "8DAEDD6E-46AC-5AAD-9BC1-7FAA2D4885FC search/8DAEDD6E-46AC-5AAD-9BC1-7FAA2D4885FCU E2C8DEE2-87C0-55FC-B5D9-B78618CC653D search/E2C8DEE2-87C0-55FC-B5D9-B78618CC653D 95680BBF-A9B5-5CCC-872B-070D64A14CE3 notes/95680BBF-A9B5-5CCC-872B-070D64A14CE3R 69B0EADD-E46E-5F33-AEB3-2A234545D3AA notes/69B0EADD-E46E-5F33-AEB3-2A234545D3AAR 5668D746-D3EB-5405-A3F1-9A0286E27B87 notes/5668D746-D3EB-5405-A3F1-9A0286E27B87R 396121F6-5784-5B2E-AF90-17CB12E013AB notes/396121F6-5784-5B2E-AF90-17CB12E013ABR notes/8DAEDD6E-46AC-5AAD-9BC1-7FAA2D4885FC nicht nur Thema anschneiden, sondern viel dazu schreiben!! Mit Sprache argumentieren! Deutsch/Latein/Englisch/ Ist es ein Gesetz/Brief/ Was findet der text/autor gut/schlecht? Welche Meinung? YGanz wichtig: 1/3 der Punkte dafür, wie man sachliche Aussagen mit dem Text verknüpft!! HWas sagt der Text zum Thema und wieso habe ich dieses Thema aufgeworfen? Wichtig für Prü"
+    "excerpt": "nicht nur Thema anschneiden, sondern viel dazu schreiben!! Mit Sprache argumentieren! Deutsch/Latein/Englisch/ Was findet der text/autor gut/schlecht? Welche Meinung? YGanz wichtig: 1/3 der Punkte dafür, wie man sachliche Aussagen mit dem Text verknüpft!! HWas sagt der Text zum Thema und wieso habe ich dieses Thema aufgeworfen? Wichtig für Prüfung: Gute Hinführung an sachliche Aussagen etc!! Der Text ist auf Latein, wahrscheinlich mittelalterliche Gelehrte oder frühneuzeitlich: Klassischer Gelehrtentext Und jetzt behandle ich dieses Thema deswegen so und so Umgang mit (potentiellen) Prüfungstexten (50% der Prüfung) Vertiefung und Wiederholung von Prüfungswissen Fähigkeit zur Übertragung erlernten Wissens auf konkrete historische Texte Vertiefung interkultureller Kompetenzen durch historische (Rechts-)Vergleichung Textpublikation im Netz via OLAT/LHA Vorbereitung der Textanalyse ..."
   },
   {
     "title": "(3) Themenübersicht",
@@ -1615,22 +1685,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(0) Übersicht/(3) Themenübersicht.goodnotes",
     "category": "Orientierung",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(0) Übersicht/(3) Themenübersicht.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(0) Übersicht/(3) Themenübersicht.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "C5CE378F-8CD0-5A92-8C10-8E2DD20D5E2D search/C5CE378F-8CD0-5A92-8C10-8E2DD20D5E2D AA082FFD-6896-5381-BAE0-F25009A3A289 notes/AA082FFD-6896-5381-BAE0-F25009A3A289R 109FF933-9FE5-5392-8701-DD49A892A59A notes/109FF933-9FE5-5392-8701-DD49A892A59AR 977168B9-7AFE-5E30-B1E5-9468AF52FD9C notes/977168B9-7AFE-5E30-B1E5-9468AF52FD9CR 7E1186B3-F6DD-565F-ABFF-DCE4A1061DA7 notes/7E1186B3-F6DD-565F-ABFF-DCE4A1061DA7R CA980AA5-705F-500F-8C63-71AEE5A7B706 notes/CA980AA5-705F-500F-8C63-71AEE5A7B706R 9FE9958C-677D-5C41-B40B-BDD77A01CF92 notes/9FE9958C-677D-5C41-B40B-BDD77A01CF92R 3BC6842F-A0E9-598E-BB3A-73BAC151C398 notes/3BC6842F-A0E9-598E-BB3A-73BAC151C398R B5A99474-2B66-52EE-B4E7-D8ACB852C041 notes/B5A99474-2B66-52EE-B4E7-D8ACB852C041R BA894763-A1A7-539A-B955-E0D1A236613F notes/BA894763-A1A7-539A-B955-E0D1A236613FR 333983B6-B226-52F3-995D-0C25481A2DEC notes/333983B6-B226-52F3-995D-0C25481A2DECR DF7E18C7-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Recht - Unrecht im 20. Jh",
@@ -1638,22 +1709,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(1) Recht und Unrecht im 20. Jh/Recht - Unrecht im 20. Jh.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(1) Recht und Unrecht im 20. Jh/Recht - Unrecht im 20. Jh.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(1) Recht und Unrecht im 20. Jh/Recht - Unrecht im 20. Jh.pdf",
     "notes": 21,
     "searchPages": 16,
     "attachments": 3,
     "keywords": [
-      "notes",
-      "übungen",
-      "assessment",
-      "search",
-      "seite",
-      "aussagen",
-      "gemeinschaft",
-      "sachliche",
-      "individuum",
-      "reichsregierung"
+      "benutzt",
+      "kollektivismus",
+      "sozialistisch",
+      "weidel",
+      "alles",
+      "aufgebaut",
+      "behandeln",
+      "dominieren",
+      "eingehen",
+      "einzelnen"
     ],
-    "excerpt": "F40846DE-51E6-5B17-B900-BFAB73AFE246 search/F40846DE-51E6-5B17-B900-BFAB73AFE246S 178BF54A-3F14-5421-9BA5-6964124DAF41 search/178BF54A-3F14-5421-9BA5-6964124DAF41S 0579B132-21CD-521C-B871-2C9D29ED28F5 search/0579B132-21CD-521C-B871-2C9D29ED28F5S B19312E3-9A71-521C-BE69-EAFBA378C638 search/B19312E3-9A71-521C-BE69-EAFBA378C638S 39E185F4-3DBD-5387-8A2B-3EF0D2B766E4 search/39E185F4-3DBD-5387-8A2B-3EF0D2B766E4S 20D2415E-A37A-5A1C-B9CA-F50CD95F5F47 search/20D2415E-A37A-5A1C-B9CA-F50CD95F5F47S C4531C77-C490-5EF2-B797-E8B551B63FE4 search/C4531C77-C490-5EF2-B797-E8B551B63FE4S 2C2CF65F-9147-5722-BEE1-0BDF88E75212 search/2C2CF65F-9147-5722-BEE1-0BDF88E75212S 37FE032F-0DAB-558B-A584-6EE12372475F search/37FE032F-0DAB-558B-A584-6EE12372475FS 233ABC8E-F902-59B3-96B6-87F7D4AD92CD search/233ABC8E-F902-59B3-96B6-87F7D4AD92CDS 69900113-8A22-5FA9-A657-F890C1E47FB5 search/69900113-8A22-5FA9-A657-F890C1E47FB5"
+    "excerpt": "GIn der Prüfung ganz ganz wichtig: Auf Text eingehen und Text behandeln Weidel zeigt, dass Geschichte immer benutzt wird, instrumentalisiert wird für einen Zweck Im Nationalsozialismus wurden illiberale Strukturen geschaffen, die auch in der Gesellschaft selbst einen Kollektivismus aufgebaut haben (Freude etc), der ganz kollektivistisch ist und den einzelnen klein macht Kollektivismus, den man sozialistisch verstehen könnte: Weidel benutzt das, um zu sagen, dass die Nazis sozialistisch links waren und AfD rechts ist, also gibt es keinen Zusammenhang Verschiebung des Verfassungssystems: Regierung erlässt Gesetze Man kann sich dann gedanken machen, in welcher Art und Weise Recht und Politik in einem Verhältnis stehen Verschmelzen sie? Sollte man das separieren oder zusammengreifen? Soll gesetztes Recht alles dominieren? Aber was, wenn es von den Gerichten interpretiert wird? Soll ..."
   },
   {
     "title": "Text 1",
@@ -1661,22 +1733,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(1) Recht und Unrecht im 20. Jh/Text 1.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(1) Recht und Unrecht im 20. Jh/Text 1.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(1) Recht und Unrecht im 20. Jh/Text 1.pdf",
     "notes": 37,
     "searchPages": 4,
     "attachments": 2,
     "keywords": [
-      "berlin",
-      "notes",
-      "online",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "ausschluss",
+      "basiswissens",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "DDCCA59E-DB6F-55EB-991E-A6B20B3AE8F4 search/DDCCA59E-DB6F-55EB-991E-A6B20B3AE8F4S 9ECF3879-56E4-434F-9C91-0EFA4245C3AA search/9ECF3879-56E4-434F-9C91-0EFA4245C3AAU 3A06495A-53D9-57DD-B9AF-F8F2BE20654A search/3A06495A-53D9-57DD-B9AF-F8F2BE20654A 951CA998-3DAF-4AE0-83BF-32B094EC6E62 search/951CA998-3DAF-4AE0-83BF-32B094EC6E62 54E40FC9-C7A0-5CE5-B06C-8433A843F352 notes/54E40FC9-C7A0-5CE5-B06C-8433A843F352R 91250123-28A9-5C42-8912-E288045DE4DB notes/91250123-28A9-5C42-8912-E288045DE4DBR 294CEFF2-2CEC-58ED-8938-A8969075BD30 notes/294CEFF2-2CEC-58ED-8938-A8969075BD30R 8949EE40-3F7F-512D-BEF8-677B40759852 notes/8949EE40-3F7F-512D-BEF8-677B40759852R 8345B193-4F46-5CE9-8A31-0FDFEE3003E5 notes/8345B193-4F46-5CE9-8A31-0FDFEE3003E5R 21C29072-FAA6-5288-8A34-F4FDA0849B78 notes/21C29072-FAA6-5288-8A34-F4FDA0849B78R E6868858-4F42-54CB-A130-C08DAF67758F notes/E6868858-4F42-54CB-A130-C08DAF67758FR 8054FC3"
+    "excerpt": "Es geht um den Ausschluss aus einer Gemeinschaft Geht nur um die Gemeinschat, nicht Individuen nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte ..."
   },
   {
     "title": "Zu Text 1",
@@ -1684,16 +1757,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(1) Recht und Unrecht im 20. Jh/Zu Text 1.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(1) Recht und Unrecht im 20. Jh/Zu Text 1.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(1) Recht und Unrecht im 20. Jh/Zu Text 1.pdf",
     "notes": 28,
     "searchPages": 3,
     "attachments": 3,
-    "keywords": [
-      "notes",
-      "search",
-      "aaabd",
-      "becce"
-    ],
-    "excerpt": "F71CC0CC-D0B4-50E3-BE5B-E487850ED76C search/F71CC0CC-D0B4-50E3-BE5B-E487850ED76C FFF128CD-3CED-54DB-A2E2-F56AAABD3C79 search/FFF128CD-3CED-54DB-A2E2-F56AAABD3C79 A849C717-3495-5398-A059-67BECCE8A509 search/A849C717-3495-5398-A059-67BECCE8A509 FAB5E067-8D51-5593-B22B-C9C63349599F notes/FAB5E067-8D51-5593-B22B-C9C63349599FR FB375E49-D5F6-56AC-8A3B-31F8CB3273BB notes/FB375E49-D5F6-56AC-8A3B-31F8CB3273BBR A6324450-F551-5045-893F-067BA2F25BD8 notes/A6324450-F551-5045-893F-067BA2F25BD8R F84E3986-AFBB-5326-A38E-75684550671C notes/F84E3986-AFBB-5326-A38E-75684550671CR 8DBD54C7-69FB-5202-BBC5-DCDC3CD5BD74 notes/8DBD54C7-69FB-5202-BBC5-DCDC3CD5BD74R 5F439F66-8090-5318-AD10-8742A065BB9A notes/5F439F66-8090-5318-AD10-8742A065BB9AR 1C15DE7D-BCE7-5647-8E84-7671EC3DED1A notes/1C15DE7D-BCE7-5647-8E84-7671EC3DED1AR CFD4FDCF-DE8A-50EC-B5AC-CF1022BC79D7 notes/CFD4FDCF-DE8A-50EC-B5AC-CF1022BC79D7R 76A90BEC-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "Text 10",
@@ -1701,22 +1770,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(10) Kirche und weltliche Herrschaft im Mittelalter/Text 10.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(10) Kirche und weltliche Herrschaft im Mittelalter/Text 10.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(10) Kirche und weltliche Herrschaft im Mittelalter/Text 10.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "6234DDA2-34C7-5848-AA04-CB9D072B174A search/6234DDA2-34C7-5848-AA04-CB9D072B174A A8E75F03-FE32-533D-8203-4F4FA242DE06 notes/A8E75F03-FE32-533D-8203-4F4FA242DE06R 1ECB0335-4189-5801-94CD-1BDC99DB99C5 notes/1ECB0335-4189-5801-94CD-1BDC99DB99C5R 11EE294C-9AB9-56AD-892E-205E05C27F66 notes/11EE294C-9AB9-56AD-892E-205E05C27F66R 2F1D582A-98A0-548F-A004-25C1A3ACD164 notes/2F1D582A-98A0-548F-A004-25C1A3ACD164R 36B01014-22C0-5BD5-A122-406C5C58E2C3 notes/36B01014-22C0-5BD5-A122-406C5C58E2C3R 8940A7C2-86DD-5C27-96FD-ACB33037B8DD notes/8940A7C2-86DD-5C27-96FD-ACB33037B8DDR 2D0FAE09-122E-587C-A848-236A3EBA3D16 notes/2D0FAE09-122E-587C-A848-236A3EBA3D16R 991D5BC9-0609-5EC4-BF7B-30242E361BF9 notes/991D5BC9-0609-5EC4-BF7B-30242E361BF9R 4F915464-4230-5C46-9908-93EBAECB0A7A notes/4F915464-4230-5C46-9908-93EBAECB0A7AR 9CD4D920-C493-5F98-B0C1-8E6DB6C9F08C notes/9CD4D920-C493-5F98-B0C1-8E6DB6C9F08CR AD0A6BC1-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 10",
@@ -1724,14 +1794,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(10) Kirche und weltliche Herrschaft im Mittelalter/Zu Text 10.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(10) Kirche und weltliche Herrschaft im Mittelalter/Zu Text 10.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(10) Kirche und weltliche Herrschaft im Mittelalter/Zu Text 10.pdf",
     "notes": 10,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "search"
-    ],
-    "excerpt": "D58BF9E7-CCDB-5FA0-B212-61DDE7CD2CF5 search/D58BF9E7-CCDB-5FA0-B212-61DDE7CD2CF5 3BB1B861-4104-5B39-B893-0B9227BD673C search/3BB1B861-4104-5B39-B893-0B9227BD673C 0E0D965B-0C40-5F6E-A696-9F311A6312CC notes/0E0D965B-0C40-5F6E-A696-9F311A6312CCR 5A152F96-3904-5393-BF06-C13395CEE3F4 notes/5A152F96-3904-5393-BF06-C13395CEE3F4R E2B033F7-8BB7-5071-9619-E7FDD6FDF22C notes/E2B033F7-8BB7-5071-9619-E7FDD6FDF22CR EC581A10-4D33-59EB-9735-A64C00894E9B notes/EC581A10-4D33-59EB-9735-A64C00894E9BR C485D034-D358-503D-8797-770876AE825C notes/C485D034-D358-503D-8797-770876AE825CR AA18D00C-D63C-5DC9-87BD-7BD74CC31E06 notes/AA18D00C-D63C-5DC9-87BD-7BD74CC31E06R AF2FA2BA-9ACC-528E-9C9B-DF449531BF64 notes/AF2FA2BA-9ACC-528E-9C9B-DF449531BF64R 25FF28C9-2227-5CB8-B67D-AA69A572123F notes/25FF28C9-2227-5CB8-B67D-AA69A572123FR F021FDAC-8192-550C-936D-615BD876A092 notes/F021FDAC-8192-550C-936D-615BD876A092R 1477E13B-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "Text 11",
@@ -1739,22 +1807,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(11) Grundherrschaft/Text 11.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(11) Grundherrschaft/Text 11.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(11) Grundherrschaft/Text 11.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "D92FBD7D-EEE8-58DB-B6E9-8523C89A5072 search/D92FBD7D-EEE8-58DB-B6E9-8523C89A5072 C7F0538C-A01F-5276-BD68-695C1DDCD835 notes/C7F0538C-A01F-5276-BD68-695C1DDCD835R FCE806F5-5EBE-58A3-9E57-22CA1C6C7225 notes/FCE806F5-5EBE-58A3-9E57-22CA1C6C7225R B752EE53-CBC9-5534-BD9B-6813F415B75E notes/B752EE53-CBC9-5534-BD9B-6813F415B75ER AEF88488-0D56-5E7A-A9FE-123E6C3A5524 notes/AEF88488-0D56-5E7A-A9FE-123E6C3A5524R 75FB5D49-E6E3-5362-816D-4D7D46F2AEF8 notes/75FB5D49-E6E3-5362-816D-4D7D46F2AEF8R F04FC9BA-77C1-59CF-AF16-1954DDB07665 notes/F04FC9BA-77C1-59CF-AF16-1954DDB07665R 2B9854F0-C00B-544B-840B-8E247FD91861 notes/2B9854F0-C00B-544B-840B-8E247FD91861R E8DBFFDB-A379-5D64-8EAE-1FFAFEB2D14C notes/E8DBFFDB-A379-5D64-8EAE-1FFAFEB2D14CR 0D2EC248-2D69-5410-A7F4-70097EE545B1 notes/0D2EC248-2D69-5410-A7F4-70097EE545B1R CBE52CAC-239F-55AD-8519-54340BEB7729 notes/CBE52CAC-239F-55AD-8519-54340BEB7729R 5621D30E-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 11",
@@ -1762,22 +1831,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(11) Grundherrschaft/Zu Text 11.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(11) Grundherrschaft/Zu Text 11.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(11) Grundherrschaft/Zu Text 11.pdf",
     "notes": 11,
     "searchPages": 2,
     "attachments": 2,
     "keywords": [
-      "gesch",
-      "johann",
-      "sinne",
-      "notes",
-      "anderen",
-      "begriff",
-      "menschen",
-      "rechte",
-      "sondern",
-      "dilcher"
+      "deutschen",
+      "antrag",
+      "ausdruck",
+      "ausmacht",
+      "berühmte",
+      "blieb",
+      "boden",
+      "copyright",
+      "deutsche",
+      "deutscher"
     ],
-    "excerpt": "EDCD2E02-A945-541A-8FDE-75E77820E121 search/EDCD2E02-A945-541A-8FDE-75E77820E121 B155A2BF-3D80-5668-81B0-8445A342C08D search/B155A2BF-3D80-5668-81B0-8445A342C08D 69400D97-BB5B-5A8E-BCF2-F605F4B79FAC notes/69400D97-BB5B-5A8E-BCF2-F605F4B79FACR E26CA9F4-26F8-5693-BD8D-303E6EA38CB6 notes/E26CA9F4-26F8-5693-BD8D-303E6EA38CB6R BF933D72-9934-51BE-89A9-182210F7667C notes/BF933D72-9934-51BE-89A9-182210F7667CR 2ED9B075-822F-575F-8191-5A2E547556B9 notes/2ED9B075-822F-575F-8191-5A2E547556B9R 83CFBCB6-647D-51B9-9C72-DE6FDE3A9AFE notes/83CFBCB6-647D-51B9-9C72-DE6FDE3A9AFER 9A901C36-09AE-5EBA-91A5-C1392D1C1453 notes/9A901C36-09AE-5EBA-91A5-C1392D1C1453R A318FE68-4DEF-568A-A940-85C71EEED1C9 notes/A318FE68-4DEF-568A-A940-85C71EEED1C9R 0E5F5183-A3BE-5C55-9C1C-C835736A1E61 notes/0E5F5183-A3BE-5C55-9C1C-C835736A1E61R 05057852-35D0-5FB8-AA44-F6DC7D6F3281 notes/05057852-35D0-5FB8-AA44-F6DC7D6F3281R A4828C5A-"
+    "excerpt": "Lizenziert für UZH Hauptbibl./ Zentralbibl. Zürich Die Inhalte sind urheberrechtlich geschützt Handwörterbuch zur deutschen Rechtsgeschichte (HRG) Copyright Erich Schmidt Verlag GmbH I. Der heutige rechtshistorische Freiheitsbegriff und seine Geschichte Das deutsche Volk ist ein Volk von Freien, und deutscher Boden duldet keine Knechtschaft. Fremde Unfreie, die auf ihm verweilen, macht er frei.“ Kein Geringerer als Jacob Nationalversammlung den Antrag, diese programmatischen Sätze der Paulskirchenverfassung voranzustellen. In ihnen kommt nicht ohne nationales Pathos die Vorstellung zum Ausdruck, die F. sei es, was Deutschland oder die Deutschen ausmacht. All das blieb ein Traum Weder wurde der Satz eingefügt noch trat diese Verf. jemals auf gesamtdeutscher Ebene in Kraft. Was genau aber hat der berühmte Kenner der Rechts- u. Sprachaltertümer mit „F.“ gemeint? F. kann im ..."
   },
   {
     "title": "Text 12",
@@ -1785,22 +1855,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(12) Normgebung im Frühmittelalter- Stammesrechte/Text 12.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(12) Normgebung im Frühmittelalter- Stammesrechte/Text 12.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(12) Normgebung im Frühmittelalter- Stammesrechte/Text 12.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "439F5CA3-43F4-51AF-BE6C-8F4563D210B7 search/439F5CA3-43F4-51AF-BE6C-8F4563D210B7 B99CEEF4-14CA-5FE5-BA36-CD30957A1BD2 notes/B99CEEF4-14CA-5FE5-BA36-CD30957A1BD2R 1947F34A-ACE9-5568-91B0-BE0432E2F700 notes/1947F34A-ACE9-5568-91B0-BE0432E2F700R 5D5C3786-3286-5BC3-B75B-08B939CD0369 notes/5D5C3786-3286-5BC3-B75B-08B939CD0369R 8DA1AD3D-FEA6-5D5E-9F91-610A635D3C28 notes/8DA1AD3D-FEA6-5D5E-9F91-610A635D3C28R 12BB3657-63DC-5369-82ED-FFF611964B5C notes/12BB3657-63DC-5369-82ED-FFF611964B5CR AE21C49E-88C4-556D-9C0F-7C908F5CF5A2 notes/AE21C49E-88C4-556D-9C0F-7C908F5CF5A2R B80C8B87-E836-56EF-B182-726488509A6E notes/B80C8B87-E836-56EF-B182-726488509A6ER 369ABBF3-4F0E-59BD-A397-CFA700E75378 notes/369ABBF3-4F0E-59BD-A397-CFA700E75378R A24EC06F-CC47-5150-9175-75853776ABB5 notes/A24EC06F-CC47-5150-9175-75853776ABB5R A5EEDFED-0B33-5E06-93E3-E16866317D74 notes/A5EEDFED-0B33-5E06-93E3-E16866317D74R 02B5DCE0-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 12",
@@ -1808,14 +1879,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(12) Normgebung im Frühmittelalter- Stammesrechte/Zu Text 12.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(12) Normgebung im Frühmittelalter- Stammesrechte/Zu Text 12.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(12) Normgebung im Frühmittelalter- Stammesrechte/Zu Text 12.pdf",
     "notes": 13,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "search"
-    ],
-    "excerpt": "9C9686BA-3B99-52D8-89DC-2EC8A87EF619 search/9C9686BA-3B99-52D8-89DC-2EC8A87EF619 8B4FAB1D-7E3C-5C4D-9798-55A5AA34D711 search/8B4FAB1D-7E3C-5C4D-9798-55A5AA34D711 8E929E14-83C5-519D-B45F-C13805591CFE notes/8E929E14-83C5-519D-B45F-C13805591CFER 835B98A7-C104-505E-8CD5-4057062792BB notes/835B98A7-C104-505E-8CD5-4057062792BBR 61E5E70A-EF72-5F7F-BD63-63F18D6DE3F0 notes/61E5E70A-EF72-5F7F-BD63-63F18D6DE3F0R F943EE8A-32B2-54EC-B09C-CAD027CC2ABC notes/F943EE8A-32B2-54EC-B09C-CAD027CC2ABCR 6F6CEE51-8F07-553F-8CA7-61D993BCCC28 notes/6F6CEE51-8F07-553F-8CA7-61D993BCCC28R 019ED3F1-583C-5ED2-872F-76CAD52626B3 notes/019ED3F1-583C-5ED2-872F-76CAD52626B3R 439BE81A-E21F-5B57-93C4-1B8FFF291D11 notes/439BE81A-E21F-5B57-93C4-1B8FFF291D11R A5A77609-AD4E-50CD-85CD-F6BACA8057A6 notes/A5A77609-AD4E-50CD-85CD-F6BACA8057A6R 061CEC83-DAA5-5DE0-9477-DA6104626088 notes/061CEC83-DAA5-5DE0-9477-DA6104626088R 01C4AF2D-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "Text 13",
@@ -1823,22 +1892,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(13) Rezeption/Text 13.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(13) Rezeption/Text 13.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(13) Rezeption/Text 13.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "BF12B930-2968-5648-A259-F30AB7B2A7B4 search/BF12B930-2968-5648-A259-F30AB7B2A7B4 C3524DE9-B090-5B1D-A665-385626AFD9CD notes/C3524DE9-B090-5B1D-A665-385626AFD9CDR 47033B03-7432-56AE-A0C1-EB663816B604 notes/47033B03-7432-56AE-A0C1-EB663816B604R 266890E3-76EE-5B31-95AC-49FEEDE34A77 notes/266890E3-76EE-5B31-95AC-49FEEDE34A77R FA0DEBDC-4047-59D8-83C4-287188A6C714 notes/FA0DEBDC-4047-59D8-83C4-287188A6C714R 1FCF96CF-9205-56E0-9FC5-0800FCE09AFA notes/1FCF96CF-9205-56E0-9FC5-0800FCE09AFAR F73164E1-10DC-55A9-A21C-BA968F346E17 notes/F73164E1-10DC-55A9-A21C-BA968F346E17R 5A06F293-F930-5125-9EE0-98C7E122B326 notes/5A06F293-F930-5125-9EE0-98C7E122B326R 880D5ED6-6DD1-5DEC-8183-CECB93748325 notes/880D5ED6-6DD1-5DEC-8183-CECB93748325R EB1A0725-628D-58DB-87A8-11A819D418E3 notes/EB1A0725-628D-58DB-87A8-11A819D418E3R 028FA98B-A4E5-5559-B8A3-E7184F70AB0D notes/028FA98B-A4E5-5559-B8A3-E7184F70AB0DR 0B0ACD9D-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "2",
@@ -1846,22 +1916,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/2.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/2.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/2.pdf",
     "notes": 17,
     "searchPages": 16,
     "attachments": 3,
     "keywords": [
       "strafe",
-      "todesstrafe",
-      "assessment",
-      "notes",
-      "übungen",
-      "search",
-      "seite",
-      "aussagen",
-      "sachliche",
-      "abschaffung"
+      "hoheitliche",
+      "waren",
+      "akzeptanz",
+      "atheisten",
+      "ausgleich",
+      "ausmass",
+      "besonders",
+      "besserung",
+      "bestimmt"
     ],
-    "excerpt": "2DE307ED-0802-51B1-B091-66DABD8B54DE search/2DE307ED-0802-51B1-B091-66DABD8B54DES D8170C24-4AE4-5169-BBCC-5A62C23F9C6B search/D8170C24-4AE4-5169-BBCC-5A62C23F9C6BS C31EC49B-B92B-5E32-8DD7-1439923ECC4C search/C31EC49B-B92B-5E32-8DD7-1439923ECC4CS B2421D3B-CA1D-5BED-AFA6-0A0A849B3084 search/B2421D3B-CA1D-5BED-AFA6-0A0A849B3084S 7CC2052A-7E93-5954-BD49-5CE7E34100BF search/7CC2052A-7E93-5954-BD49-5CE7E34100BFS 4B8B51B7-F2E6-534A-9718-3E82B5279118 search/4B8B51B7-F2E6-534A-9718-3E82B5279118S F1B5F1C3-BC80-504B-96A0-C949B2B4B596 search/F1B5F1C3-BC80-504B-96A0-C949B2B4B596S 8884AF80-B927-5B80-B75A-DB215CAEB68C search/8884AF80-B927-5B80-B75A-DB215CAEB68CS 105EF149-BA71-523E-9DE3-4D95DBFFE4E5 search/105EF149-BA71-523E-9DE3-4D95DBFFE4E5S 73CB94CE-8E22-5075-8123-6BB01EB6741E search/73CB94CE-8E22-5075-8123-6BB01EB6741ES 20718443-01EC-5BFA-9A1B-C107DA14A3DC search/20718443-01EC-5BFA-9A1B-C107DA14A3DC"
+    "excerpt": "Fehdepraktiken und Busse waren horizontaler Ausgleich von Unrecht, noch nicht hoheitliche Strafe Hoheitliche Strafe in relevantem Ausmass kam erst mit der Gottes- und Landesfriedenbewegung seit dem Mittelalter in Europa Zweck dieser hoheitlichen Strafen im Spätmittelalter war auch Vergeltung (auge um auge etc.) Es ging um das Vergelten, nicht in die Zukunft präventiv! Aber neu bestimmt wurde: wozu straft man eigentlich in unterschiedlichen Momenten der frühen Neuzeit (Strafzwecke) ZModerne Schule erst seit etwa 1880 Strafe sei für die Besserung gedacht und Reintegration nAbnahme der Akzeptanz der Todesstrafe nimmt erst spät ab: Besonders Atheisten/Kommunisten/ Im Gleichheitsdenken der franz. Revolution kam es dazu, dass Enthauptungen für alle vorgesehen waren, nicht nur Adel: Humaner Fortschritt :) Zugleich (Doppeleffekt des Modernisierungsschubes) wurde Töten effizienter :( In der ..."
   },
   {
     "title": "Text 2",
@@ -1869,22 +1940,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/Text 2.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/Text 2.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/Text 2.pdf",
     "notes": 36,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "drechtsbildung",
+      "entwicklungen"
     ],
-    "excerpt": "9BF84CBE-138F-5CF7-9619-03800245F45F search/9BF84CBE-138F-5CF7-9619-03800245F45FU F41DCE96-6F88-5DA0-A6D1-E07EB0FA2809 search/F41DCE96-6F88-5DA0-A6D1-E07EB0FA2809 A059A2E3-1B26-582F-9E1B-D2FA2784370C notes/A059A2E3-1B26-582F-9E1B-D2FA2784370CR DE8C9328-D7C7-57CE-8DD2-EB93745804A9 notes/DE8C9328-D7C7-57CE-8DD2-EB93745804A9R 2E3BC78E-A78F-5DA3-94B4-CABD0D516305 notes/2E3BC78E-A78F-5DA3-94B4-CABD0D516305R E3AFD8DE-A79F-5430-86A2-CF63E80C4476 notes/E3AFD8DE-A79F-5430-86A2-CF63E80C4476R B4145BC4-93F7-599B-9613-BCD1616D3F46 notes/B4145BC4-93F7-599B-9613-BCD1616D3F46R 9CE72221-7D55-5EFF-8A0E-CA0C05FE1B2A notes/9CE72221-7D55-5EFF-8A0E-CA0C05FE1B2AR 2DC7B85F-E509-51C1-97CE-7EFE5555DC00 notes/2DC7B85F-E509-51C1-97CE-7EFE5555DC00R 29336CA3-8446-5503-85AE-10C542A7A543 notes/29336CA3-8446-5503-85AE-10C542A7A543R EB9BFD0F-0C3E-5A4B-9F1E-AFD53AD4033C notes/EB9BFD0F-0C3E-5A4B-9F1E-AFD53AD4033CR D5563DA1"
+    "excerpt": "dRechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul ..."
   },
   {
     "title": "Zu Text 2",
@@ -1892,22 +1964,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/Zu Text 2.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/Zu Text 2.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(2) Rechtsbildung im Spannungsfeld von Industrialisierung, Konstitutionalismus und Nationalstaatlichkeit/Zu Text 2.pdf",
     "notes": 19,
     "searchPages": 2,
     "attachments": 2,
     "keywords": [
-      "notes",
-      "schweiz",
       "sowie",
-      "verbrechen",
-      "enthauptung",
-      "abschaffung",
-      "brandstiftung",
-      "delikte",
-      "hinrichtung",
-      "insbesondere"
+      "menschen",
+      "tötung",
+      "abschreckung",
+      "angeordnete",
+      "ausbildung",
+      "basierten",
+      "bewertetes",
+      "blutgerichtsbarkeit",
+      "blutrache"
     ],
-    "excerpt": "CC38C039-5BE5-56AB-B2CD-811CEE041A34 search/CC38C039-5BE5-56AB-B2CD-811CEE041A34 A2C6039D-D676-5CC5-990F-E97B408BD043 search/A2C6039D-D676-5CC5-990F-E97B408BD043 1B5E5DE9-9EE4-5C54-A64F-5CDDF96CFAFD notes/1B5E5DE9-9EE4-5C54-A64F-5CDDF96CFAFDR 11A88C1B-D38C-5C20-824D-5779F396978A notes/11A88C1B-D38C-5C20-824D-5779F396978AR 713144B1-035E-50E0-A373-D25DA24371BC notes/713144B1-035E-50E0-A373-D25DA24371BCR 3571BA12-D1E5-57B5-8F6A-0B0DF9AC4D53 notes/3571BA12-D1E5-57B5-8F6A-0B0DF9AC4D53R FB72E254-42B8-56A6-8F98-F0A831E27C9E notes/FB72E254-42B8-56A6-8F98-F0A831E27C9ER 2101BFD3-F031-5A59-982C-B9B881172511 notes/2101BFD3-F031-5A59-982C-B9B881172511R 7CD38FEC-10ED-5BFD-BBBF-C323037A2301 notes/7CD38FEC-10ED-5BFD-BBBF-C323037A2301R 50E23618-AA59-54E8-A93F-F71A6C8AEFA6 notes/50E23618-AA59-54E8-A93F-F71A6C8AEFA6R E7362D46-6759-5401-92ED-B71B0271D4A1 notes/E7362D46-6759-5401-92ED-B71B0271D4A1R F3C20B49-"
+    "excerpt": "Die T. ist die durch den Staat oder vorstaatl. Herrschaftsträger hoheitlich angeordnete Tötung eines Menschen im Sinne einer institutionalisierten Reaktion auf dessen als schwerwiegende Verletzung des Friedens bzw. der Rechtsordnung bewertetes Verhalten. Seit der Landfriedensbewegung des 12. Jh. und der Ausbildung der landesherrl. Gewalten sowie des Städtewesens verdrängten obrigkeitlich verhängte peinl. Strafen zunehmend die aus fränk. Zeit stammenden Kompositionsordnungen - Strafensysteme, die auf Wergeld und Busse basierten sowie die Blutrache. Die vom Kaiser verliehene Blutgerichtsbarkeit wurde zum zentralen Herrschaftsrecht über die jeweilige Rechtsgemeinschaft (Gerichtswesen) Die T. diente im MA gleichermassen der Sühne wie auch der Abschreckung Todeswürdige Verbrechen waren die Tötung eines Menschen, Strassenraub, Diebstahl, Notzucht und Ehebruch sowie Brandstiftung, seit dem 13. ..."
   },
   {
     "title": "Folien Text 3",
@@ -1915,22 +1988,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Folien Text 3.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Folien Text 3.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Folien Text 3.pdf",
     "notes": 16,
     "searchPages": 15,
     "attachments": 5,
     "keywords": [
       "staatsrecht",
-      "assessment",
-      "notes",
-      "übungen",
-      "rechtsschule",
-      "search",
-      "seite",
+      "reiner",
+      "gewesen",
+      "gründungsakt",
+      "heute",
+      "historisch",
+      "lehensbeziehung",
       "rechtswissenschaft",
-      "historischen",
-      "aussagen"
+      "treueid",
+      "zwischen"
     ],
-    "excerpt": "DC1EB5A8-EB9F-552D-83D7-C59A3469035F search/DC1EB5A8-EB9F-552D-83D7-C59A3469035FS A70E653B-AD5B-5C27-96DA-3D023E2DA242 search/A70E653B-AD5B-5C27-96DA-3D023E2DA242S FC92BD52-858F-5F68-8A53-5257A0020984 search/FC92BD52-858F-5F68-8A53-5257A0020984S E1BB32C1-A6A9-5585-B5D1-B77EE5188A91 search/E1BB32C1-A6A9-5585-B5D1-B77EE5188A91S F389F696-041A-59C1-8520-6684B43730AB search/F389F696-041A-59C1-8520-6684B43730ABS E093FFE8-3893-5F44-B944-128363AFB4AE search/E093FFE8-3893-5F44-B944-128363AFB4AES 3FF1D6EF-66FE-5F64-A083-39CC1EC14426 search/3FF1D6EF-66FE-5F64-A083-39CC1EC14426S 6D251918-7600-5133-8B54-1955B8A73B68 search/6D251918-7600-5133-8B54-1955B8A73B68S 7FFABC5D-3747-5D4F-A3C5-958B227A5918 search/7FFABC5D-3747-5D4F-A3C5-958B227A5918S 3CDFFC8B-2410-5150-B5AB-16792BD8883F search/3CDFFC8B-2410-5150-B5AB-16792BD8883FS F1D486C8-C6A2-50C3-ACAD-5CA9C7F3B2AB search/F1D486C8-C6A2-50C3-ACAD-5CA9C7F3B2AB"
+    "excerpt": "rWas ist Staatsrecht? Wie viel darf Staatsrecht/die Politik? Was bedeutet Staatsrecht heute noch? Heute arbeiten wir sonst nicht mehr geschichtlich philosophisch: Rechtsdogmatisch nicht mehr historisch betrachten: Heutzutage RW nicht mehr wirklich historisch machen Gesetzgebungswisenschaft stellt er als Rechtswissenschaft dar in einer Entwicklungsgeschichte (früher sei das Staatsrecht reiner gewesen) Rechtswissenschaft erschliesst die Entwicklung vom Rechtsdenken in einer historischen und philosophischen Weise (Staatsrechtlehre ist nicht mit dabei) Erinnern an Lehensverfassung (sei reiner gewesen): Eine Lehensbeziehung zwischen Herrn und Vasall entsteht durch Treueid des Vasalls (es gibt Treueid und das Versprechen): Lehensbeziehung ist personal und wird begründet durch einen Gründungsakt Deshalb kann es sein, dass diesr personale Gründungsakt zwischen zwei Personen für ihn reiner ..."
   },
   {
     "title": "Text 3",
@@ -1938,22 +2012,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Text 3.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Text 3.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Text 3.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "6C7D701E-2DC8-5CBE-AC0F-17FEAF64AF49 search/6C7D701E-2DC8-5CBE-AC0F-17FEAF64AF49 84052806-505E-5A00-9B35-C0334F70D915 notes/84052806-505E-5A00-9B35-C0334F70D915R C2D696E8-E7A2-5001-81AD-DB00F4CE69B2 notes/C2D696E8-E7A2-5001-81AD-DB00F4CE69B2R E8407102-0832-54C0-B6A1-50CE754FC02A notes/E8407102-0832-54C0-B6A1-50CE754FC02AR E8BDFC96-590B-5CA0-B4B2-31939E84A084 notes/E8BDFC96-590B-5CA0-B4B2-31939E84A084R 5B8C64AB-5BDA-5A3C-BAF2-71F25ADF9431 notes/5B8C64AB-5BDA-5A3C-BAF2-71F25ADF9431R 72AD6A56-C311-530C-A4FB-151C97EB93C2 notes/72AD6A56-C311-530C-A4FB-151C97EB93C2R 752920FA-5AC7-54BF-AE77-149C5341650A notes/752920FA-5AC7-54BF-AE77-149C5341650AR 0AE438DB-2B1E-5BFA-B261-A91C521FA899 notes/0AE438DB-2B1E-5BFA-B261-A91C521FA899R C0927428-E538-5E0D-A857-5B099C7BDDD2 notes/C0927428-E538-5E0D-A857-5B099C7BDDD2R 2A00F352-39CF-5084-8243-5049AFBA12F4 notes/2A00F352-39CF-5084-8243-5049AFBA12F4R C3B8AE2C-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 3",
@@ -1961,14 +2036,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Zu Text 3.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Zu Text 3.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(3) Historische Rechtsschule, Germanistik und Pandektistik/Zu Text 3.pdf",
     "notes": 16,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "search"
-    ],
-    "excerpt": "BD364F61-D34F-5CCC-8CED-0979BC3D75B0 search/BD364F61-D34F-5CCC-8CED-0979BC3D75B0 C7F88BFC-2BDA-54A2-AD10-EF203CEAE02F search/C7F88BFC-2BDA-54A2-AD10-EF203CEAE02F 4214E001-DC61-5152-80CE-1ADFA2C4D2A1 notes/4214E001-DC61-5152-80CE-1ADFA2C4D2A1R 67C6E009-9AD9-535D-8EDD-35F837F84ED3 notes/67C6E009-9AD9-535D-8EDD-35F837F84ED3R 1B390E1A-BB2D-5271-87C2-329415975A8A notes/1B390E1A-BB2D-5271-87C2-329415975A8AR 5BFC22D5-BE19-5D6B-BB90-C29F347A1933 notes/5BFC22D5-BE19-5D6B-BB90-C29F347A1933R 6CFA361A-EA4D-5C32-92E0-49DE41B0B71E notes/6CFA361A-EA4D-5C32-92E0-49DE41B0B71ER B106CD40-44AD-582D-AFD7-68DF6C826DBA notes/B106CD40-44AD-582D-AFD7-68DF6C826DBAR C64B1ACB-2A95-53AB-BCA3-709BA847B39A notes/C64B1ACB-2A95-53AB-BCA3-709BA847B39AR 974783CE-683F-5E99-9D1B-648849040752 notes/974783CE-683F-5E99-9D1B-648849040752R 8B116E4C-6B91-5B7B-A37F-AF45CAD1E809 notes/8B116E4C-6B91-5B7B-A37F-AF45CAD1E809R 4489B59C-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "4",
@@ -1976,22 +2049,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/4.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/4.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/4.pdf",
     "notes": 14,
     "searchPages": 13,
     "attachments": 11,
     "keywords": [
-      "kodifikation",
-      "assessment",
-      "notes",
-      "seite",
-      "übungen",
-      "search",
+      "entstanden",
+      "epoche",
       "juristen",
-      "neuzeit",
-      "aussagen",
-      "könig"
+      "könig",
+      "schon",
+      "abdeckendes",
+      "alles",
+      "aufklärung",
+      "aufklärungsepoche",
+      "ausgelegt"
     ],
-    "excerpt": "61B926AC-0E04-5EEF-A7D9-25EA510486A8 search/61B926AC-0E04-5EEF-A7D9-25EA510486A8S F82AD602-035B-582C-A43B-D6658CF409BD search/F82AD602-035B-582C-A43B-D6658CF409BDS A73C0A33-40A0-581A-A5B6-AAB4E829C933 search/A73C0A33-40A0-581A-A5B6-AAB4E829C933S B579240E-9A45-527E-9C6D-1F020134D2EB search/B579240E-9A45-527E-9C6D-1F020134D2EBS B2C9F1AC-6B54-5C12-AE8F-3BF55185474E search/B2C9F1AC-6B54-5C12-AE8F-3BF55185474ES 21D5ADDE-B57C-5ABB-9999-44ED38C8CA77 search/21D5ADDE-B57C-5ABB-9999-44ED38C8CA77S 2246EDEA-B074-540E-83F7-049ABEAA3D10 search/2246EDEA-B074-540E-83F7-049ABEAA3D10S E34D3B20-1A8E-518E-85C0-312291C77CBA search/E34D3B20-1A8E-518E-85C0-312291C77CBAS D150F23F-706B-5DD4-A8C7-CC8D0D1F6771 search/D150F23F-706B-5DD4-A8C7-CC8D0D1F6771S 3E8620E1-BE71-5649-9B92-2EB97860EFFD search/3E8620E1-BE71-5649-9B92-2EB97860EFFDS C8BE115A-F5A4-54CB-BCDB-29519CDEB7FC search/C8BE115A-F5A4-54CB-BCDB-29519CDEB7FC"
+    "excerpt": "Wie ist die Idee Recht auszulegen entstanden? Juristen sind in einer Epoche entstanden, bevor es überall Gesetze gab: Juristen sind entstanden (Entstehung von Universitäten), in der wir hier und da Gesetzgebung hatten, aber kein umfassendes/abdeckendes Recht exestierte Schon im Mittelalter: Phänomen, dass Recht interpretiert und ausgelegt wird (lange Tradition) Dialektik, um übergreifende Regeln zu erfinden, die die verscheidenen inkohärenten Teile des corpus iuris koordinieren konnte sehr wahrscheinlich aus Epoche der Aufklärung Die Idee muss bestehen, dass der König auf alles zugreifen kann und Herrschaftsbereich umgestalten kann Das zeigt uns, dass wir in der späteren frühen Neuzeit sind, also schon in der Aufklärungsepoche (!) Es geht um Prozesse, die kontrolliert und modifiziert werden sollen Rolle der Rechtsgelehrten durch die Zeit Gewaltenteilung (König versuchte die ..."
   },
   {
     "title": "Text 4",
@@ -1999,22 +2073,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/Text 4.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/Text 4.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/Text 4.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "71ADC6A9-BF35-573C-AD0B-2D097F988E1A search/71ADC6A9-BF35-573C-AD0B-2D097F988E1A E65BE2CE-3247-50C9-A553-8CD4912BCFDA notes/E65BE2CE-3247-50C9-A553-8CD4912BCFDAR 7ACEFCD3-7AFC-52DC-99B1-E6DA1359A4C9 notes/7ACEFCD3-7AFC-52DC-99B1-E6DA1359A4C9R AA9F9B9A-90F0-5DCD-9347-1DA2A108FA26 notes/AA9F9B9A-90F0-5DCD-9347-1DA2A108FA26R 6E7D9257-E96A-51D6-B565-3127B1D3B907 notes/6E7D9257-E96A-51D6-B565-3127B1D3B907R BE93D1C0-CC2D-5EC9-BA97-98E1A2271ED5 notes/BE93D1C0-CC2D-5EC9-BA97-98E1A2271ED5R 90CF1B4D-1017-52A7-9B89-70B6B80DA914 notes/90CF1B4D-1017-52A7-9B89-70B6B80DA914R 11B967D3-DED2-5E45-8E3F-AFEE8F33F2F5 notes/11B967D3-DED2-5E45-8E3F-AFEE8F33F2F5R 1AFBFFFC-C0A1-522E-8D16-816C6E40CC18 notes/1AFBFFFC-C0A1-522E-8D16-816C6E40CC18R 4198C5D3-6E8C-5546-9880-3F9A2A63C4F9 notes/4198C5D3-6E8C-5546-9880-3F9A2A63C4F9R B9BAE474-1E25-5384-B11B-F30866DE2D37 notes/B9BAE474-1E25-5384-B11B-F30866DE2D37R 8BF47E1E-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 4",
@@ -2022,15 +2097,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/Zu Text 4.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/Zu Text 4.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(4) Naturrecht, Vernunftrecht und Kodifikation/Zu Text 4.pdf",
     "notes": 14,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "deacf",
-      "search"
-    ],
-    "excerpt": "FE4385C9-6869-57B7-A45D-B5ECD31F4331 search/FE4385C9-6869-57B7-A45D-B5ECD31F4331 D68ED37B-5A91-597E-A3ED-D340F121DE0E search/D68ED37B-5A91-597E-A3ED-D340F121DE0E BD22E758-6E21-5DAF-A7A4-3274A12959E4 notes/BD22E758-6E21-5DAF-A7A4-3274A12959E4R D78F649C-0197-54DD-B56C-E8FAC24807CA notes/D78F649C-0197-54DD-B56C-E8FAC24807CAR 8F473EA1-C67D-5CB4-A980-B0E17D9E5C2D notes/8F473EA1-C67D-5CB4-A980-B0E17D9E5C2DR 4BF24315-9F47-5C55-A443-E9AB05D24EF7 notes/4BF24315-9F47-5C55-A443-E9AB05D24EF7R F8BC6AAF-0E82-5946-8E3B-224673EE4C0C notes/F8BC6AAF-0E82-5946-8E3B-224673EE4C0CR 0F3828F8-DFE7-5E58-888F-55BCB36C6021 notes/0F3828F8-DFE7-5E58-888F-55BCB36C6021R 8AE0487B-6F01-54EA-8AAF-429FDC8CC664 notes/8AE0487B-6F01-54EA-8AAF-429FDC8CC664R F7031F34-C078-5BB0-8FA4-BB505AFC3116 notes/F7031F34-C078-5BB0-8FA4-BB505AFC3116R B425585C-C375-5758-AC6C-1DEACF93A4EF notes/B425585C-C375-5758-AC6C-1DEACF93A4EFR 0425B35C-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "5",
@@ -2038,22 +2110,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(5) Verhältnis Gesellschaftsvertrag, Naturrecht und Absolutismus/5.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(5) Verhältnis Gesellschaftsvertrag, Naturrecht und Absolutismus/5.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(5) Verhältnis Gesellschaftsvertrag, Naturrecht und Absolutismus/5.pdf",
     "notes": 16,
     "searchPages": 17,
     "attachments": 4,
     "keywords": [
-      "herrschaft",
-      "assessment",
-      "search",
-      "notes",
-      "seite",
-      "übungen",
-      "herrscher",
+      "absolute",
       "absolutismus",
-      "naturzustand",
-      "sachliche"
+      "monarchie",
+      "phänomen",
+      "argument",
+      "aufgeworfen",
+      "ausbreitung",
+      "ausdeklination",
+      "ausgeprägt",
+      "aussage"
     ],
-    "excerpt": "C4E8CC47-1623-5147-8B86-8CC699478B56 search/C4E8CC47-1623-5147-8B86-8CC699478B56S D372E81E-2A23-563E-88DF-B6C2946EBE8A search/D372E81E-2A23-563E-88DF-B6C2946EBE8AS 2EB2DFEE-FECE-5C04-8CF0-EB191E30C9A6 search/2EB2DFEE-FECE-5C04-8CF0-EB191E30C9A6S 2EEA5C35-9CD4-57C4-9F62-6D9B847D129B search/2EEA5C35-9CD4-57C4-9F62-6D9B847D129BS 119A1B25-E332-50EC-AF7F-F8248BA8F8AC search/119A1B25-E332-50EC-AF7F-F8248BA8F8ACS 684F2AE1-1061-5939-B60F-C0FF5EEBB771 search/684F2AE1-1061-5939-B60F-C0FF5EEBB771S 140AF8D5-697D-585E-A5F5-FE9AF0476A05 search/140AF8D5-697D-585E-A5F5-FE9AF0476A05S 8F074509-B40B-595D-A01F-FD7FCC044760 search/8F074509-B40B-595D-A01F-FD7FCC044760S 31E3A964-FC0C-50C3-A9CB-1CE4AAB29B2A search/31E3A964-FC0C-50C3-A9CB-1CE4AAB29B2AS E47342DA-7952-52DD-98E5-716B749204DB search/E47342DA-7952-52DD-98E5-716B749204DBS 44A39798-3E0B-5399-939F-21395BFA313E search/44A39798-3E0B-5399-939F-21395BFA313E"
+    "excerpt": "In der Wirklichikeit der frühen Neuzeit haben wir die Ausbreitung des Absolutismus in vielen Regionen Europas Stehendes Heer, professionalisierte Verwaltung, Adel teil des Königs Wirtschaft wird vom Merkantilismus staatlich gelenkt Polizeiordnungen: ganz umfassendes Phänomen Leben regeln Dann modernes Phänomen der Kodifikaiton: Ausdeklination all dieser Strukturen in die Gesetzgebung hinein cNächste sachliche Aussage: Wie sehen Herrschaftspraxen und Herrschaftsmodelle des Absolutismus aus lAbsolute Monarchie wird explizit aufgeworfen: Monarch handelt ungebunden: Ist aus Sicht des Autors ein Minus nRechtsschutz hat es nicht: Das ist das Argument, weshalb die absolute Monarchie noch immer im Naturzustand sei Wie kann man legitimieren, dass es absolute Monarchien gebe? Autor delegitimiert diese! Welche Lehre hätte das denn legitimiert? Wie hat sich das in der Herrschaftspraxis ausgeprägt? ..."
   },
   {
     "title": "Text 5",
@@ -2061,22 +2134,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(5) Verhältnis Gesellschaftsvertrag, Naturrecht und Absolutismus/Text 5.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(5) Verhältnis Gesellschaftsvertrag, Naturrecht und Absolutismus/Text 5.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(5) Verhältnis Gesellschaftsvertrag, Naturrecht und Absolutismus/Text 5.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "D7319016-0F93-5F26-A4D2-0BBD051D6C48 search/D7319016-0F93-5F26-A4D2-0BBD051D6C48 42768617-9314-5345-A8A6-8F9464D3FE90 notes/42768617-9314-5345-A8A6-8F9464D3FE90R C2B36234-8D5B-5286-A246-0BB5C4A2045B notes/C2B36234-8D5B-5286-A246-0BB5C4A2045BR 17020B95-46A6-53E7-AF73-20082615AB13 notes/17020B95-46A6-53E7-AF73-20082615AB13R 953D5BF4-62A9-587D-AA1A-FFA98C421A12 notes/953D5BF4-62A9-587D-AA1A-FFA98C421A12R 9096F53D-1AC1-5640-82F2-2E9C842DDB00 notes/9096F53D-1AC1-5640-82F2-2E9C842DDB00R B721B79A-5729-539A-922D-8103D28A1E9E notes/B721B79A-5729-539A-922D-8103D28A1E9ER 0E7B8028-70C7-5231-9C88-028AE55E7174 notes/0E7B8028-70C7-5231-9C88-028AE55E7174R E1B027F1-62A0-5349-8FD9-89C29F4087A2 notes/E1B027F1-62A0-5349-8FD9-89C29F4087A2R D4548E18-DCB5-5F59-8715-75A6D926F689 notes/D4548E18-DCB5-5F59-8715-75A6D926F689R 23079562-C7AE-522F-B67F-F4228F00B2C3 notes/23079562-C7AE-522F-B67F-F4228F00B2C3R BDEE5EFD-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "6",
@@ -2084,22 +2158,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(6) Gute Polizei/6.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(6) Gute Polizei/6.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(6) Gute Polizei/6.pdf",
     "notes": 16,
     "searchPages": 15,
     "attachments": 3,
     "keywords": [
-      "gerichtsbarkeit",
-      "assessment",
+      "obrigkeit",
+      "policeyordnungen",
       "reich",
-      "notes",
-      "übungen",
-      "search",
-      "seite",
-      "aussagen",
-      "reichsebene",
-      "sachliche"
+      "typisch",
+      "alltag",
+      "alltagsleben",
+      "anderen",
+      "androhung",
+      "anordnung",
+      "auszug"
     ],
-    "excerpt": "E25D305A-757D-5767-965C-F52D52928248 search/E25D305A-757D-5767-965C-F52D52928248S 98DB227A-7AAE-580D-BC20-E9EE4A989CB6 search/98DB227A-7AAE-580D-BC20-E9EE4A989CB6S FDF3E25F-95A6-56A9-ADFD-0FE6218D7EC3 search/FDF3E25F-95A6-56A9-ADFD-0FE6218D7EC3S 21F40509-685F-5999-8E68-79651F84B8B1 search/21F40509-685F-5999-8E68-79651F84B8B1S 58D453A6-21DE-5B79-A8FE-A13F1CE732C3 search/58D453A6-21DE-5B79-A8FE-A13F1CE732C3S B7373EFD-B29B-5835-8981-437129F961FC search/B7373EFD-B29B-5835-8981-437129F961FCS 828C4C95-EA7F-5AC5-A377-59EA564D2779 search/828C4C95-EA7F-5AC5-A377-59EA564D2779S 69BDCDA8-C20C-5114-A60A-52BB7CC00684 search/69BDCDA8-C20C-5114-A60A-52BB7CC00684S 000E3E53-1364-5DC8-897F-387DF26193D8 search/000E3E53-1364-5DC8-897F-387DF26193D8S 1B49DE71-8262-5AB9-96C0-43E5476C329B search/1B49DE71-8262-5AB9-96C0-43E5476C329BS D61AD4A6-1F40-5F69-9296-8CC9EF62BC1D search/D61AD4A6-1F40-5F69-9296-8CC9EF62BC1D"
+    "excerpt": "In das Alltagsleben hineinregelnde Ordnungen, die den ganzen Wirtschaftsbereich mit erfasst haben Zeittypisch für das 16. Jh. / typisch für die frühe Neuzeit, insebsondere nach der Reformation Nennt man typisch Kirchenordnung (in anderen Regionen Europas hiess es Policeyordnungen Als Typus der Regulierung von Alltag, Wirtschaft und Öffentlichkeit zum Wohle der Untertanen Verschmelzung von Kirche und Obrigkeit zusammengezogen Gesellschaftsordnung durch Policeyordnungen in der Reformationsepoche Auszug aus einem Regelwerk mit mindestens fünf Paragraphen in deutscher Sprache Feststellung der Minderqualität von Wüllen Tücher Anordnung für das Heil. Reich Teutscher Nation zum Verkauf von Tüchern unter Androhung der Straff der Obrigkeit des Verkaufsortes Unterlassen der Bestrafens – Klagerecht eines jeden Vor der Gerichtsbarkeit des Tatorts Text bezieht sich auf das Heilige Römische Reich ..."
   },
   {
     "title": "Text 6",
@@ -2107,22 +2182,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(6) Gute Polizei/Text 6.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(6) Gute Polizei/Text 6.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(6) Gute Polizei/Text 6.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "DB1E296E-B6FD-5C32-BACB-459EE8931364 search/DB1E296E-B6FD-5C32-BACB-459EE8931364 87702860-8D4C-5AC7-BEF8-9E39DD71E096 notes/87702860-8D4C-5AC7-BEF8-9E39DD71E096R BB3AC792-3DDA-5C36-90DC-E88067ED8C2A notes/BB3AC792-3DDA-5C36-90DC-E88067ED8C2AR B96293CF-18DA-593C-886A-E66882A05550 notes/B96293CF-18DA-593C-886A-E66882A05550R 18651256-8249-58E7-8670-9626CF3273CE notes/18651256-8249-58E7-8670-9626CF3273CER 18DEFE08-E75C-5A79-B826-65F36962C557 notes/18DEFE08-E75C-5A79-B826-65F36962C557R 6BA63D61-20E2-59AA-930C-54B0E8497108 notes/6BA63D61-20E2-59AA-930C-54B0E8497108R 0FD2E00E-A76C-5DAF-9725-70F104E0B869 notes/0FD2E00E-A76C-5DAF-9725-70F104E0B869R 83E60068-D73A-5631-8979-A0BDC2E59DEE notes/83E60068-D73A-5631-8979-A0BDC2E59DEER 57DEDEA7-C2E4-5DD3-BB4D-96736992983C notes/57DEDEA7-C2E4-5DD3-BB4D-96736992983CR F4F2CA49-C333-5930-BADB-269738910CF0 notes/F4F2CA49-C333-5930-BADB-269738910CF0R 599201D9-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 6",
@@ -2130,14 +2206,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(6) Gute Polizei/Zu Text 6.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(6) Gute Polizei/Zu Text 6.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(6) Gute Polizei/Zu Text 6.pdf",
     "notes": 4,
     "searchPages": 1,
     "attachments": 1,
-    "keywords": [
-      "notes",
-      "search"
-    ],
-    "excerpt": "C83603C2-4BB2-52D7-A018-D016D53EB43F search/C83603C2-4BB2-52D7-A018-D016D53EB43F E899FACA-06FC-595B-B22C-3EA2494D09C2 notes/E899FACA-06FC-595B-B22C-3EA2494D09C2R ABA3B1C0-086A-5B0B-A0CC-6111FC8CF4E9 notes/ABA3B1C0-086A-5B0B-A0CC-6111FC8CF4E9R B3C731FE-125E-5CD0-ACF1-13E754B766E3 notes/B3C731FE-125E-5CD0-ACF1-13E754B766E3R E472CD49-ED44-5B68-9577-C9934CA49DEC notes/E472CD49-ED44-5B68-9577-C9934CA49DEC"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "7",
@@ -2145,22 +2219,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(7) Humanismus und Rechtswissenschaft/7.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(7) Humanismus und Rechtswissenschaft/7.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(7) Humanismus und Rechtswissenschaft/7.pdf",
     "notes": 15,
     "searchPages": 15,
     "attachments": 2,
     "keywords": [
       "römischen",
-      "assessment",
-      "aussagen",
-      "notes",
-      "römisches",
-      "search",
-      "übungen",
-      "sachliche",
-      "seite",
-      "autorität"
+      "bedeutung",
+      "beschreibung",
+      "hinweis",
+      "juristen",
+      "konstitutionen",
+      "texte",
+      "andere",
+      "anwendung",
+      "ausführliche"
     ],
-    "excerpt": "45AEC145-456E-5D1F-A048-C48BB8B74EB7 search/45AEC145-456E-5D1F-A048-C48BB8B74EB7S 096FC0BE-7F54-5A14-A354-1AD7DCDBFC94 search/096FC0BE-7F54-5A14-A354-1AD7DCDBFC94S 15245FBC-3366-59B6-A32C-16377BB50F4F search/15245FBC-3366-59B6-A32C-16377BB50F4FS BD6441B7-9091-5705-A319-DA1C5B854310 search/BD6441B7-9091-5705-A319-DA1C5B854310S A10A7E6D-D11C-517E-9FD2-FDC7D3158811 search/A10A7E6D-D11C-517E-9FD2-FDC7D3158811S ADEC8A96-49D6-5F35-B4BE-AA82E4796A87 search/ADEC8A96-49D6-5F35-B4BE-AA82E4796A87S 4F2A32FC-60B1-552F-B154-B0BFB0211010 search/4F2A32FC-60B1-552F-B154-B0BFB0211010S E1142394-57F7-58BF-A365-6F0284E6CBF4 search/E1142394-57F7-58BF-A365-6F0284E6CBF4S 9749D2B7-522E-51CC-A897-903760C254F8 search/9749D2B7-522E-51CC-A897-903760C254F8S D222FBBA-4423-5305-BC4E-4428535E4173 search/D222FBBA-4423-5305-BC4E-4428535E4173S 9445B5A5-854A-56E9-8A19-123312CD9042 search/9445B5A5-854A-56E9-8A19-123312CD9042"
+    "excerpt": "Kurzer Text in lateinischer Sprache und deutscher Übersetzung ohne Binnengliederung Text nimmt Stellung zur Rechtspflege in einer nicht näher bezeichneten Epoche Dabei werden Gutachten der Juristen und Konstitutionen der Kaiser als unfehlbare Norm Diese Texte werden je nach Inhalt des Rechtsgeschäftes in der Anwendung erweitert oder Andere Normen werden nicht erlassen oder hinzugezogen Respons(a)e der Juristen/Konstitutionen/Justinian: Hinweis auf das römische Recht Ausführliche Beschreibung von Textbehandlung durch spätere Interpreten solcher Texte Verabsolutierung römischer Rechtstexte: Hinweis auf gesteigerte Bedeutung des römischen beginnende breite Rezeption des römischen Rechts und damit Zeit seit etwa 12 Zugleich aber auch eine wertende Beschreibung dieses Vorgehens: Variabler Umgang mit den Bedeutung des römischen Rechts für die Rechtskultur in Europa (insbesondere im ..."
   },
   {
     "title": "Text 7",
@@ -2168,22 +2243,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(7) Humanismus und Rechtswissenschaft/Text 7.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(7) Humanismus und Rechtswissenschaft/Text 7.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(7) Humanismus und Rechtswissenschaft/Text 7.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "327C5D6B-751E-505C-AD80-EF87839282F8 search/327C5D6B-751E-505C-AD80-EF87839282F8 4B7D66CC-B12F-550F-AC43-18843F1A0ED4 notes/4B7D66CC-B12F-550F-AC43-18843F1A0ED4R 2F563563-4A20-5354-9281-B9D5D8240EDE notes/2F563563-4A20-5354-9281-B9D5D8240EDER 9B63A37F-2217-5FB7-AFDD-A3D647F9E465 notes/9B63A37F-2217-5FB7-AFDD-A3D647F9E465R A7AC6EB2-42E8-52DD-B10A-692EE4F1BA76 notes/A7AC6EB2-42E8-52DD-B10A-692EE4F1BA76R 0A44A94A-B9B1-5C6B-8C4F-FD83FC6119AF notes/0A44A94A-B9B1-5C6B-8C4F-FD83FC6119AFR 6D6B998E-4F20-5350-88D5-3E7552AC9B0F notes/6D6B998E-4F20-5350-88D5-3E7552AC9B0FR BF2C0C7C-AB57-5876-B882-8FFCBAFFB79C notes/BF2C0C7C-AB57-5876-B882-8FFCBAFFB79CR D7A7B916-D0D6-55DA-BC8C-2060B67706FF notes/D7A7B916-D0D6-55DA-BC8C-2060B67706FFR 60C8FBCD-5862-5803-B27A-A7746833324A notes/60C8FBCD-5862-5803-B27A-A7746833324AR EFCA09D4-0D9E-5888-B956-4323FB0977EA notes/EFCA09D4-0D9E-5888-B956-4323FB0977EAR 4172D2E4-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 7",
@@ -2191,15 +2267,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(7) Humanismus und Rechtswissenschaft/Zu Text 7.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(7) Humanismus und Rechtswissenschaft/Zu Text 7.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(7) Humanismus und Rechtswissenschaft/Zu Text 7.pdf",
     "notes": 12,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "fbdce",
-      "search"
-    ],
-    "excerpt": "0603CD97-6268-56F4-877E-F9B09A8E82F6 search/0603CD97-6268-56F4-877E-F9B09A8E82F6 CDF373B1-0BE0-593A-A7AC-7EC0AE211B7D search/CDF373B1-0BE0-593A-A7AC-7EC0AE211B7D 7792A437-2FB4-5652-8757-85C095B5491A notes/7792A437-2FB4-5652-8757-85C095B5491AR 52EDA26E-7422-5150-8B87-532EA3635A6C notes/52EDA26E-7422-5150-8B87-532EA3635A6CR 2EBEF9B6-8049-5582-8462-9DCFE4F13BD9 notes/2EBEF9B6-8049-5582-8462-9DCFE4F13BD9R 6BC78A51-91E7-5F74-8667-729E555238BA notes/6BC78A51-91E7-5F74-8667-729E555238BAR 9ADC0AD3-2A0F-5930-83D9-C3C4F73AC5F2 notes/9ADC0AD3-2A0F-5930-83D9-C3C4F73AC5F2R 2FD73887-C165-5291-AC79-0308B99D4DA8 notes/2FD73887-C165-5291-AC79-0308B99D4DA8R F42C6D0C-03FE-503D-8E82-DC6079A7B773 notes/F42C6D0C-03FE-503D-8E82-DC6079A7B773R DA319CCE-7008-5D2F-9001-F1D417783309 notes/DA319CCE-7008-5D2F-9001-F1D417783309R CE9AE437-DCBA-5B15-BD5B-F48F9760C02D notes/CE9AE437-DCBA-5B15-BD5B-F48F9760C02DR 976AAD35-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "8",
@@ -2207,22 +2280,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(8) Stadt- und Wirtschaftsrecht/8.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(8) Stadt- und Wirtschaftsrecht/8.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(8) Stadt- und Wirtschaftsrecht/8.pdf",
     "notes": 16,
     "searchPages": 14,
     "attachments": 9,
     "keywords": [
-      "notes",
-      "search",
-      "stadt",
-      "asssessment",
-      "seite",
-      "übungen",
-      "zünfte",
+      "immer",
       "stadtherrn",
-      "stadtrecht",
-      "aussagen"
+      "bürger",
+      "mitwirkung",
+      "abgabepflichten",
+      "abgesandten",
+      "abgeschafft",
+      "autonome",
+      "bbischof",
+      "bestätigt"
     ],
-    "excerpt": "63877783-684E-58C0-AAC4-2930A14E6CB2 search/63877783-684E-58C0-AAC4-2930A14E6CB2S 1FD48CA9-22F8-5B0C-B1B2-07824495BB6F search/1FD48CA9-22F8-5B0C-B1B2-07824495BB6FS 2D7C3156-B177-5481-9D06-3A0E9FE5D818 search/2D7C3156-B177-5481-9D06-3A0E9FE5D818S 41F8E9B3-A4D3-597E-8214-06342FABFAEE search/41F8E9B3-A4D3-597E-8214-06342FABFAEES 63144523-D965-5FC6-9AE9-2D51E59F9941 search/63144523-D965-5FC6-9AE9-2D51E59F9941S 3F2B0137-03A7-5CD9-A4C9-D15E37E1E30F search/3F2B0137-03A7-5CD9-A4C9-D15E37E1E30FS 29FC9B94-CF0A-5B27-8297-636F4C4B63BF search/29FC9B94-CF0A-5B27-8297-636F4C4B63BFS 8BED69B5-1B2C-59F8-8EB9-1C0EFAB46538 search/8BED69B5-1B2C-59F8-8EB9-1C0EFAB46538S 2CFDDEB5-B4F7-52A7-B7A9-39A508FCC905 search/2CFDDEB5-B4F7-52A7-B7A9-39A508FCC905S 98E8E29A-C31A-5AA6-BDDC-2093B880C47C search/98E8E29A-C31A-5AA6-BDDC-2093B880C47CS EF331948-FC5F-5290-9999-0C53AA6F9C79 search/EF331948-FC5F-5290-9999-0C53AA6F9C79"
+    "excerpt": "BBischof als noch Normgeber, ist also nicht irrelevant/abgeschafft! Norm entstand durch die Zunft, wird aber noch bestätigt Hier Spannung zwischen Selbstorganisation und Fremdbestimmung Bei uns hier haben wir aus Freiburg DE und CH vom selben Stadtherrn Immer mehr Städte erhielten mehr Selbständigkeit und bildeten autonome Herrschaftsstrukturen aus Rat und Bürgermeister als Vertreter (damals nur Patriziat, reiche Bürger) Lenkung der Stadt durch einen Repräsentanten des Patriziats und nicht durch einen Abgesandten des Stadtherrn! Herrschaftsrechte des Vogtes/Stadtherrn fallen immer mehr weg Immer mehr Mitwirkung der Bürgerschaft (keine Demokratie wie heute, nicht Egalität, sondern Bürgertum selbsts steuern) Das bildet sich ab in der Art und Weise wie Stadtrecht verändert wurde Zuvor top-down vom Stadtherrn und Abgabepflichten Immer mehr Mitwirkung des Bürgertums: Eidleistung der Bürger ..."
   },
   {
     "title": "Text 8",
@@ -2230,22 +2304,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(8) Stadt- und Wirtschaftsrecht/Text 8.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(8) Stadt- und Wirtschaftsrecht/Text 8.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(8) Stadt- und Wirtschaftsrecht/Text 8.pdf",
     "notes": 36,
     "searchPages": 2,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "E57F41D2-0A34-5C18-B8C0-5F89685BEF18 search/E57F41D2-0A34-5C18-B8C0-5F89685BEF18U BB542894-D6B1-50BF-802B-C2D1FDB0D067 search/BB542894-D6B1-50BF-802B-C2D1FDB0D067 318BDD84-A03A-5B84-BD92-4A79A2FAE980 notes/318BDD84-A03A-5B84-BD92-4A79A2FAE980R 42CE0F62-732F-57D1-BE67-10BA1E3E8578 notes/42CE0F62-732F-57D1-BE67-10BA1E3E8578R A28434C6-C2EC-580D-836A-BD8A6F91003E notes/A28434C6-C2EC-580D-836A-BD8A6F91003ER 98D8941E-94C0-57C6-8CF3-67B70C83E969 notes/98D8941E-94C0-57C6-8CF3-67B70C83E969R 633D5569-4B57-57E1-BC4F-199D936DD4D3 notes/633D5569-4B57-57E1-BC4F-199D936DD4D3R A6AB6042-9FC0-5BBA-A278-60C99BB18162 notes/A6AB6042-9FC0-5BBA-A278-60C99BB18162R 262D6844-E222-5AE2-B40F-C21FC9801561 notes/262D6844-E222-5AE2-B40F-C21FC9801561R 9F0FB994-E3B3-5094-8547-87FC5E54F7A7 notes/9F0FB994-E3B3-5094-8547-87FC5E54F7A7R D680814A-E046-5BA2-AFB1-17AFF73EABB0 notes/D680814A-E046-5BA2-AFB1-17AFF73EABB0R 99763C07"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 8",
@@ -2253,15 +2328,12 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(8) Stadt- und Wirtschaftsrecht/Zu Text 8.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(8) Stadt- und Wirtschaftsrecht/Zu Text 8.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(8) Stadt- und Wirtschaftsrecht/Zu Text 8.pdf",
     "notes": 12,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "bdfdf",
-      "search"
-    ],
-    "excerpt": "8B984118-FD76-596D-860F-A1731210610E search/8B984118-FD76-596D-860F-A1731210610E 7997C847-3E6F-520F-A0A7-767E198D23E9 search/7997C847-3E6F-520F-A0A7-767E198D23E9 71F18A20-682A-5522-887F-5285C4AD68A2 notes/71F18A20-682A-5522-887F-5285C4AD68A2R 9F90D542-5602-5C0B-8CEA-F9B7E8A74596 notes/9F90D542-5602-5C0B-8CEA-F9B7E8A74596R 1B703019-FE0F-58AF-8D37-5F206DBA0A9A notes/1B703019-FE0F-58AF-8D37-5F206DBA0A9AR B837BCA3-B903-51BE-9B64-BF1F0914457B notes/B837BCA3-B903-51BE-9B64-BF1F0914457BR C08840A1-06CC-50AA-BBD2-395DCDA1089E notes/C08840A1-06CC-50AA-BBD2-395DCDA1089ER 16353DB3-AB9D-5E3B-B666-B73237BDFDF7 notes/16353DB3-AB9D-5E3B-B666-B73237BDFDF7R AA35AE92-F0A8-5D8C-890B-E633FC727B44 notes/AA35AE92-F0A8-5D8C-890B-E633FC727B44R 53A0FEF7-47F8-5B8F-8F96-E219B72263F4 notes/53A0FEF7-47F8-5B8F-8F96-E219B72263F4R 5E8B73E7-2A3F-514B-A2A0-64B8F44A80A3 notes/5E8B73E7-2A3F-514B-A2A0-64B8F44A80A3R DA572E1E-"
+    "keywords": [],
+    "excerpt": ""
   },
   {
     "title": "9",
@@ -2269,22 +2341,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/9.goodnotes",
     "category": "Stoff",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/9.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/9.pdf",
     "notes": 16,
     "searchPages": 1,
     "attachments": 3,
     "keywords": [
-      "asssessment",
-      "notes",
-      "übungen",
-      "seite",
-      "lehnrecht",
-      "aussagen",
-      "sachliche",
-      "herrschaftsordnung",
+      "fürsten",
+      "herzogtum",
+      "lehen",
+      "reiches",
+      "beistand",
+      "eygen",
+      "hinweis",
       "kaiser",
-      "lehen"
+      "umwandlung",
+      "zustimmung"
     ],
-    "excerpt": "767B3C06-FAEB-5257-810A-AA2393DE6ECA search/767B3C06-FAEB-5257-810A-AA2393DE6ECA E6627C80-1767-58E8-B743-ABC90EFF8C2B notes/E6627C80-1767-58E8-B743-ABC90EFF8C2BR 310D3507-7569-54F6-B89A-E8F1F6E35813 notes/310D3507-7569-54F6-B89A-E8F1F6E35813R B1C19302-AC3B-58AA-A88B-9CEAF995AE52 notes/B1C19302-AC3B-58AA-A88B-9CEAF995AE52R 0C62C598-2EFE-58CD-B754-94BEBAA37DD0 notes/0C62C598-2EFE-58CD-B754-94BEBAA37DD0R C86DD732-CB5C-5FD5-BD3D-337E31C61AE9 notes/C86DD732-CB5C-5FD5-BD3D-337E31C61AE9R 62A2904F-7A09-513F-B20D-A382A729ABBD notes/62A2904F-7A09-513F-B20D-A382A729ABBDR 8915A9B4-B9C8-5BA2-A4BE-AB92B7896078 notes/8915A9B4-B9C8-5BA2-A4BE-AB92B7896078R F08F1DC5-FA11-597E-B472-3C47372C3679 notes/F08F1DC5-FA11-597E-B472-3C47372C3679R 0C6D5B7C-F9CA-50DA-8101-F1F75477BF68 notes/0C6D5B7C-F9CA-50DA-8101-F1F75477BF68R 8ED4DA2C-AA22-5110-A005-217EC81A7BCF notes/8ED4DA2C-AA22-5110-A005-217EC81A7BCFR A48670ED-"
+    "excerpt": "Auszug aus einem längeren lateinischen Text König von Jerusalem und Sizilien als Aussteller Dokumentation einer Lehnsvergabe für die gegenwärtige Zeit und die künftige Nachwelt Übergang der Besitzungen Ottos auf den Kaiser Umwandlung in ein Herzogtum durch den Kaiser Herzogtum als Lehen des Reiches an Otto Mit Rat, Zustimmung und Beistand der Fürsten Fahnen belehnt: Hinweis auf lehensrechtlichen Beleihungsakt Lehen des Reiches, Fürsten: Hinweis auf Bezug zum Reichsfürstenstand Treueid: Bedeutung des Eides als Grundlage von verrechtlichten Beziehungen im Mittelalter Eigentum (vocatur Teutonico: Eygen): Präsenz von unterschiedlich ausgeformten Übergabe von Eygen und Neubelehnung mit Herzogtum Frage nach dem Sinn dieses Vorgangs Entscheidend: Umwandlung in ein Lehen des Reiches Starke Betonung von Rat, Zustimmung und Beistand der Fürsten – Hoftag als Forum des Funktionsformen des ..."
   },
   {
     "title": "Text 9",
@@ -2292,22 +2365,23 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/Text 9.goodnotes",
     "category": "Quellentext",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/Text 9.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/Text 9.pdf",
     "notes": 36,
     "searchPages": 1,
     "attachments": 1,
     "keywords": [
-      "berlin",
-      "online",
-      "notes",
-      "hrgdigital",
-      "netzwerk",
-      "münchen",
-      "deutsche",
-      "literaturhinweise",
-      "thier",
-      "default"
+      "modul",
+      "andreas",
+      "basiswissens",
+      "besteht",
+      "deswegen",
+      "dieanalyse",
+      "dienen",
+      "diesesrechtshistorischen",
+      "dieveranstaltung",
+      "entwicklungen"
     ],
-    "excerpt": "1D81B0EC-1044-5686-9859-9486CFABA6FF search/1D81B0EC-1044-5686-9859-9486CFABA6FF 87F0B5CF-8A28-57DB-A7B4-77AA431260A4 notes/87F0B5CF-8A28-57DB-A7B4-77AA431260A4R 39792EE0-7506-5108-90A2-AF56E94FECE8 notes/39792EE0-7506-5108-90A2-AF56E94FECE8R 7ECD6DF3-9424-51E0-B0ED-F56B59003A2E notes/7ECD6DF3-9424-51E0-B0ED-F56B59003A2ER 405A82DB-F5A6-52C9-9CF2-005F9D1136A0 notes/405A82DB-F5A6-52C9-9CF2-005F9D1136A0R F2C0AC80-1965-5607-985B-94E259FDE88D notes/F2C0AC80-1965-5607-985B-94E259FDE88DR 1849C156-412D-5451-A70E-2340B11CC8A9 notes/1849C156-412D-5451-A70E-2340B11CC8A9R 23FEF100-8F01-5A8D-9E65-D4F7235D74CA notes/23FEF100-8F01-5A8D-9E65-D4F7235D74CAR 3F88590B-7518-525D-98EC-55E1C54C544B notes/3F88590B-7518-525D-98EC-55E1C54C544BR 9AE74467-C2C2-50FC-BE6B-73796D7E9ADA notes/9AE74467-C2C2-50FC-BE6B-73796D7E9ADAR 6994296D-7A76-584E-A056-CB46AB3465E9 notes/6994296D-7A76-584E-A056-CB46AB3465E9R B1C52A39-"
+    "excerpt": "nÜbungen zur RechtsgeschichteFrühjahrssemester 2025Prof. Dr. Andreas Thier, M. A.Prof. Dr. Johannes Liebrecht Frühjahrssemester 20251 Hinweise zum Modul RechtsgeschichteDie Rechtsordnungen der Gegenwart sind das Ergebnis von teilweise langgestrecktenhistorischen Entwicklungen. Schon deswegen sind rechtshistorische Grundkenntnissefür das Verständnis des geltenden Rechts unverzichtbar. Die Vermittlung diesesrechtshistorischen Basiswissens ist das wichtigste Ziel der Vorlesung. DieVeranstaltung soll auch dazu dienen, die Teilnehmerinnen und Teilnehmer an dieAnalyse rechtshistorischer Texte heranzuführen. Auf diese Weise soll die Fähigkeitgeschult werden, die Wechselbeziehungen zwischen Normbildungen, Rechtsdenkenund den je wechselnden historischen Umfeldern zu erkennen.Das Modul Rechtsgeschichte besteht aus der Vorlesung Rechtsgeschichte imHerbstsemester und wird ergänzt durch die Übungen ..."
   },
   {
     "title": "Zu Text 9",
@@ -2315,13 +2389,11 @@ window.dropboxMaterials = [
     "path": "(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/Zu Text 9.goodnotes",
     "category": "Lösung/Kommentar",
     "file": "assets/source/rechtsgeschichte-1/(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/Zu Text 9.goodnotes",
+    "viewFile": "assets/source/pdf-extracts/(2) Übungen/(9) Lehenswesen als Instrument der Herrschaftsorganisation/Zu Text 9.pdf",
     "notes": 11,
     "searchPages": 2,
     "attachments": 2,
-    "keywords": [
-      "notes",
-      "search"
-    ],
-    "excerpt": "1059FDAF-CB33-5B01-80CA-4E751817A636 search/1059FDAF-CB33-5B01-80CA-4E751817A636 83B32EE2-395F-516D-B15C-8890F24D76A4 search/83B32EE2-395F-516D-B15C-8890F24D76A4 73E1F033-E8CC-5990-8FD4-0F4583FE8FF3 notes/73E1F033-E8CC-5990-8FD4-0F4583FE8FF3R 4992D018-AD96-5B47-9AE0-279808C55B2C notes/4992D018-AD96-5B47-9AE0-279808C55B2CR 27915E28-514F-5BA6-B9AF-106B20E020DD notes/27915E28-514F-5BA6-B9AF-106B20E020DDR B1369B66-CCB2-55B5-9688-2C1ACAB04FA8 notes/B1369B66-CCB2-55B5-9688-2C1ACAB04FA8R 91D4BE84-6035-555B-AEB5-F6CBA60223CF notes/91D4BE84-6035-555B-AEB5-F6CBA60223CFR AF8A6C41-34A2-5F08-BD0A-493820BF0286 notes/AF8A6C41-34A2-5F08-BD0A-493820BF0286R 8B6B0A3F-6D95-57B3-90FF-826A72303870 notes/8B6B0A3F-6D95-57B3-90FF-826A72303870R CD207134-4C55-5F10-9E7F-5AB91DE94A54 notes/CD207134-4C55-5F10-9E7F-5AB91DE94A54R DE681D5A-BACB-527E-9B5A-A77FD0982044 notes/DE681D5A-BACB-527E-9B5A-A77FD0982044R E3D99F6E-"
+    "keywords": [],
+    "excerpt": ""
   }
 ];

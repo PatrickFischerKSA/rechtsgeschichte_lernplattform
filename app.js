@@ -542,11 +542,12 @@ function renderMnemonics() {
       <div class="memory-scene">${memorySvg(chapter.memory)}</div>
       <p class="eyebrow">${escapeHtml(chapter.period)}</p>
       <h3>${escapeHtml(chapter.title)}</h3>
-      <ol>
-        <li>${escapeHtml(chapter.memory)} zuerst vorstellen.</li>
-        <li>Daran drei Begriffe befestigen: ${chapter.essentials.slice(0, 3).map((item) => escapeHtml(item.split(" ").slice(0, 4).join(" "))).join(" · ")}.</li>
-        <li>Danach eine Prüfungsfrage formulieren: ${escapeHtml(chapter.exam)}</li>
-      </ol>
+      <div class="memory-hooks">
+        <span><b>Bild</b>${escapeHtml(chapter.memory)}</span>
+        <span><b>Problem</b>${escapeHtml(chapter.essentials[0])}</span>
+        <span><b>Rechtsform</b>${escapeHtml(chapter.essentials[1])}</span>
+        <span><b>Prüfung</b>${escapeHtml(chapter.exam)}</span>
+      </div>
     </article>
   `).join("");
 }
@@ -586,16 +587,15 @@ function renderMaterials() {
       <article class="material-card">
         <div class="material-meta">
           <span class="pill">${escapeHtml(item.category)}</span>
-          <span class="pill">${item.notes} Notizseiten</span>
-          <span class="pill">${item.attachments} Anhänge</span>
+          ${item.viewFile ? '<span class="pill">PDF-Ansicht</span>' : '<span class="pill">GoodNotes</span>'}
         </div>
         <h3>${escapeHtml(item.title)}</h3>
         <p class="material-folder">${escapeHtml(item.folder || "Root")}</p>
-        <details>
-          <summary>Auszug anzeigen</summary>
-          <p>${escapeHtml(item.excerpt || "Kein OCR-Auszug vorhanden, Quelldatei ist trotzdem vollständig eingebunden.")}</p>
-        </details>
-        <a class="button" href="${encodeURI(item.file)}">Quelldatei öffnen</a>
+        ${item.excerpt ? `<details><summary>Auszug anzeigen</summary><p>${escapeHtml(item.excerpt)}</p></details>` : '<p>Für dieses Material ist keine zuverlässige Textvorschau verfügbar. Die Datei ist dennoch vollständig eingebunden.</p>'}
+        <div class="material-actions">
+          ${item.viewFile ? `<a class="button primary" href="${encodeURI(item.viewFile)}">PDF ansehen</a>` : ""}
+          <a class="button subtle" href="${encodeURI(item.file)}" download>GoodNotes herunterladen</a>
+        </div>
         <div class="keyword-row">
           ${item.keywords.slice(0, 6).map((keyword) => `<span>${escapeHtml(keyword)}</span>`).join("")}
         </div>
@@ -662,8 +662,8 @@ function setupExam() {
     const item = importedSources[Number(sourceSelect.value)];
     const solution = materials.find((candidate) => candidate.title === item.title.replace("Text ", "Zu Text "));
     sourceText.textContent = item.excerpt || "Dieser Quellentext ist vollständig eingebunden. Öffne die Datei für die Arbeit am Original.";
-    sourceLink.href = item.file;
-    sourceLink.textContent = solution ? "Text öffnen; Lösung in Bibliothek" : "Quelle öffnen";
+    sourceLink.href = item.viewFile || item.file;
+    sourceLink.textContent = item.viewFile ? "PDF ansehen" : "GoodNotes herunterladen";
   });
 
   document.querySelectorAll("[data-exam-tab]").forEach((button) => {

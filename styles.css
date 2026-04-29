@@ -160,10 +160,76 @@ nav a,
   overflow: hidden;
 }
 
-.hero-panel img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.exam-map {
+  display: grid;
+  align-content: center;
+  gap: 18px;
+  padding: clamp(18px, 3vw, 34px);
+}
+
+.exam-map-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid var(--line);
+}
+
+.exam-map-head span {
+  color: var(--muted);
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.exam-map-head strong {
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+}
+
+.exam-map-flow {
+  display: grid;
+  gap: 12px;
+}
+
+.exam-map-flow article {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  padding: 13px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f8f7f2;
+}
+
+.exam-map-flow b {
+  display: grid;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--blue);
+  color: #fff;
+}
+
+.exam-map-flow h3 {
+  margin-bottom: 2px;
+  font-size: 1rem;
+}
+
+.exam-map-flow p {
+  margin-bottom: 0;
+  color: #3d4658;
+  font-size: 0.92rem;
+}
+
+.exam-map-flow span {
+  padding: 6px 9px;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--blue);
+  font-weight: 900;
+  white-space: nowrap;
 }
 
 .dashboard {
@@ -471,6 +537,16 @@ textarea {
   font-weight: 850;
 }
 
+.material-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.button.subtle {
+  background: #f8f7f2;
+}
+
 .split {
   display: grid;
   grid-template-columns: minmax(270px, 0.45fr) minmax(0, 1fr);
@@ -644,8 +720,23 @@ textarea {
   padding-left: 22px;
 }
 
-.mnemonic-card li + li {
-  margin-top: 6px;
+.memory-hooks {
+  display: grid;
+  gap: 8px;
+}
+
+.memory-hooks span {
+  display: grid;
+  gap: 2px;
+  padding: 10px;
+  border-left: 4px solid var(--blue);
+  background: #f8f7f2;
+}
+
+.memory-hooks b {
+  color: var(--blue);
+  font-size: 0.78rem;
+  text-transform: uppercase;
 }
 
 .training-ladder {
@@ -911,5 +1002,10 @@ footer {
 
   .hero-panel {
     min-height: 240px;
+  }
+
+  .exam-map-flow article,
+  .material-actions {
+    grid-template-columns: 1fr;
   }
 }
