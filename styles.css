@@ -120,11 +120,9 @@ nav a,
 }
 
 .hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1.05fr) minmax(330px, 0.95fr);
-  min-height: calc(100vh - 78px);
+  display: flex;
+  min-height: min(72vh, 720px);
   align-items: center;
-  gap: clamp(24px, 5vw, 70px);
   padding: clamp(40px, 7vw, 86px) clamp(18px, 5vw, 64px) 34px;
 }
 
@@ -148,88 +146,6 @@ nav a,
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-}
-
-.hero-panel {
-  align-self: stretch;
-  min-height: 360px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: #fff;
-  box-shadow: var(--shadow);
-  overflow: hidden;
-}
-
-.exam-map {
-  display: grid;
-  align-content: center;
-  gap: 18px;
-  padding: clamp(18px, 3vw, 34px);
-}
-
-.exam-map-head {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 14px;
-  padding-bottom: 14px;
-  border-bottom: 2px solid var(--line);
-}
-
-.exam-map-head span {
-  color: var(--muted);
-  font-weight: 850;
-  text-transform: uppercase;
-}
-
-.exam-map-head strong {
-  font-size: clamp(1.7rem, 3vw, 2.6rem);
-}
-
-.exam-map-flow {
-  display: grid;
-  gap: 12px;
-}
-
-.exam-map-flow article {
-  display: grid;
-  grid-template-columns: 42px minmax(0, 1fr) auto;
-  gap: 12px;
-  align-items: center;
-  padding: 13px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: #f8f7f2;
-}
-
-.exam-map-flow b {
-  display: grid;
-  width: 36px;
-  height: 36px;
-  place-items: center;
-  border-radius: 50%;
-  background: var(--blue);
-  color: #fff;
-}
-
-.exam-map-flow h3 {
-  margin-bottom: 2px;
-  font-size: 1rem;
-}
-
-.exam-map-flow p {
-  margin-bottom: 0;
-  color: #3d4658;
-  font-size: 0.92rem;
-}
-
-.exam-map-flow span {
-  padding: 6px 9px;
-  border-radius: 999px;
-  background: #fff;
-  color: var(--blue);
-  font-weight: 900;
-  white-space: nowrap;
 }
 
 .dashboard {
@@ -944,16 +860,11 @@ footer {
 }
 
 @media (max-width: 980px) {
-  .hero,
   .split,
   .learning-map,
   .chapter-grid,
   .exam-layout {
     grid-template-columns: 1fr;
-  }
-
-  .hero {
-    min-height: auto;
   }
 
   .module-grid,
@@ -1000,11 +911,6 @@ footer {
     grid-template-columns: 1fr;
   }
 
-  .hero-panel {
-    min-height: 240px;
-  }
-
-  .exam-map-flow article,
   .material-actions {
     grid-template-columns: 1fr;
   }
